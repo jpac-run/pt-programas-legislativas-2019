@@ -17,15 +17,15 @@ TO-DO:
 | LIVRE | [Link](https://partidolivre.pt/legislativas2019/programa) | Vasco P. | WIP |
 | Movimento Alternativa Socialista |  |  |  |
 | Nós, Cidadãos! |  |  |  |
-| Partido Cidadania e Democracia Cristã |  |  |  |
+| ~~Partido Cidadania e Democracia Cristã~~~ | NÃO SE CANDIDATA A ESTAS ELEIÇÕES EM NENHUM CÍRCULO ELEITORAL  |  |  |
 | Partido Comunista dos Trabalhadores Portugueses |  |  |  |
 | Partido Comunista Português | [Set. 2019](https://www.cdu.pt/2019/pdf/programa_eleitoral_pcp.pdf) | Diogo C.|  WIP|
 | Partido da Terra  | |  |  |
 | Partido Democrático Republicano |  |  |  |
 | Partido Ecologista "Os Verdes" | [Link](http://www.osverdes.pt/media/Legislativas_2019/12_compromissos_Legislativas2019_PEV.pdf)| Tiago S. | DONE   |
-| Partido Liberal Democrata  | |  | |
+| ~~Partido Liberal Democrata~~  | NÃO SE CANDIDATA A ESTAS ELEIÇÕES EM NENHUM CÍRCULO ELEITORAL |  | |
 | Partido Nacional Renovador |  |  |  |
-| Partido Operário de Unidade Socialista |  |  | |
+| ~~Partido Operário de Unidade Socialista~~ |  NÃO SE CANDIDATA A ESTAS ELEIÇÕES EM NENHUM CÍRCULO ELEITORAL |  | |
 | Partido Popular Monárquico | |  | |
 | Partido Social Democrata | [Link](https://app.box.com/s/x8mh7ycebkpityah14hj6awgue3v0e9j) | Nuno C. e Vasco P. | DONE |
 | Partido Socialista | [Link](https://www.ps.pt/programa-eleitoral-ps-legislativas2019.pdf) | Tiago S.    | DONE|
