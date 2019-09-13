@@ -17,7 +17,7 @@ TO-DO:
 | LIVRE | [Link](https://partidolivre.pt/legislativas2019/programa) | Vasco P. | WIP |
 | Movimento Alternativa Socialista |  |  |  |
 | Nós, Cidadãos! |  |  |  |
-| ~~Partido Cidadania e Democracia Cristã~~~ | NÃO SE CANDIDATA A ESTAS ELEIÇÕES EM NENHUM CÍRCULO ELEITORAL  |  |  |
+| ~~Partido Cidadania e Democracia Cristã~~ | NÃO SE CANDIDATA A ESTAS ELEIÇÕES EM NENHUM CÍRCULO ELEITORAL  |  |  |
 | Partido Comunista dos Trabalhadores Portugueses |  |  |  |
 | Partido Comunista Português | [Set. 2019](https://www.cdu.pt/2019/pdf/programa_eleitoral_pcp.pdf) | Diogo C.|  WIP|
 | Partido da Terra  | |  |  |
