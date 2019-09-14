@@ -1,5 +1,5 @@
 <!-- A utilização de <br/> em vez de uma linha nova tenta respeitar ao máximo a formatação original do documento. -->
-
+# **MATRIZ POLÍTICA DO CHEGA!**
 ## **I • UM PARTIDO LIBERAL E CONSERVADOR**
 
 Excertos de um texto publicado no Observador e da co-autoria de José Miguel Pinto dos Santos e André Alvim:
@@ -256,3 +256,525 @@ São as funções resultantes da necessidade da preservação do recurso escasso
 	b.  Transitoriamente e durante um período de adaptação – que deverá ser gradual mas rápido - a essa regra, o princípio geral a ser seguido pelo Estado deverá ser o de subsidiar o utilizador dos serviços, jamais a instituição que os presta (Escolas, Hospitais, Segurança Social....). Cheque-Educação, Cheque–Saúde, Cheque-Habitação serão a única forma de, desde logo, racionalizar os custos do Estado nesta área garantindo, em contrapartida, uma muito melhor qualidade e eficiência na prestação da globalidade desses serviços.
 
 Finalmente, como síntese: É sobre estes valores operacionais e estes princípios que relevam do puro bom senso que as políticas concretas se terão fundar. Com um mais elaborado ou menos elaborado percurso estratégico, mas sem perder de vista o objectivo final.
+
+<!-- 14 Setembro 2019 -->
+
+# **PROGRAMA DE ACÇÃO POLÍTICA**
+
+**I - FUNÇÕES AUTO-REGULADORAS E DE GESTÃO. O SISTEMA POLÍTICO**
+
+A primeira função do Estado é a de se auto-regular quer nos seus fundamentos, quer no seu funcionamento, quer, ainda, no seu financiamento. Este ponto tem, essencialmente, a ver com os fundamentos do Estado, o sistema politico que o regula e organiza.
+
+## **1. A ORGANIZAÇÃO DO ESTADO**
+**1.1.  ORGANIZAÇÃO POLÍTICA** <br/>
+**A)** Referendar a necessidade de uma Constituição discutida e votada por uma nova Assembleia Constituinte. A Constituição da República votada pela esquerda e aprovada num contexto histórico-político resultante de uma revolução, só poderá servir programas de partidos políticos necessariamente de esquerda, pelo que qualquer partido de direita, ou de pendor não socialista, se verá impossibilitado de governar segundo os seus próprios princípios. Assim sendo, a actual Constituição, enquanto lei suprema de uma Nação e ente enformador de toda a vida de um país não pode pois confinar-se a ideologias ultrapassadas de cunho marcadamente socialista e socializante, sob pena de comprometer qualquer projecto político inovador para Portugal. Tendo, assim, em conta que a actual Constituição foi produto de uma imposição militar (o chamado pacto MFA – Partidos) que antecedeu as eleições de 1975 para a Assembleia Constituinte e que, logo e por isso, esta Constituição não foi um produto genuíno da vontade soberana do Povo, exigimos referendar a Constituição de 1975. Caso o referendo dê como resultado a necessidade de convocação de uma nova Assembleia Constituinte o Chega proporá uma nova Constituição que seja um denominador comum de todos os portugueses, independentemente das suas opções políticas ou partidárias. Essa nossa proposta de Constituição conterá, entre outras, duas medidas essenciais:<br/>
+A  Presidencialização  do  regime,  pela  acumulação,  na  figura  do  Presidente  da  República,  das  competências  hoje  atribuídas  ao  primeiro-ministro.  Consequentemente,  desaparece a figura do primeiro-ministro.
+
+**B)** Redução drástica do número de Ministérios que são, actualmente, em número muito superior ao que que é exigível pelas estritas necessidades de governação de um país com a dimensão de Portugal Redução drástica também, dentro de cada Ministério, do pessoal quer de apoio quer de confiança política – assessores, adjuntos, secretários e motoristas – que tem vindo a aumentar, ao longo dos tempos, de forma desmesurada.
+
+**C)**  Redução do número de deputados para 100, incidindo essa redução essencialmente nos grandes círculos eleitorais costeiros com o consequente aumento relativo dos deputados nos círculos eleitorais do interior.
+
+<!-- Não sei se foi intencional ou erro deles -->
+
+d) Fim de todo e qualquer privilégio ainda hoje existente para a classe política.
+
+e) Limitação, a dois mandatos consecutivos, no exercício de todos os cargos políticos, à semelhança do regime vigente para o Presidente da República.Estas medidas introduzirão uma maior coerência, moralização e transparência do sistema, bem como uma maior eficácia com menores custos.
+
+**F)** Aumento, para cinco anos, da legislatura e dos mandatos autárquicos criando-se, assim, efectiva condições para um cabal exercício das funções conciliável com a limitação proposta na alínea anterior.
+
+**G)** Enquanto não se proceda ao referendo da Constituição propomos uma alteração à sua parte económica, aquela onde se estabelece a progressividade do imposto. O imposto deve voltar à sua inicial função, ou seja, a de angariar meios para fazer frente às despesas comuns da comunidade e não a de ser um instrumento de igualitarização da sociedade, ao serviço de uma pouco desejável massificação.
+
+**H)** Recusar, de forma clara, inequívoca e absoluta a participação de Portugal numa Federação Europeia.
+
+**I)** Atribuir, por alteração da legislação aplicável, aos votos brancos, lugares vagos nas Assembleias electivas de representação política, a qualquer nível nacional.
+
+**J)** O sistema eleitoral deverá ser revisto de forma a que possa garantir uma tripla representação democrática do País: uma equilibrada representação do território (Círculos plurinominais); uma mais efectiva representação dos Cidadãos-eleitores (Círculos uninominais); e uma mais justa representatividade das várias correntes políticas (Círculo Nacional). O Círculo Nacional reunirá os votos que não elegeram qualquer Deputado nos Círculos Eleitorais criados e refundidos, o que mitigará os efeitos do chamado “voto útil”, assegurando a possibilidade de representação parlamentar aos partidos “mais pequenos” e evitando que uma significativa percentagem (e representatividade) de votos dos eleitores acabem por se perder no Método de Hondt.
+
+**K)** Propor a redução dos actuais 22 Círculos Eleitorais para 14, agregando círculos mais pequenos, eliminando, no Continente, circunscrições abaixo dos 4 Deputados, e com os candidatos uninominais a se poderem apresentar, também, nas listas nacionais e plurinominais dos Partidos ou coligações, para assegurar, caso não logrem a eleição uninominal, a possibilidade de serem eleitos pelo voto proporcional.
+
+**1.2.  ORGANIZAÇÃO ADMINISTRATIVA**
+
+A  actual  estrutura  administrativa  está  desactualizada,  é  cara  e  ineficiente.  Assim  propomos, entre outras medidas:
+
+**A)** Auditoria de gestão a cargo de uma empresa especializada, de forma a que se possa obter um master plan para a modernização do funcionamento do Estado. Este master plan tenderá para estabelecer as grandes linhas para levar a cabo um emagrecimento drástico do Estado, devolvendo-lhe músculo, energia e eficiência de forma a que possa cumprir, cabalmente, as funções verdadeiramente soberanas, aquelas que apenas a ele cabe cumprir.
+
+**B)** Reformulação do número e área  dos distritos que corresponda à realidade contemporânea do país.
+
+**C)** Os municípios são dotados de demasiadas competências na área do urbanismo e demasiado poucas competências noutras áreas. Há que reequilibrar o poder das autarquias, transformando-as em efectivos centros de poder, através de uma descentralização radical;
+
+d) Exagerado número de freguesias existentes e, ainda por cima, dotadas de competências mínimas;
+
+e) Redistribuição das competências entre Freguesia, Concelho, Distrito e Administração Central seguindo o princípio da subsidiariedade.
+
+f)  Optimização do valor dos activos imobiliários do Estado. No plano de emagrecimento do Estado estará incluída a devolução, à economia privada, de todos os activos imobiliários por ele detidos quer por concessão, quer por arrendamento, quer por venda. O Estado é um péssimo gestor de activos, quaisquer que eles sejam. Esta optimização será procedida de uma classificação de cada um dos imóveis que serão distribuídos por duas classes básicas: com interesse patrimonial ou sem interesse. Estes últimos serão liminarmente vendidos. Quanto aos primeiros será a sua exploração concedida segundo critérios rigorosos a definir.
+
+g) Todas as empresas de transporte sob tutela da Administração Central e Local serão privatizadas.
+
+h) Plano de reforma antecipada, com 100% do vencimento, de todos os funcionários que a reestruturação profunda da máquina do Estado venha a considerar como excedentários.
+
+i) Fim da garantia de manutenção do emprego para a vida na função pública para os novos contratos a celebrar.
+
+j) Todos os ministérios e serviços correspondentes se concentrarão numa mesma área geográfica, de forma a permitir uma diminuição drástica dos seus custos operacionais, bem como das imensas horas perdidas, para a economia nacional, pelos cidadãos.
+
+**K)** Reforço substancial do orçamento dos ministérios que representam as funções soberanas do Estado, com particular relevo para os da Justiça e Administração Interna.
+
+**L)** Seguindo o princípio da subsidiariedade descentralizar, para as autarquias, todas as competências que hoje se encontram nas mãos da Administração Central e que poderão ser prosseguidas pela Administração local.
+
+**M)** A actual relação directa entre as finanças das autarquias e a expansão urbanística terá de ser invertida, ou seja, ao invés do que hoje se passa, as autarquias terão de começar a ser financeiramente penalizadas pela sobre-urbanização.
+
+**N)** Promover reiteradamente concursos abertos de ideias, com prémios pecuniários, sobre melhorias a introduzir no sistema de serviços públicos em todos os sectores, incluindo no funcionamento e na reorganização dos órgãos de soberania.
+
+**O)** Impedir a regionalização administrativa por outras formas que não decorram da livre e reversível associação autárquica.
+
+p)  Incentivar os contratos individuais de trabalho em serviços públicos, com metas contratualizadas, incentivos financeiros e outros e penalização caso haja incumprimento, com objectivo de ganhos de eficiência, mas também de reter os melhores.
+
+q) Aumentar a fiscalização das baixas médicas por doença, penalizando os infractores em caso de fraude (medico/dentista/ doentes). Reavaliar bienalmente por novo júri, as reformas por invalidez emitidas e se encontrar capacidade para o trabalho, poderem ser rectificadas.
+
+## **2. GESTÃO**
+**2.1. RECEITAS: POLÍTICA FISCAL** <br/>
+Desde logo, os princípios básicos orientadores da política fiscal do CHEGA
+1. Acabar com a extorsão fiscal hoje praticada. Como pedra angular dessa política, encontra-se a necessidade da quantificação de um limite máximo para a carga fiscal suportada pelos contribuintes, tendo em consideração todas as contribuições directas e indirectas a que estes se encontram sujeitos. São os gastos do Estado que terão de se adequar à receita possível e não o inverso, como hoje se passa. Porque se é justo, e indispensável, que o cidadão contribua para as despesas comuns, é impensável que o Estado faça, como há muitos anos é corrente, uma gestão danosa das contribuições dos cidadãos. Se não existe, como muitas vezes é sublinhado, uma sanção social sobre os que fogem ao pagamento de impostos, isso deve-se, evidentemente, à generalizada convicção, por todos partilhada, de que o dinheiro recolhido em impostos é, pura e simplesmente, desbaratado pelo Estado.<br/>
+Paralelamente impõe-se o respeito de três princípios de base : a transparência na cobrança de impostos e na sua aplicação, a simplicidade deste processo e a justiça desta política.
+
+2. A transparência fiscal é necessária até nos aspectos mais simples: A maioria dos portugueses ignora qual a taxa de imposto que efectivamente paga. Mas, mais importante, é não haver uma ligação transparente entre a receita cobrada e a aplicação desse dinheiro pelo Estado. Uma medida essencial é, por isso, uma maior descentralização da política fiscal, devendo as câmaras municipais passar a assumir maior responsabilidade pela cobrança de impostos e, desse modo, pela aplicação dos dinheiros públicos. Além disso, em nome da transparência fiscal, é essencial discriminar e evidenciar quem são os grandes beneficiários da aplicação dos impostos. Essencial a uma política eficaz de transparência fiscal (e, também, de justiça fiscal) é a adopção generalizada do princípio do utilizador – pagador, princípio esse que estabelece que o acesso aos serviços públicos deverá ser pago, ao seu custo real, pelos seus utilizadores, devendo o Estado subsidiar directamente os que são abrangidos pela rede mínima de protecção. Neste caso o que é importante, contudo, é garantir que estes pagamentos vão efectivamente ser compensados pela redução de impostos pagos pela população pois que, não sendo assim, acabaremos por assistir a um mero aumento da carga fiscal.
+
+3. A simplicidade do sistema fiscal. Associada à transparência está a simplicidade do sistema fiscal na cobrança de impostos. Isto passa por dois aspectos principais: <br/><br/>
+3\.1\.  Aplicação de taxas de uma forma simplificada (como a existência de uma taxa única de IRS). <br/><br/>
+3\.2\.  Eliminação da miríade de excepções à lei que existem no sistema fiscal sob a forma de isenções, derrogações e outros mecanismos semelhantes.
+
+4. Justiça Fiscal. Finalmente, ao nível da justiça na cobrança de impostos: a taxa única de IRS, que defendemos, deverá ser aplicada apenas a partir de um determinado nível de rendimento. Os que ficam isentos são os que se encontrarem abrangidos pela rede mínima de protecção social e que beneficiam de subsídios temporários para, no caso dos física e mentalmente capazes, reencontrarem um rumo para as suas vidas.
+
+5. Conta corrente entre o Estado e o contribuinte. Finalmente, defende-se o estabelecimento de uma conta corrente entre o Estado e o contribuinte. Isso implica, por exemplo, a dedução no imposto a pagar por cidadãos e empresas de eventuais dívidas do Estado a esses cidadãos e empresas. O sistema fiscal justo e equitativo jamais poderá permitir a actual disparidade de poder entre o Estado e o contribuinte, em que aquele se arroga o direito de pagar quando lhe apetecer, enquanto que, simultaneamente, exige ao contribuinte que pague atempadamente. Esta é uma questão essencial e prévia à definição de qualquer política fiscal. O CHEGA considera essencial reinstituir o Estado como pessoa de bem, ou seja, restabelecer um verdadeiro equilíbrio entre os direitos e deveres mútuos entre o Estado e o cidadão contribuinte.
+
+Isto no que respeita aos princípios básicos estruturantes do sistema fiscal que defendemos. <br/>
+No que respeita a medidas concretas em relação a cada um dos principais impostos, defende-se:
+
+a) Imposto sobre o Valor Acrescentado (IVA) - O essencial da carga fiscal deverá incidir sobre o consumo, ou seja, o grosso da cobrança fiscal deverá ser originado pelo IVA. A taxa de IVA não deverá, contudo, ser superior à taxa mais baixa existente na UE (neste momento, a taxa mais baixa da UE é a de 17% no Luxemburgo)<br/>
+b) Taxa única no Imposto sobre o Rendimento de Pessoas Singulares (IRS) - Fomenta a poupança, o investimento e a optimização da cobrança de imposto, levando ao aumento das receitas fiscais e a uma maior justiça fiscal. Essa taxa será de 15% no primeiro ano da Legislatura; de 13,5 % no segundo ano; de de 12% no terceiro e de 10% no quarto ano.<br/>
+c) Taxa Única no Imposto sobre o Rendimento de Pessoas Colectivas (IRC) - Um ponto percentual abaixo da taxa mais baixa existente na UE. A concorrência fiscal é um facto e aí teremos de ser fiscalmente competitivos como forma de cativar investimento. A tributação em sede de IRC deve ser realizada em função da determinação do lucro e nunca por métodos indiciários ou colectas mínimas.<br/>
+d) Abolição do IMI. O custo fiscal incorporado num imóvel, quando da sua compra representa cerca de metade do valor pago pelo comprador ao vendedor. Pelo que continuar a pagar um imposto sobre esse imóvel ao longo da sua vida económica é, de todo, injustificado. A esta razão, mais do que suficiente, acresce ainda que propriedade, seja ela pequena média ou grande, comprada ou herdada é, sempre, o resultado da poupança de alguém ou até, mesmo, resultado de poupança futura, a pagar nos próximos 20 ou 30 anos. Essa receita dos municípios, que que ronda os 1.690 milhões de Euros será substituída por transferência de uma verba equivalente por parte da Administração Central tal como sucede com o FEF.<br/>
+e) Abolição do Imposto de Mais Valias. <br/>
+f) Manter a isenção de tributação sobre heranças e doações na linha directa acrescentando a isenção de tributação entre tios e sobrinhos.<br/>
+g) Eliminação total dos casos de dupla tributação, nomeadamente dos rendimentos das empresas, actualmente tributados em sede de IRC e em sede de IRS através dos dividendos distribuídos.
+
+**5.1. POLÍTICA ORÇAMENTAL**
+
+a) Prioridade absoluta, no Orçamento, às necessidades dos ministérios que consubstanciam as Funções Soberanas do Estado, ou seja, Ministérios da Justiça, Administração Interna, Defesa e Negócios Estrangeiros;<br/>
+b) Orçamento plurianual, cobrindo a totalidade da legislatura, que permita uma maior racionalização quer do investimento público, quer das despesas correntes primárias, minimizando os riscos da utilização da política orçamental como mera arma eleitoral;<br/>
+c) Orçamento tendencialmente superavitário de forma a que se torne possível uma consistente amortização da dívida do Estado<br/>
+d) Criação de um Gabinete de Estudo e Previsão Orçamental (a funcionar junto do Banco de Portugal), como entidade competente do poder político e dotada de capacidade técnica, que se pronuncie sobre as questões financeiras dos projectos de decretos-lei que acarretem a assunção de novas responsabilidades financeiras.
+
+**II - FUNÇÕES SOBERANAS DO ESTADO**
+
+**II A – FUNÇÕES EXECUTIVAS**
+
+Como já vimos compete ao Estado, devidamente auto-regulado e organizado, um determinado conjunto de funções que dividimos entre Funções Auto-Reguladoras, funções Soberanas, Funções Patrimoniais e Funções Acessórias, Subsidiárias e/ou Supletivas. Começaremos pelas funções soberanas, aquelas que compete, por excelência, e por definição, ao Estado.
+
+**1. VIDA, FAMÍLIA E EDUCAÇÃO**
+
+Vida, Família e Educação são, no plano da realidade humana, três realidades profundamente interligadas e como tal aqui serão tratadas. A Família natural, baseada sobre a íntima relação de um homem e de uma mulher é uma realidade sociológica e política anterior ao Estado. Nela é transmitida a vida e, posteriormente, todo o conjunto de saberes e de tradições que constituem a trama base das diversas comunidades humanas e da História, o núcleo central e insubstituível do processo de Educação. A própria Constituição o reconhece dando um lugar central e primordial à Família e ao seu decisivo papel na Educação dos filhos. Assim sendo, é função indeclinável do Estado recolocar a família e o seu papel na educação dos filhos no lugar central que é o seu. <br/>
+Dado o muito que este papel central da família recuou as últimas décadas muito é o que há a fazer neste campo. Assim sendo, o CHEGA popõe:<br/>
+a) Defesa da vida, desde a sua concepção, até à morte natural.<br/>
+b) Criação do Ministério da Família.<br/>
+c) A família é o elemento fundamental da sociedade, célula base onde se processa a transmissão cultural, pela qual todos os valores fundamentais assimilados no passado são transmitidos de geração em geração, com as adaptações necessárias que a evolução dos tempos aconselhe mas mantendo as especificidades que a experiência demonstrou como vitais. É, assim a família natural a garantia de identidade cultural e civilizacional e apenas nela pode residir a certeza de que o Homem não regressa à selva de onde saíram os seus antepassados.<br/>
+d) Aborto e cirurgias de mudança de sexo são retirados do conceito de saúde pública. Tal implicará o fim imediato dos apoios do Estado e da subsidiação quer do aborto, quer da mudança de sexo através do SNS ou seja, pagos pelo contribuinte. O uso do aborto recorrente, utilizado como método contraceptivo é particularmente repugnante pelo que nos bateremos pelo seu fim imediato dentro do SNS. Os fundos assim poupados serão aplicados no aumento de cobertura de verdadeiros cuidados de saúde, nomeadamente na área da Odontologia Pediátrica até ao final da mudança da primeira dentição.<br/>
+e) A autoridade dos pais sobre os seus filhos até à maioridade é inegociável. É inaceitável e Constitucionalmnte proibido, apenas a título de exemplo, que uma criança de 16 anos não necessite de autorização dos pais para proceder a uma mutilação genital.<br/>
+f) Proibição dos ventres de aluguer e de toda a actividade que coisifique e utilize como produto de compra e venda a qualquer ser humano<br/>
+g) Reforma da Lei da Adopção.<br/>
+h) Procurar a convergência com os mais generosos países europeus no que reporta a prestações familiares. Numa primeira fase e enquanto tal não for possível, defende-se a criação de um cheque-família como incentivo à taxa de natalidade, a fornecer mensalmente em todos os casos em que ambos os pais tenham naturalidade e nacionalidade portuguesa e sejam oficialmente residentes em Portugal, estipulando o valor de um ordenado mínimo para o agregado familiar com 3 filhos, acrescido de um suplemento por cada filho que se siga ao terceiro, com o fim de que a mãe possa optar por exercer plenamente o seu papel de mãe de família.<br/>
+i) Protecção do direito dos menores a relacionarem-se com ambos os progenitores e com os seus avós<br/>
+j) Conciliação da vida familiar e laboral; fomento do teletrabalho e trabalhos em part time, fomento da flexibilidade de horários<br/>
+k) Uma reflexão séria sobre as vantagens de um regresso ao modelo sociológico da família alargada. Entende-se por família alargada a modelo de família que reúne, sob um mesmo tecto, três gerações: o casal, os seus filhos e os pais de um dos membros do casal. Este modelo tinha não poucas vantagens desde logo tinha com que foi particularmente usual até meados do século XX caiu em desuso por várias razões e de vária ordem. O CHEGA entende como importante reflectir sobre em que medida o renascer deste tipo de família não seria interessante do ponto de vista económico, social e cultural. <br/>
+l) Promover a integração inter-geracional de lares para a infância e lares de idosos de modo a estabelecer laços de interacção reciproca.<br/>
+m) O fim da promoção, pelo Estado, de incentivos e medidas que institucionalizem os casamentos entre homossexuais e a adopção de crianças por “casais” homossexuais – no postulado que não compete ao Estado, nem entrar na casa das pessoas, e, muito menos, nas suas “camas”, sem embargo de assegurar a liberdade, individual e consentida, de cada um se relacionar, como quiser, com quem entender.<br/>
+n) Menos impostos e custos pagos por intermédio da conta de electricidade, pois que são eles os culpados de termos uma das mais caras electricidades da Europa<br/>
+o) Revogação de toda a norma que discrimine qualquer um dos sexos em relação ao outro. Promulgação de uma lei de violência intrafamiliar que proteja por igual a anciãos, homens, mulheres e crianças.<br/>
+p) Que às instituições de apoio à vitima em que o Estado comparticipe no seu financiamento, seja obrigatório que as mesmas tornem públicos os relatórios sobre como, onde e quanto foram investidos e aplicados tais fundos, com periocidade semestral, para cabal demonstração dos seus resultados nos apoios efectivos às vitimas;<br/>
+q) Obrigatoriedade de Médicos de Família, enfermeiros e centros hospitalares reportarem os casos de Violência Doméstica, às autoridades judiciárias (OPC’s e Ministério Público);<br/>
+r) Agravamento penal para quem assiste e tem conhecimento destes crimes e não os denunciam, por cumplicidade;<br/>
+s) Obrigatoriedade da vítima de violência interpessoal ser observada por enfermeiros forenses, para realização de exame forense, documentação de lesões, preservação e recolha de vestígios e encaminhamento, mantendo a cadeia de custódia da prova.;<br/>
+t) Permissão às vítimas que tenham sofrido de agressões mais graves, possam mudar de identidade;<br/>
+u) Permissão às vítimas que tenham sofrido de agressões mais graves, de mudar de identidade e a criação de mecanismos legais para que possam beneficiar de perdões fiscais, sociais, bancários, entre outros, quando, em resultado destes crimes, tiverem que abandonar as suas vidas profissionais e deixado de poder cumprir com obrigações cíveis – mormente, com períodos de carência em empréstimos bancários e outras, tendo visto a sua vida completamente destruída a vários níveis, do seu quotidiano.
+
+### **EDUCAÇÃO**
+
+a) Extinção do Ministério da Educação. O Estado manterá nas suas mãos uma função arbitral, de regulação e de inspecção sediada em organismo dependente da Presidência do Conselho de Ministros. essas funções seriam exercidas sobre todos os graus de Ensino não Superior (planos de estudo, exames, etc. ). As instalações escolares passariam, num primeiro momento, para a tutela da Direcção Geral do Património que, de seguida, as ofereceria a quem nelas demonstrasse interesse, dando-se prioridade absoluta aos professores nelas leccionando nesse momento. Os professores que pretendessem assumir a posse do seu estabelecimento de ensino criariam uma empresa ou uma entidade cooperativa para a qual transitaria a propriedade desse estabelecimento. Caso ninguém pretenda assumir a propriedade de um estabelecimento de ensino, esta transitará, no respeito pelo papel do Estado como entidade subsidiária, para a esfera do município. Porquê oferecer e não vender? Porque se pretende que sejam os professores a serem os proprietários do estabelecimento onde ensinam e esses professores dificilmente poderiam ter a poupança necessária para uma compra. O simples facto de as edificações escolares saírem do âmbito do Estado representa, só por si, uma poupança anual de dezenas de milhões de euros pelo que a oferta dos edifícios acaba por traduzir-se num resultado financeiramente positivo.<br/>
+b) Dentro do princípio básico de que cabe ao Estado financiar a Procura e nunca a Oferta, propomos a instituição do cheque-ensino, que irá substituir o financiamento cego de benefícios indiscriminados na Educação através da montagem e manutenção de uma máquina burocrática gigantesca, como a que hoje existe, por um subsídio directo ao estudante, permitindo a este optar pela escola da sua preferência e estimulando, assim, uma saudável competição entre as escolas e, por essa via, a própria qualidade do ensino. Que fique claro que esta alteração alteração do sistema de financiamento em ada alterará os custos para o estudante e/ou encarregado de educaçãoo que continuarão a ser nulos.<br/>
+c) Esse cheque-ensino, será entregue aos pais / encarregados de educação de todas as crianças que frequentem o ensino obrigatório, num valor que hoje será de cerca de 350€ por aluno (valor que haverá que ir adequando à evolução dos preços), cheque esse que poderá ser utilizado em estabelecimentos de ensino públicos ou privados, ficando assim os encarregados de educação perfeitamente habilitados para escolher a melhor opção educativa para os seus filhos. <br/>
+d) A outorga de uma cobertura legal e definitiva ao impedimento decidido pelos Pais e/ou Encarregados de educação, da frequência de aulas que atentem contra os princípios e valores morais e religiosos que perfilham, quer no sistema oficial de ensino quer em qualquer outro.<br/>
+e) A proibição da propaganda da agenda LGBTI no sistema de ensino.<br/>
+f) O Estado proporcionará uma protecção especial à infância. Será restaurado o tipo de penas que com mais eficácia e dureza persiga a perversão de menores. <br/>
+g) O fim da aplicação das ideologias de inclusão e ideologia de género no sistema nacional de educação, colocando-se termo à aplicação das orientações da ONU relativamente às chamadas “questões psicológicas de transtorno de identidade de género”.<br/>
+h) Concessão às escolas que se mantenham na esfera Pública, da necessária autonomia na gestão dos recursos e contratação de pessoal docente, ficando as mesmas dependentes única e exclusivamente do cheque-ensino sem qualquer complemento concedido pelo Estado. <br/>
+i) Fim da obrigatoriedade de frequência no estabelecimento de ensino correspondendo à área fiscal dos pais do aluno.<br/>
+j) Em todos os graus de Ensino os professores recuperam totalmente a autoridade perdida sobre os alunos, sendo-lhes devolvidos todos os meios que lhes permitam manter a disciplina nas aulas. <br/>
+k) Fim da disciplina “Género e Cidadania” por ser inconstitucional, uma vez que assenta todo o seu conteúdo nas chamadas questões de género, matéria relevando exclusivamente do foro ideológico pois que consabidamente destituída de qualquer fundamentação científica.<br/>
+l) Promover a cultura geral em todos os cursos de ensino médio e superior, enfatizando o legado histórico da civilização ocidental em geral e da cultura portuguesa em especial.<br/>
+m) Criar, para maiores de 25 anos, no âmbito do ensino superior, licenciaturas livres, trans-institucionais e transdisciplinares de Artes, Ciências e Letras, no quadro de Bolonha e com a mesma carga mínima de ECTs decorrentes deste acordo, de livre escolha do aluno e identificadas pela prevalência da natureza das UCs seleccionadas.<br/>
+n) Introduzir sistemas de bolsas de estudo atribuídas ao mérito, para todas as fases da vida académica de alunos economicamente carenciados.
+
+### **2 - POLÍTICA EXTERNA**
+**2. I - PRINCÍPIOS ORIENTADORES**
+
+O CHEGA assume como seus princípios de base no campo da política externa:<br/>
+A preferência pelos contactos bilaterais em detrimento das relações multilaterais. Entre outras razões porque estas últimas primam pelo adiar dos problemas e nunca pela sua solução, um adiamento que, na esmagadora maioria das vezes está longe de ser inocente. De facto, esse adiamento dá-se, de forma geral, em proveito do Estado mais forte de entre os que se sentam à volta da mesa. Assim sendo, colocam-se de imediato as seguintes questões<br/>
+A necessidade da reavaliação do interesse efectivo da nossa presença na ONU. Por duas ordens de razões, qualquer uma delas relevante: No estrito quadro das atribuições que supostamente haveriam de ser as suas quando da sua fundação como substituta da defunta Sociedade das Nações, a sua total inoperância e crassa inutilidade são por demais evidentes. Em contrapartida, transformou-se numa produtora e difusora do marxismo cultural e do globalismo massificador que não estamos dispostos a consumir e, muito menos, a pagar para que outros os consumamPara além do referido acima existe a necessidade de equacionar o abandono das organizações supranacionais que forem contrárias aos interesses e à soberania de Portugal. <br/>
+Eliminação de participação em agências e ONG’S que interferem na soberania nacional.<br/>
+Independentemente das questões acima enumeradas, a necessidade da imediata reversão da outorga do suicidário “Pacto para as Migrações” que a “ONU” pretende concretizar<br/>
+Haverá que proceder, de imediato, a uma reavaliação da contribuição portuguesa para as organizações no ponto acima referidos.<br/>
+Por fim, e como excepção quase única à política acima definida, o CHEGA! Defende a consolidação e o reforço da presença de Portugal na NATO, desde que inequivocamente liderada pelos Estados Unidos, como garantia de uma Política Externa alinhada com a defesa da Soberania e das Fronteiras dos Estados-membro, do combate ao Terrorismo Islâmico bem como às tentações hegemonistas, mormente da União Europeia, da China e do Irão.<br/>
+A alocar das relações com a UE ao estrito domínio da nossa política externa.<br/>
+A revogação do acordo ortográfico.<br/>
+Um compromisso inequívoco com a defesa da existência do Estado de Israel, face ao recrudescimento do anti-semitismo e das ameaças terroristas de que o povo judeu é alvo, pugnando pela transferência da Embaixada Portuguesa para Jerusalém.
+
+**II - LINHAS MESTRAS**
+
+O CHEGA define, como linhas mestras da sua Política Externa que esta haverá de ter em conta os interesses permanentes, as afinidades ideológicas, as constantes históricas, a herança cultural, os determinismos geográficos e a evolução tecnológica. A conjugação destas seis variáveis aponta para uma política externa pentapolar, integrando<br/>
+2.1.  Um espaço mediterrânico sem a ele se confinar<br/>
+2.2. Um espaço atlântico sem dele depender<br/>
+2.3. Um espaço lusófono sem nele se iludir.<br/>
+2.4. Um espaço ideológico sem nele descansar<br/>
+2.5. Um espaço europeu sem nele se aniquilar<br/>
+Defende-se, pois, uma política externa que tenha em conta esses cinco espaços e, assim sendo, assente em cinco pilares que configurarão a estrutura básica dessa política externa. Política Externa essa que terá de ser entendida, necessariamente como de “geometria variável”, porquanto, conforme as circunstâncias que se coloquem, haverá que privilegiar de forma distinta, um ou outro, ou mais do que um desses cinco pilares.<br/>
+Defende-se, ainda, e como já acima referido, uma política externa que assuma como princípio básico de actuação o de privilegiar as relações bilaterais sobre as relações multilaterais, e isto porque estas últimas caracterizam-se, no essencial, pela incapacidade de decisão qua abre o caminho ao triunfo dos mais poderosos dos parceiros sentados à volta da mesa.
+
+**2.1. ESPAÇO MEDITERRÂNICO**
+
+Foi o nosso espaço original. Dele recebemos, durante a nossa infância e juventude como civilização ocidental o essencial da nossa cultura, das nossas tradições e da nossa maneira de viver. Um fundo precioso que compartilhamos essencialmente com todos os povos europeus mas, muito particularmente, com aqueles que se debruçam sobre o Mediterrâneo, essencialmente os do mediterrâneo Ocidental, Oriental e Norte, mas em pequena parte com os do sul daquele mare nostrum. Esta afinidade não pode ser esquecida na determinação da nossa política externa e haverá que a ter presente como uma das suas linhas de força potencialmente sempre presentes. <br/>
+Contudo, as sucessivas invasões dos povos do Norte a partir do século V e a nossa separação do resto da Península no século XII que viria a marcar o início da nossa idade adulta veio diminuir largamente o peso desse eixo e avantajar proporcionalmente o peso da componente atlântica.<br/>
+Hoje, importa reavivar este antigo pilar das nossas relações exteriores para conseguir um contrapeso suficiente dentro da UE para poder fazer frente ao manifesto poder dos países do norte da Europa. Dentro deste pilar importa intensificar as relações bilaterais com Espanha, em todos os domínios, para em conjunto termos uma Ibéria mais forte na cena política internacional e europeia.<br/>
+Haverá ainda que, suplementarmente, estabelecer com todos os países europeus da bacia do mediterrâneo uma política comum de defesa contra a invasão maciça proveniente dos países do sul do mediterrâneo. No que respeita ao equilíbrio de forças no Mediterrãneo Sul, fundamental um compromisso inequívoco com a defesa da existência do Estado de Israel, face ao recrudescimento do anti-semitismo e das ameaças terroristas de que o povo judeu é alvo, pugnando pela transferência da Embaixada Portuguesa para Jerusalém. O eventual aniquilamento do Estado de Israel teria consequências dramáticas impossibilitando a contenção, já hoje no limite, do radicalismo islâmico.
+
+**2.2. ESPAÇO ATLÂNTICO**
+
+Foi o nosso único eixo estratégico entre os finais do século XIII e as últimas décadas do século XX. O Atlântico Sul foi para o Império Português aquele mare nostrum que para o Império Romano havia sido o Mediterrâneo. Foi ao Atlântico que fomos buscar a energia que nos permitiu sobreviver como nação livre e independente. Uma energia proveniente de dois tipos de recursos: os recursos económicos e financeiros trazidos pelo Império (futuro Espaço Lusófono) e recursos militares trazidos pela aliança com a maior potência marítima ao longo da segunda parte do segundo milénio. A partir da independência do Brasil e, particularmente após 1975 com o abandono das nossas posições em África e da nossa posterior adesão à UE abandonámos completamente o eixo atlântico da nossa política externa para mergulharmos totalmente no Espaço Europeu. É fácil de entender que foi um erro e que se não reequilibramos rapidamente esta posição quase exclusiva rapidamente seremos absorvidos, como Nação, pelo poder conjugado da Alemanha e da França com a total perda da nossa independência<br/>
+Chegou o momento de retomar a nossa centralidade no Atlântico consolidando e reforçando as relações com os Aliados desse espaço como os EUA, Reino Unido (a partir do momento em que saia da UE), Irlanda e Espaço Lusófono com particular relevo para o segmento desse espaço que contorna o Atlântico Sul. Haverá que dar particular atenção ao reforço da nossa aliança com a Uk, a mais antiga aliança mundial. Esse reforço traduzir-se-há em medidas práticas de vária ordem, tal como, a título de exemplo, criar canais para que os produtos ingleses na Europa pós Brexit entrem na Europa via Portugal, reduzindo taxas aduaneiras aos produtos vindos da UK.<br/>
+Chegou, em resumo, o momento de Portugal se assumer como porta de entrada e saída no Atlântico. Nesse sentido, a aposta estratégica no mar deverá corrsponder a políicas que conduzam ao incremento commercial com Países do Arco Atlântico. Esta opção testemunha:<br/>
+a) A centralidade de Portugal<br/>
+b) O nosso empenho no reforço político na NATO<br/>
+c) A identificaçãoo de Portugal no mapa das nações marítimas e não apenas continentais<br/>
+No quadro da vertente atlântica da sua política externa Portugal deverá apostar:<br/>
+No campo técnico:<br/>
+a) Na modernização dos portos<br/>
+b) Na apresentaçãoo de preços competitivos nas descargas portuárias<br/>
+c) Na redinamizaçãoo da Indústria Naval<br/>
+d) Na Marinha Mercante<br/>
+e) No aproveitamento das riquezas de vária índole da sua ZEE
+
+**2.3. ESPAÇO LUSÓFONO**
+Em caso de colapso da UE o espaço lusófono e o Espaço Atlântico são as duas alternativas a explorar. E importa que sempre haja mais do que uma alternativa para salvaguarda de uma sempre necessária liberdade de movimentos. Assim sendo, importa ir lançando as bases de proposta da evolução da CPLP para uma Comunidade Económica de Países de Língua Portuguesa (CEPLP). Tal passo permitiria a afirmação do espaço lusófononão apenas no plano cultural, mas também nos planos politico e económico. A aplicação desta medida pressupõe:<br/>
+a) A aprovação de um tratado definindo a natureza, o âmbito e os objectivos da Comunidade<br/>
+b) O incremento de bolsas de estudo e estágios profissionais<br/>
+c) O reforço de parcerias estratégicas envolvendo Escolas e Empresas
+
+**2.4. ESPAÇO IDEOLÓGICO**
+
+Passado o tempo ilusório da morte das ideologias, chegou o tempo em que a sua relevância renasce e com mais força do que nunca.. São duas ideologias em confronto: aquela que propõe e que tenta implantar um mundo sem fronteiras habitado por uma massa indiferenciada de indivíduos sem raizes, sem família, sem comunidades próximas e sem nação, o consumidor ideal porque completamente desprovido de defesas. É a ideologia globalista, que encontra as suas raizes teóricas no marxismo cultural, e a sua formulação prática no virulento código do “politicamente correcto”. As teses globalistas são defendidas por um amplo leque que vai do capitalismo rentista e, passando por por todas as tonalidades da Esquerda, do centro-esquerda democrata cristão passando pela social-democracia, pelo socialismo dito democrático, chega até às várias esquerdas retintamente marxistas. <br/>
+Do outro lado da barricada e num crescente movimento de repúdio pela avançada nihilista do globalismo podemos encontrar as várias correntes de Direita, que vão desde as mais estatistas às mais (apenas economicamente) liberais passando pelas nacional-revolucionárias mas tendo, como denominados comum a defesa dos valores tipicamente conservadores, entre os quais o reforço da família, das comunidades naturais e da Nação, da Vida em todos os seus estádios e, muito principalmente, das raizes históricas e culturais que são a base da Civilização ocidental. Todo um conjunto de valores tido por irrenunciável. São os valores da Direita identitária, a Nova Direita que se opõe radicalmente à Esquerda globalista.<br/>
+Pertencendo o CHEGA a este segundo grupo, será seu objectivo estratégico no âmbito da política externa manter relações privilegiadas com os partidos congéneres desde logo no âmbito da UE, com o objectivo de contrabalançar as posições marcadamente globalistas estruturadas em torno do eixo franco-alemão e neste momento largamente maioritárias no seio da UE.<br/>
+E o grande problema que hoje enfrentamos no Espaço Europeu é precisamente, o da enorme pressão globalista que toda a estrutura de Bruxelas está a fazer sobre os Estados Membro com o fito, mais ou menos confessado, de diluir cada um desses Estados numa entidade abstracta que seria este “Europa”.<br/>
+Assim sendo, e para além das relações multilaterais com os Estados-Membro da UE, importará fortalecer as relações bilaterais com os países do Grupo de Visegrado tendo, como um dos objectivos dessas relações, o estabelecimento de uma frente comum visando fazer frente ao avanço do globalismo e do marxismo cultural nas politicas da UE por imposição do grupo maioritário de Estados globalistas.
+
+**2.4. ESPAÇO EUROPEU**
+
+O CHEGA recusa liminarmente uma Europa refém de concepções materialistas e de base racionalista, uma Europa com pretensões a potência mundial, uma Europa forte e dominadora, um novo pólo cultural harmonizado que, confiando cegamente na sua razão, pretende ser um novo poder aglutinador do Globo. Esta Europa que foi defendida no chamado Tratado Constitucional e que tenta sobreviver à derrota nas urnas desse mesmo tratado representa o abandono do ideal original europeu e o regresso a dispensáveis pretensões imperialistas. <br/>
+Cooperar, colaborar, partilhar, não significa anular, excluir ou eliminar as individualidades próprias de cada Estado e a sua capacidade de decisão sobre os seus particulares interesses.<br/>
+No que respeita ao pilar europeu da nossa política externa, queremos:<br/>
+1.   Uma Europa na qual participemos activamente e não uma Europa na qual nos anulemos como povo e como país.
+2.   O regresso ao Mercado Comum Europeu.
+3.   Um novo tratado europeu em Bruxelas, na linha defendida pelos países do grupo VISEGRAD em termos de fronteiras, soberania nacional e respeito pelos valores da cultura europeia e de modo a aumentar consideravelmente o peso de Portugal na tomada de decisões pelo menos tanto como o que se encontrava consagrado no Tratado de Nice
+4. O regresso a uma sã política de rigor orçamental no que respeita aos países integrantes do EURO
+5. Redução dos gastos da estrutura da UE
+6. Eliminação de participação em agências e ONG’s que interferem na soberania nacional.
+7. Exclusividade do Estado, em relação às representações políticas estrangeira de regiões ou municípios.
+8. Rever o modelo de aplicação da PAC para que as ajudas atinjam um grau de satisfação maior àqueles que vivem exclusivamente do campo Como melhor forma de conciliar a soberania dos Estados com a eficiência do funcionamento da União Europeia, o CHEGA propõe a diferenciação entre políticas comuns e políticas facultativas.
+
+Políticas comuns são aquelas que resultam dos objectivos gerais da UE, ou seja, o da manutenção das quatro liberdades (livre circulação de bens, serviços, pessoas e capitais). Todas as demais terão de ser facultativas.<br/>
+Políticas facultativas são aquelas em que os Estados, no legítimo exercício da sua vontade soberana, optam livremente por participar e serem sujeitos aos seus direitos e deveres. A integração no Euro é o caso típico de uma política facultativa: Nenhum Estado membro é obrigado a integrar a zona Euro mas, uma vez lá dentro, terá de exercer os direitos e de assumir os deveres decorrentes.
+
+A opção de integrar uma política comum deve assentar na aplicação efectiva do princípio de subsidiariedade que refere que, em termos gerais, qualquer política facultativa só deverá ser executada ao nível supranacional, passando a ser comum, se trouxer comprovadamente vantagens relativamente à sua aplicação a nível nacional.
+
+### **3- JUSTIÇA, SEGURANÇA E MIGRAÇÕES**
+
+São três realidades que, hoje em dia, se apresentam como quase indissociáveis pelo que serão as três tratadas sob um mesmo capítulo. Uma política de Justiça e de Segurança dissociadas uma da outra, e, mesmo, o que é pior, de costas voltadas uma para a outra não são hoje em dia concebíveis frente aos riscos acrescidos de uma insegurança crónica. E sendo que a política de portas abertas à recente vaga avassaladora de emigração ilegal é um dos mais evidentes factores de risco para a desestabilização das condições essenciais de estabilidade dos países europeus, a preocupação primordial quer com a segurança dos cidadãos quer com o funcionamento do sistema de Justiça é um dos pontos de honra do Chega. Assim sendo, o Chega assume-se, para usar a terminologia dos seus adversários, sem quaisquer complexos, como um partido “securitário”. Daqui deriva como um princípio geral em termos das nossas políticas de Justiça e de Segurança que para esta primordial função do Estado não poderão faltar, nunca, os necessários recursos no Orçamento de Estado.
+
+**3.1. JUSTIÇA**
+
+Para o CHEGA, a política de Justiça deve nortear-se pelos seguintes princípios: <br/>
+Clarificação, Simplificação e Sistematização das Leis:Clarificação: Eliminação de todas as leis contraditórias ou não regulamentadas, bem como precisar, de forma inequívoca, o conteúdo das leis.<br/>
+Simplificação: Eliminação de todas as leis redundantes ou caídas em desuso<br/>
+Sistematização: Após os processos de clarificação e simplificação, organização, num todo sistemático e coerente, das leis remanescentes e redução da codificação às questões essenciais.<br/>
+A estes princpios de clarificação, simplificação e sistematização das Leis haverá que acrescentar os seguintes princípios fundamentais: O direito à propriedade privada e o direito à liberdade de contratação entre as partes. Um e outro destes direitos deverão retomar o papel que outrora já tiveram no âmago do Direito, como base indispensável para uma sociedade livre.<br/>
+Seguindo os princípios enunciados, propomos<br/>
+
+a) Redução do texto constitucional aos seus preceitos essenciais.
+
+b) Manter apenas no Direito Administrativo os preceitos que tutelam efectivamente o interesse público e não aqueles que configurem uma conduta abusiva do Estado, expurgando aqueles que materializem um interesse corporativo.
+
+c) Extinção dos Tribunais Administrativos, passando os litígios a ser dirimidos pelos Tribunais Cíveis.
+
+d) A fusão das carreiras dos magistrados do Ministério Público e dos Magistrados Judiciais
+
+e) Reforma do Sistema Judiciário para uma independência real do poder político. Todos os membros do Supremo Tribunal deverão ser eleitos por concurso de mérito por e entre aqueles que fazem parte da comunidade da Justiça
+
+a) Que o Processo Civil e o Processo Administrativo sejam essencialmente processos a decorrer entre as partes
+
+b) Reforçar a independência do Ministério Público, em directa articulação com a Polícia Judiciária como órgão de investigação criminal por excelência.
+
+c) Transferir a competência de estabelecer as prioridades de investigação criminal do Governo para a maioria qualificada da Assembleia da República.
+
+d) Há que alterar a legislação e permitir a classificação dos bens e valores que revertam para o estado nos processos crime, para um fundo permanente gerido por representantes das corporações policiais, para financiar os agentes dessas corporações que tenham sido lesados fisicamente no combate ao crime ou para as famílias directas dos mesmos.
+
+e) Introdução de legislação, no Código Penal, sobre a castração química como forma de punição de agressores sexuais, a qualquer culpado de crimes de natureza sexual cometidos sobre menores de 16 anos. Na primeira condenação, a castração química é uma opção de quem aplica a pena, na segunda será obrigatória. Pode ser cumulativa com outras penas como a prisão e é aplicada quando o agressor estiver em liberdade condicional.
+
+f) Obrigatoriedade de penas de prisão efectiva para quaisquer crimes de violação, sem possibilidade de pena suspensa
+
+g) Introdução da pena de Prisão Perpétua para os crimes mais graves, nomeadamente crimes de terrorismo ou homicídios com características especificas.
+
+h) Retirada de todos os privilégios nas prisões (salários, apoios sociais, bolsas de estudo...) para prisioneiros condenados por terrorismo e quaisquer imigrantes ilegais.
+
+i) É necessário um substancial agravamento das penas para os crimes de corrupção, contra o ambiente, recursos hídricos e florestais, património cultural e histórico, e contra a integridade física e moral dos agentes da autoridade policial em exercício das suas funções específicas.
+
+j) Urge a classificação de tags, graffitis e demais formas de pichagem como crime público de forma a pôr um fim a essa praga de atentados contra a propriedade privada.
+
+k) Supressão de qualquer financiamento a organismos feministas radicais e perseguição efectiva das denúncias falsas.
+
+l) Urge a extinção da figura de “excesso de legítima defesa” em caso de reacção violenta das vítimas contra um assalto a estabelecimentos comerciais ocorridos no seu interior, ou em caso de intrusão de estranhos no domicílio em flagrante delito. Idem em caso de ameaça de danos graves por parte de suspeitos insubmissos em acções formais de serviço das autoridades dos policiais e contra estas. Para tal sera ampliado o conceito de legítima defesa diminuindo a amplitude do conceito de excesso de legítima defesa.
+
+m) Oposição frontal à tipificação do chamado “crime de ódio” na lei penal portuguesa.
+
+n) Fundamental a redução do tempo de resolução de processos (Pendência) nos Tribunais através da contratação dos juizes e funcionários judiciais que se mostrem como necessários. Defende-se, ainda, o incremento de novas medidas de gestão de processos e qualificação dos recursos humanos existentes; a Diminuição do período de férias judiciais, à semelhança dos demais trabalhadores da administração pública. Defende-se, ainda, a revisão da tabela salarial de todos os Oficiais de Justiça, com um aumento superior a 10%.
+
+o) Considera-se imprescindível desenvolver maior facilidade e fluidez no acesso à justiça, reduzindo encargos com processos e taxas, descentralização dos tribunais alterando o mapa judicial, alargamento na concessão do apoio judiciário e criação de mais julgamos de paz.
+
+p) Fundamental o incremento de medidas destinadas a tornar a justiça mais eficaz, modernizando os tribunais com medidas de organização e suporte à actividade judicial, maior e mais eficaz desmaterialização processual, reduzindo os ciclos de resolução criando um novo modelo de organização e funcionamento interno dos Tribunais. Pagamento atempado a advogados oficiosos.
+
+q) Melhoramento do sistema de denúncia, protecção e acompanhamento das vítimas de violência doméstica, especialização de juízes e procuradores no tratamento de crimes de cariz sexual e violência doméstica. Criação de um gabinete de urgência de apoio imediato às vítimas de violência doméstica e agravamento da moldura penal para os agressores. Criação de locais de acolhimento às vítimas de violência doméstica de forma a atenuar ou mitigar o seu sofrimento.
+
+r) A nacionalidade portuguesa deve ser atribuída prioritariamente a descendentes de portugueses.
+
+s) Possibilidade de atenuação especial de pena para arguidos que colaborem com a Justiça, com regime de produção de prova complementar, com a outorga de Acordos de Leniência e Pactos de Clemência, com introdução no Sistema Penal Português, de mecanismos de “Plea Bargaining”, em crimes de corrupção, de branqueamento de capitais, de associação criminosa, e outros de criminalidade económica (mormente de práticas que se traduzam em comportamentos que violem a Livre Concorrência nos mercados ou visem influenciar variáveis concorrenciais relevantes, nomeadamente através de fixação de preços de aquisição ou de venda ou outras condições de transacção, atribuição de quotas de produção ou de venda, repartição de mercados, incluindo a concertação em leilões e concursos públicos, restrição de importações, e inibição de práticas anti concorrenciais contra outros concorrentes), com avaliação, caso a caso, em ilícitos que envolvam criminalidade violenta de outros arguidos e cúmplices.
+
+**3.2. SEGURANÇA**
+
+Os novos soldados e os novos exércitos não têm farda; os novos perigos e ameaças à segurança não se resumem às armas nucleares e aos atentados terroristas, por muito ameaçadores que eles sejam, são-no de facto. Esses novos perigos a que se torna imperativo estarmos vigilantes e sermos combativos passam também pela imigração descontrolada, pelo tráfico de drogas, pela mobilidade das redes do crime organizado.Assim sendo
+
+a) Defendemos o reforço da autoridade moral do corpo policial, desagravando-o da tácita suspeita de culpabilidade a priori.
+
+b) “Implementar a actividade de Guarda-Nocturno em todos os Concelhos  e Freguesias, criando assim milhares de postos de trabalho e o reforço efectivo da segurança pública, através de um serviço que é exercido em estreita colaboração com as Forças e Serviços de Segurança do Estado.”
+
+c) Define-se que o contrato mínimo de agente de segurança privada é de um ano, após a conclusão com êxito do curso respectivo.
+
+d)  Preparar  de  forma  gradual  a  integração  das  Forças  de  Segurança  numa  única  Polícia Nacional, de forma a agilizar procedimentos e conter custos que neste momento são duplicados ou triplicados. A reorganização das forças de segurança, implicará a melhoria das condições de vida familiar dos profissionais das forças de segurança, porquanto permitir desde logo e num hiato de tempo reduzido o desenvolvimento da atividade profissional em áreas geográficas para as quais teriam de aguardar muitos anos até se obterem as transferências.
+
+a) Implementação da Polícia Judiciária em todas as capitais de Distrito. Reforço de recursos humanos de Investigação criminal, reorganizando as diferentes Polícias.
+
+b)  Reforço  da  Polícia  Marítima  ficando  a  mesma  encarregue  do  serviço  da  Brigada  Fiscal Marítima.
+
+c) Criar condições de eficácia das Forças Militares, de Ordem e Segurança Pública e de Protecção Civil, no combate a calamidades naturais, ao controlo de fronteiras, ao combate à Imigração ilegal, à corrupção, ao branqueamento de capitais, ao enriquecimento ilícito, ao tráfico de seres humanos e de droga;
+
+d) Proibição do uso e porte de arma a qualquer indivíduo que tenha sido condenado em penas (suspensas na sua execução ou efectivas) criminais, por ilícitos contra a integridade física ou contra a Segurança do Estado;
+
+e) Restaurar todo o rigor penal para o crime de terrorismo e os delitos mais graves, incluindo a prisão perpétua.
+
+f) Manter a soberania nacional na aplicação de sentenças dos nossos tribunais. Terroristas, violadores e assassinos em série não poderão beneficiar do amparo de organismos europeus, caso cada vez mais corrente.
+
+g) Tipificação do desperdício publico no Código Penal.
+
+h) Inabilitar para cargos públicos e penalizar os modelos de gestão que aumentem a dívida de Portugal.
+
+i) Exigência da devolução de fundos obtidos irregularmente.
+
+j) Publicação de dados sobre nacionalidade e origem nas estatísticas de delitos
+
+k)  Fim de subvenções públicas a fundações, sindicatos, associações patronais e organizações de proselitismo ideológico. Excluem-se os partidos legalmente constituídos
+
+l)  Anteposição  das  necessidades  de  Portugal  e  dos  portugueses  aos  interesses  de  oligarquias, caciques, lobbies ou organizações supranacionais
+
+**3.3. MIGRAÇÕES**
+
+A presença em Portugal desta nova vaga de imigrantes é já significativa, cerca de 70.000 concentrados no concelho de Sintra. Mas à medida que os países com maior procura forem controlando eficazmente as suas fronteiras, Portugal começará a ver aumentada a “procura”. Haverá que preparar esse momento pelo que neste campo propomos o seguinte:<br/>
+a) Fortalecimento das nossas fronteiras dando à polícia e às forças armadas todos os recursos materiais e humanos para que possam cuidar dessas fronteiras com total eficácia junto com o indispensável amparo legal<br/>
+b) Expulsão dos imanes que propaguem o integrismo, o menosprezo pela mulher ou a jihad<br/>
+c) Proibição de erigir mesquitas promovidas pelo wahabismo, o salafismo ou qualquer interpretação fundamentalista do Islão. Recusar e ilegalizar o financiamento por países terceiros de lugares de culto em solo português<br/>
+d) Exigência do princípio da reciprocidade na abertura de lugares de culto.<br/>
+e) Exigência aos responsáveis da religião islâmica em Portugal uma colaboração total e absoluta na detecção de radicais. Exclusão do ensino do Islão na Escola Pública.<br/>
+f) Deportação dos imigrantes ilegais para os seus países de origem<br/>
+g) Deportação de imigrantes que estejam legalmente em território português mas que hajam reincidido no cometimento de delitos leves ou tenham cometido algum delito grave<br/>
+h) Revisão dos tipos penais e agravamento das penas no combate às máfias da imigração ilegal assim como para quem com elas colabore sejam ONG’s, empresas ou particulares<br/>
+i) Qualquer imigrante que tenha entrado ilegalmente em Portugal estará incapacitado, para o resto da sua vida, para legalizar a sua situação e, portanto, a receber qualquer auxílio da Administração,<br/>
+j) Revogação das vias rápidas para adquirir a nacionalidade portuguesa <br/>
+) Elevar a exigência do nível de idioma, tributação e integração para a aquisição da nacionalidade. Exigir a manutenção da cidadania de origem. Possibilidade de perder a nacionalidade adquirida por actividades contra a soberania, segurança ou independência nacional<br/>
+l) A imigração será encarada tendo em conta as necessidades da Economia portuguesa bem como a capacidade do imigrante para se integrar. <br/>
+m) Serão estabelecidas quotas de origem privilegiando as nacionalidades que compartilhem com Portugal o idioma e a cultura. Combater práticas políticas e religiosas que ofendam o ordenamento jurídico português (mormente, o antisemitismo, as ideologias do género, a aplicação da Sharia, a excisão, os casamentos forçados de menores, a inibição da sua frequência da Escolaridade Mínima Obrigatória, do Racismo de qualquer natureza, entre outras, vigentes e impunes, em comunidades que beneficiam de assistência do Estado, sem adimplemento das normas legais e gerais aplicáveis); <br/>
+n) Prisão efectiva dos membros de redes que as facilitem ou promovam, com punição de “casamentos” e contratos de trabalho forjados.<br/>
+o) Legislação em que se puna com maior severidade a imigração ilegal, com deportação imediata de portadores de Passaportes ou Documentos de Identificação falsificados, e/ou com Cadastro Criminal, em Portugal ou nos países de onde são oriundos, e que não efectuem descontos em sede de IRS ou Contribuições para a Segurança Social; <br/>
+p) Abolir as autorizações de residência para a chamada “protecção humanitária”, como meio de segurança nacional disponível para aqueles que não são elegíveis para o “Estatuto de refugiado”;q) Estabelecer uma lista de países seguros na origem, ou seja, países que têm sistemas políticos democráticos e onde, de forma geral e consistente, não há perseguição política, tortura ou tratamento ou punição desumano ou humilhante, ameaça de violência ou conflito armado;<br/>
+r) Reduzir o sistema de “Asillum Seeker”, de modo a que, apenas menores desacompanhados (que o sejam e cujos documentos de identificação o atestem, e não forjados) e que as pessoas qualificadas para protecção internacional poderão utilizar o sistema, a ser gerido por Municípios Portugueses, com o controle central sobre o processo de asilo, e á concessão, restrita, a serviços sociais básicos;<br/>
+s) Autorizar a revogação da Cidadania Portuguesa, a todos os que, não sendo Portugueses por nascimento, sejam condenados, com trânsito em julgado, por crimes relacionados com terrorismo;<br/>
+t) Reforçar as medidas de garantia da Segurança Pública, com especial relevância para o combate a ameaças do terrorismo e à luta contra a infiltração criminosa de Imigrantes Ilegais, ou indocumentados, e de organizações que a apoiam, e fomentam o tráfico de seres humanos, droga e armas, com a sua imediata deportação.<br/>
+u) Reforço dos meios e poderes do SEF e da actuação dos Tribunais para o cumprimento da Lei, assegurando que os mecanismos de detenção e expulsão sejam imediatamente accionados<br/>
+v) Reforço dos meios dos OPC e da ACT, para detecção de situações de tráfico, escravatura, prostituição de imigrantes ilegais, para criminalizar as Redes que as organizem e promovam.<br/>
+w) Estudar e implementar novas penas complementares ou acessórias a introduzir na Lei, como a de reparação de danos pelo trabalho, castração química para crimes de violação ou de pedofilia e afins, de cassação da nacionalidade em caso de terrorismo, tráfico de seres humanos, tráfico de drogas, ou de crimes contra a liberdade religiosa e a integridade física designadamente sempre que praticados por cidadãos naturalizados em Portugal.<br/>
+x) A perda de nacionalidade deve ser cassatória como pena acessória, para os naturalizados condenados por crimes de violência contra terceiros, terrorismo e tráfico de estupefacientes. <br/>
+y) A aquisição de nacionalidade caduca sempre que o beneficiário tenha cadastro por crimes de violência contra terceiros.<br/>
+z) Os refugiados não poderão obter nacionalidade portuguesa nem residência, mas sim uma autorização em forma de título precário de refugiado, enquanto o seu país de origem se mantiver em situação guerra.
+
+**3.4. PROTECÇÃO CIVIL**
+
+O alto risco sístimo a que o país se encontra sujeito com particular relevo para a sua orla atlântica aconselham o máximo cuidado no que respeita a políticas e protocolos de prevenção. Assim sendo, e sem prejuízos de otras medidas que atempadamente proporemos sugerimos, desde jáa) A criação do Instituto Português de Sismologia que ,com plena autonomia administrativa e financeira, aborde o estudo, prevenção e reacção ao fenómeno Sismológico.b) Alerta costeiro para evacuações em caso de tsunamis. Embora não se possam prever os grandes sismos, os estudos feitos nos sedimentos mostram uma periodicidade com intervalos de 200 a 400 anos. O terramoto de 1755 provocou o último grande tsunami, o que nos deixa dentro da janela temporal. Vários especialistas, quando do tsunami do Japão, alertaram para o perigo de não haver alertas de tsunami na zona costeira, com especial destaque para o acentuado perigo de invasão do mar na zona ribeirinha de Alcântara, Cruz Quebrada e Oeiras.
+
+### **4- DEFESA**
+O CHEGA defende uma política de defesa consistente com a política externa, sendo claro que uma política de defesa autónoma perdeu, para um país com a dimensão de Portugal e no mundo de hoje, qualquer sentido. Assim sendo, as forças armadas portuguesas haverão de ter conta a estrutura multipolar em que preconizamos assente a política externa portuguesa. É em função dessa estrutura tmultipolar que deverão ser definidos os objectivos estratégicos da nossa política de Defesa e é à luz desses objectivos estratégicos que a profunda reorganização das nossas forças armadas terá de ser levada a cabo. Assim e desde logo, afirma-se, de um ponto de vista genérico<br/>
+A indispensabilidade da existência de Forças Armadas nacionais. Não há política externa sem soberania e não há soberania sem forças armadas minimamente credíveis.<br/>
+Desenho e implementação de uma nova política de Defesa orientada para proteger o nosso país de uma forma totalmente autónoma.<br/>
+O conceito central de que as Forças Armadas existem para servir o país e não o país para servir as Forças Armadas, ou seja, há que proceder a uma radical reestruturação das Forças Armadas, adequando a sua dimensão, estrutura e custos às verdadeiras necessidades e não, como até aqui, às necessidades e interesses da corporação, ou da federação de corporações que hoje as controlam e dominam.<br/>
+Às Forças Armadas reorganizadas não poderão faltar meios nem recursos necessários à efectivação da sua missão, dado serem elas, como já referido, uma instituição vital e imprescindível à sobrevivência de Portugal enquanto nação independente.<br/>
+De um ponto de vista mais específico, sublinha-se a indispensabilidade de<br/>
+Uma presença activa de Portugal na NATO. Defende-se, desde logo, o comprometimento absoluto com uma Nato que parece estar a evoluir, vencida a barbárie original que a justificou, para uma guarda avançada do mundo civilizado contra o mundo cinzento articulado em torno dos estados-párias.<br/>
+A  constituição  de  um  pilar  de  cooperação  em  matéria  de  segurança  e  defesa,  em  moldes a estudar, no âmbito da CPLP.
+
+### **5 - COMUNIDADES PORTUGUESAS**
+Nós não somos 10 milhões de portugueses. Nós somos 15 milhões. 10 milhões de um forma ou de outra conformados com os estreitos limites que a goegrafia nos marcou e cinco milhões que se não conformaram, não desistiram, e estão hoje espalhados pela Europa e pelo Mundo. E que se sentem estrangeiros nos países onde vivem mas se sentem, também, estrangeiros em Portugal. O CHEGA decidiu lutar para que os emigrantes portugueses recuperem a sua Pátria e o reconhecimento e a gratidão que essa Pátria lhes deve. No tempo em que não havia Europa e os fundos da Europa, eles foram a nossa Europa; e no dia em que a Europa nos faltar, eles não nos faltarão se nós lhes não falharmos agora.<br/>
+Assim sendo, o CHEGA compromete-se a, sendo Governo, criar o Ministério das Comunidades Portuguesas, que terá como objectivo tomar as medidas necessárias, mantê-las e aperfeiçoá-las de forma a que os portugueses espalhados pelo mundo se voltem a sentir portugueses.
+
+### **6 - PATRIMÓNIO CULTURAL, AMBIENTE E TURISMO**
+
+Considera o CHEGA que é função soberana do Estado a preservação do Património Cultural, material e imaterial, pois que é um bem da Nação, faz parte da sua Hitória e, como tal, é um bem que a todos dz respeito.  <br/>
+Este  património  cultural  engloba  uma  grande  variedade  de  bens,  que  vão  desde  o  património  edificado  até  à  trechos  de  paisagem  protegida,  passando  pela  Reserva  Ecológica  Nacional,  Gastronomia  e  acervo  artístico  das  inúmeras  igrejas  e  capelas  pertencentes  à  Igreja  Católica.  É  partindo  do  aproveitamento  escrupuloso,  sensato  e cuidadoso deste património multiforme que devemos moldar o Turismo que verdadeiramente nos interessa, que é o de gama alta e muito alta, pois que este procura, exactamente, um ambiente que reúna esses vários elementos do nosso riquíssimo património cultural. Património cultural e turismo deverão ser tutelados por um ministério a quem competirá não interferir na actividade turística mas sim, quando da preservação e restauro do património ter em conta que deve ser feita de tal modo que possa ter o aproveitamento turístico óptimo. Iso para além da cuidadosa montagem de um sistema  que  permita  organizar  num  todo  coerente  a  multiplicidade  de  factores  que  dão vida e consistência ao conjunto do nosso património cultural.
+
+1. Plano integral para o conhecimento, difusão e protecção da identidade nacional e dos contributos dados por Portugal para a civilização e para a história universal, com especial atenção para as gestas e feitos dos nossos heróis nacionais
+2. Manter e preservar, sem revisionismos circunstanciais, a onomástica e toponímia originais de monumentos históricos e vias de comunicação;
+3. A preservação, por opção dos Municípios, de tradições culturais e artísticas específicas e pretendidas pelas populações.
+4. Rejeição  do  multiculturalismo  e  de  qualquer  política  pública  nele  fundamentado  caso, por exemplo, das discriminações positivas com base étnica, cultural ou religiosa. O Chega suscitará a inconstitucionalidade de tais práticas.
+5. O ensino e a promoção, sem interferências revisionistas e ideologias que a adulterem, da História de Portugal, alicerçadas nos Factos objectivos que a marcaram;
+6. Um Sistema Educativo acessível a todos, vocacionado para a consolidação dos valores culturais e civilizacionais judaico-cristãos, sem interferência de correntes que se filiam na chamada “ideologia do género” e no dito “marxismo cultural”
+7. Criação de um novo regime de tipo fundacional para proteger o património cultural móvel  ou  imóvel  indivisível,    de  interesse  histórico,  como  grandes  arquivos  familiares,  colecções temáticas, monumentos edificados de entre outros. para a tutela, conservação e divulgação de acervos de património histórico de interesse, mobiliário, imobiliário ou misto, designadamente o indiviso de natureza familiar. como grandes arquivos familiares.
+8. Revogação  do  Decreto-  Lei  que  entrega  a  gestão  dos  imóveis  classificados  aos  Municípios contra a vontade destes mesmos municípios.
+9. Revogação  imediata  da  isenção  de  fiscalização  de  obras  em  Imóveis  Históricos,  classificados ou não, quando destinados ao Turismo, com vista à sua preservação
+10. Atribuição  de  autonomia  financeira  ao  Museu  Nacional  de  Arte  Antiga,  primeiro  Museu de Portugal.
+11. Criação do Museu dos Descobrimentos.
+12. Suspensão imediata do acordo ortográfico e início dos trâmites necessários à sua revogação.
+13. Exigir o devido reconhecimento da língua portuguesa a nível internacional conforme a sua importância como uma  das cinco línguas mais faladas do mundo, com 273 milhões de falantes
+14. Protecção de todas as actividades culturais de tradição erudita ou popular
+15. Proibir as práticas de excisão e os casamentos de, e entre, menores
+
+### **AMBIENTE**
+
+A preservação do ambiente é, para o CHEGA, uma funçãoo soberana do Estado. Trata-se de validar e fazer cumprir um contrato implícito entre gerações. A defesa equilibrada e ponderada do ambiente é uma causa nacional, logo necessariamente abraçada pelos conservadores liberais que somos. Nestes sentido toda a actividade económica será regulada tendo as questões ambientais em linha de conta. Como vector essencial de uma política de Ambiente temos o da preservação e revitalização do Mundo Rural. <br/>
+Tendo esta realidade em linha de conta, e de um ponto de vista mais prático e específico o CHEGA propõe:<br/>
+i.4.1. Execução de um plano de reflorestação a nível nacional;<br/>
+i.4.2. Aposta numa economia progressivamente menos dependente do petróleo, mediante a substituição dos combustíveis fósseis pela energia nuclear, eólica, marés, solar e biomassa, em particular a utilização do álcool em motores de combustão interna;<br/>
+i.4.3. Recusa do ambientalismo malthusiano e catastrofista, com a sua visão do homem como predador e destruidor da Natureza;<br/>
+i.4.4. Premiar o combate ao desperdício alimentar.<br/>
+i.4.5. Investir na ampliação dos recursos estratégicos de água potável.<br/>
+i.4.6. Investir na redução drástica dos 43% de água potável perdida nas redes de distribuição pública.<br/>
+i.4.7. Financiar a apicultura e combater a praga da vespa asiática, pagando a geolocalização das colmeias desse tipo de vespas<br/>
+i.4.8. No âmbito da defesa da Reserva Ecológica Nacional ( REN ) e da Reserva Agrícola Nacional (RAN), assim como da Paisagem, revogação imediata da figura do Plano de Interesse Nacional (PIN) e revisão da questão dos Direitos Adquiridos.<br/>
+i.4.9. Promover e incentivar financeiramente o plantio e a exploração de espécies arbóreas mediterrânicas muito especialmente o castanheiro e o sobreiro.<br/>
+i.4.10. Premiar fiscalmente as empresas de restauração e as cantinas com programas de efeitos mensuráveis de combate ao desperdício alimentar, com o recurso ao redimensionamento das doses, dos acompanhamentos, da utilização do sistema de re-food, de pesagem dos desperdícios para agravamento da factura a pagar pelo utente, de entre outros<br/>
+i.4.11. Introduzir no ensino básico e secundário a leccionação das boas práticas de combate ao desperdício, designadamente nas áreas da alimentação e do vestuário.<br/>
+i.4.12. Rever o Código Penal e o Código do Processo Penal, agilizando procedimentos sempre que possível e adequando o agravamento de penas em crimes contra o ambiente e em especial contra a qualidade dos recursos hídricos, por parte de empresas e de particulares.<br/>
+i.4.13. Redução para metade dos custos inerentes às licenças de caça (especialmente caça grossa), e de toda a burocracia excessiva existente.<br/>
+i.4.14. Alteração da nova lei das armas permitindo a conservação de armas anteriormente legalizadas e herdadas, em cofre próprio, permanentemente, desde que o novo utente não tenha sido condenado definitivamente em qualquer crime de natureza violenta, toxicodependência, tráfico ilegal, alcoolismo ou corrupção. Tal alteração deve permitir a qualquer tempo, a venda ou doação de armas por parte de herdeiros nesta situação.<br/>
+i.4.15. Recuperação da profissão de guarda florestal, de primordial importância para detectar os fogos florestais ao primeiro indício, e para vigiarem os terrenos e florestas. Criação do posto de adjunto de guarda florestal, podendo o guarda florestal criar uma equipa de vários adjuntos, que vigiem e façam a limpeza dos terrenos e florestas da área. <br/>
+i.4.16. Reformulação da moldura penal para o crime de fogo posto e que contemple: a) um agravamento substancial das penas de prisão por equiparação do crime de fogo posto ao crime de terrorismo; b) a obrigatoriedade do pagamento de indemnizações aos proprietários dos terrenos ardidos; c) os presos condenados por fogo posto irão trabalhar, quando tal seja necessário, na limpeza das matas e no replantio de matas ardidas .<br/>
+i.4.17. Impossibilidade de construção e obrigatoriedade de plantar árvores autóctones da região nas zonas ardidas. <br/>
+i.4.18. Revisão do modelo de aplicação da PAC de forma a permitir que as ajudas atinjam um grau de satisfação maior àqueles que vivem exclusivamente do campo.<br/>
+i.4.19. Em geral, combater as desigualdades de oportunidades que separam os cidadão do meio rural e do meio urbano. Desigualdade digital (acesso e qualidade da internet), de infra-estruturas (transporte, energia e água) educativa, cultural e de acesso à saúde.
+
+### **II B - FUNÇÕES REGULADORAS E ARBITRAIS**
+
+De entre as funções soberanas do Estado sobressai o das suas competências como árbitro e regulador no campo da Economia. Ao Estado não compete a detenção directa ou indirecta,  maioritária ou minoritária, com golden-share ou sem ela, do capital social de qualquer empresa industrial ou de serviços no âmbito primário, secundário ou terciário da economia. Ao Estado compete uma função arbitral e não a de concorrente com empresas privadas. Não cabe, pois, ao Estado ser o “dono” na Economia, como  o  entendem  os  comunistas;  nem  motor  da  Economia,  como  o  entendem  os  socialistas; ou mesmo dinamizador da Economia, como o entendem os sociais-democratas e democratas - cristãos. Ao Estado não compete a produção ou distribuição de bens e serviços, sejam esses serviços de Educação ou de Saúde, ou sejam os bens vias de comunicação ou meios de transporte. Ao Estado compete, como o entendem os conservadores liberais que somos, funcionar como entidade arbitral, reguladora e, no limite, supletiva não interferindo na produção e oferta de bens ou serviços limitando-se, por intermédio de entidades para o efeito constituídas, a regular e arbitrar no âmbit dos vários mercados, de forma a que se não constituam monopólios ou oligopólios, e que o preço e qualidade de serviços como os de Saúde e Educação prestados por privados estejam alinhados por padrões médios aceitáveis na sua relação qualidade/Preço. Assim sendo<br/>
+a) Ao Estado apenas caberá intervir na actividade económica como entidade arbitral e reguladora (correcção das ineficiências de mercado) e nunca como dinamizadora, e muito menos motora dessa actividade. <br/>
+b)  No cumprimento do princípio fundamental da subsidiariedade, a entidade ”Estado” será meramente supletiva e/ou complementar na prestação de serviços e fornecimento  de  produtos  e  apenas  depois  de  esgotadas  todas  as  alternativas  privadas,  sociais, mutualistas ou cooperativas para a prestação desses serviços.<br/>
+c) Como corolário do princípio anterior uma Lei Orgânica de um Governo do CHEGA contemplará um número substancialmente mais modesto do que aquele que tem sido usual no que respeita a ministérios que não correspondam a funções soberanas do Estado<br/>
+d) Desses usuais ministérios e que num governo do CHEGA  deixariam de existir, as atribuições de carácter arbitral e reguladoras transitariam para organismo a criar na dependência da Presidência do Conselho de Ministros. O papel que esses ministérios desempenham  como  supostos  dinamizadores  das  actividades  dos  respectivos  sectores  será  devolvido  à  sociedade  civil;  no  que  respeita  ao  papel  por  eles  desempenhado como indutores de ineficiências várias será liminarmente extinto. O papel que ao  Estado  compete  desempenhar  no  âmbito  das  actividades  económicas  dispensa,  perfeitamente, a pesada estrutura típica de um Ministério, sendo para o desempenho desse papel mais do que suficiente a de um organismo bem mais leve dependendo da Presidência do Conselho de Ministros.
+
+### **III - FUNÇÕES PATRIMONIAIS**
+a) Revogação da Lei de Bases da Habitação que regula incumbir ao Estado português a garantia o “direito” a habitação a todos os cidadãos independentemente, entre outros critérios, do território de origem ou da nacionalidade. <br/>
+a. Entendemos que não deverá ser obrigação do Estado providenciar habitação social  a  cidadãos  estrangeiros  -  imigrantes,  migrantes  ou  refugiados  -  residentes  em  território nacional com base em medidas de discriminação positiva conforme indica a mesma Lei. <br/>
+b. Não se aceita que o Estado incentive e legisle a autorização de “ocupação” de habitações devolutas de propriedade privada. <br/>
+c. Não se aceita que o Estado considere o direito à habitação permanente em casas arrendadas. <br/>
+d. Exige-se a revogação de uma Lei hiper-reguladora e híper-controladora do mercado habitacional público e privado, que promove a habitação social em grande escala sem referência às reais necessidades locais e sem definir se se destina a migrantes estrangeiros  ou  a  cidadãos  nacionais,  ou  até  mesmo  quem  a  financiará  -se  fundos  Europeus de apoio à migração se o Orçamento de Estado. <br/>
+e. Revoga-se uma Lei que condiciona o investimento imobiliário nacional e estrangeiro de acordo com as políticas do Estado. O mercado de habitação deve ser livre e não nacionalizado ou controlado pelo Estado como a mesma Lei propõe. <br/>
+b)  Promover  o  apoio  à  manutenção  da  casa  própria  ou  arrendada  como  regra.  O  Estado não deve ser o Grande Senhorio. Uma Lei de Bases da Habitação que promove a habitação social como solução para a residência nas maiores cidades assume o empobrecimento dos portugueses e a perda de autonomia na questão mais básica da sua vida: a habitação.<br/>
+c) Não permitir a implementação de ideologias de género ou de perspectivas feministas no ordenamento urbano e territorial. Travar o planeamento urbano de género realizado com base na etnia, sexo ou orientação sexual dos cidadãos. O ordenamento, a acessibilidade e a segurança urbana deve ser pensado para todos. A cidade não é machista  nem  opressora  e  resulta  de  séculos  de  história  de  evolução  e  desenvolvimento. <br/>
+d) Apoiar a descentralização da habitação permanente nas maiores cidades fomentando serviços, equipamentos e transportes para as cidades satélites mais próximas. Privilegiar a saída das cidades apoiando o arrendamento ou aquisição de habitação própria com preços mais baixos do que os praticados nos centros urbanos, com vista à autonomia e desafogo económico das famílias. Fomentar a deslocalização das pessoas das maiores cidades aumentando a sua proximidade a regiões menos urbanas e estabelecendo novas sinergias e dinâmicas de relação com zonas de menor densidade populacional.<br/>
+e) As diferentes fases da vida das pessoas e das famílias revelam-se também em diferentes  necessidades  de  habitação.  Começa  com  o  início  da  vida  autónoma  dos  mais  jovens,  segue-se  a  constituição  de  família  com  filhos  e  termina  com  velhice  e/ou viuvez em que a habitação pode tornar-se novamente a residência de um único e solitário elemento. As necessidades variam ao longo de uma vida que é cada vez mais longa, e acreditamos que a mudança e reajuste pode ser salutar. A habitação não é nem deve ser estática desde que se nasce até que se morre. Promover a mudança e o ajuste dos espaços de habitação às reais necessidades familiares e à melhoria da qualidade  de  vida.  O  nascimento  de  mais  um  filho  ou  mudança  de  local  de  trabalho  serão factores fundamentais para essa mudança e ajuste.<br/>
+f) Incentivar e apoiar a mobilidade de inquilinos idosos que residem sozinhos em casas  arrendadas  sobre-dimensionadas  para  a  sua  fase  de  vida  não  lhes  permitindo  viver condignamente por falta de condições de salubridade e/ou obras de renovação incompatíveis com as baixas rendas e pela despesa inerente ao excesso de espaço e consequente  dificuldade  de  aquecimento  e  manutenção.  Renegociação  destes  contratos de arrendamento com vista a melhores condições dos inquilinos idosos, mantendo  a  freguesia  de  residência  se  assim  o  desejarem,  e  disponibilizar  no  mercado  imobiliário maiores casas paras as famílias.<br/>
+g)  Alterar  os  novos  contratos  de  arrendamento  para  pessoas  com  deficiência,  séniores ou idosos permitindo maior garantia para o senhorio do cumprimento e termo contratuais. A legislação super-proteccionista dos arrendatários nestas condições resulta  numa  efectiva  diminuição  ou  até  ausência  de  oferta  de  habitação  pelo  receio  dos senhorios de perda de autonomia contratual em prejuízo dos próprios arrendatários.  A  excessiva  protecção  destes  inquilinos  com  rendas  antigas  tem  tido  efeitos  perversos em quem procura actualmente arrendar casa nas mesmas condições. <br/>
+h)  Garantir  o  direito  de  preferência  na  compra  da  morada  de  família  em  caso  de  morte até ao segundo grau em linha direta (casas de pais e/ou avós). Filhos ou netos residentes em território nacional poderão exercer o seu direito de preferência na compra da morada de família que tenha sido dos seus pais e/ou avós garantindo a manutenção de laços afectivos, culturais e de memória que esse património imobiliário contém.<br/>
+i) Incentivar a reabilitação patrimonial e urbana com base na manutenção do uso inicial do edificado com vista à salvaguarda dos bens imóveis penalizando o fachadismo pela destruição interior adaptada a programas incompatíveis com a tipologia interna.<br/>
+j) Permitir que o património religioso pertencente ao Estado possa ser concedido ao seu uso inicial de culto. Não faz sentido que com tanto património religioso devoluto – mosteiros e conventos – se promova a construção de novos edifícios para este efeito e que não seja permitida a reutilização ou a residência e manutenção patrimonial pelos mesmos religiosos. Por exemplo, atualmente os monges de Cister não têm mosteiro em território nacional tendo que se deslocar à Galiza, havendo no entanto vários mosteiros de Cister devolutos e arruinados em Portugal.<br/>
+k) Incluir o património militar num plano de Protecção Civil para uso em caso de catástrofe natural não permitindo a sua reabilitação para usos incompatíveis e irreversíveis com a sua natureza proteccionista. A sua articulação com as principais vias de comunicação e pontos estratégicos dos centros históricos confere-lhes qualidades essenciais em caso de catástrofe natural e eventual uso militar para a protecção civil.<br/>
+l) Revogação da Lei que permite que engenheiros civis sejam autores de projectos de arquitectura incluindo projectos de reabilitação e restauro patrimonial. A arquitectura deve ser feita apenas por arquitectos.
+
+### **IV – FUNÇÕES SUBSIDIÁRIAS E/OU SUPLETIVAS**
+Cabem neste grupo todas as funções do Estado para o qual este se não encontra particularmente vocacionado mas que este presta a título oneroso ou gratuito quando no âmbito da Economia privada ou da Sociedade civil nenhuma entidade se mostra disponível para as prestar, usualmente pela baixa, ou mesmo mesmo relativa rentabilidade esperada.
+
+**1. INOVAÇÃO E TECNOLOGIAS DE VANGUARDA**
+
+Sociedade do Conhecimento em que vivemos não se compadece com atrasos de implementação, erros de percurso e falhas de informação. É uma área crucial e uma daquelas em que o Estado tem toda a obrigação de proporcionar aos mercados portugueses informação actualizada sobre tudo o que nesse campo se passa pelo mundo. Assim sendo e sem qualquer interferência no mercado como produtor, fornecedor de capitais ou, mesmo, dinamizador. Sugerimos que seja criada uma agência governamental que tenha o papel de se manter actualizada sobre tudo o que respeite a Inovação ou tecnologias de vanguarda para que as entidades privadas possam ter acesso a informação permanentemente actualizada, por um lado, e para funcionar como consultora do Estado para a permanente actualização da gestão da máquina do Estado nas suas várias vertentes.
+
+**2. ENSINO SUPERIOR**
+a) Instituição do Cheque-Ensino igualmente para o Ensino Superior<br/>
+b)  O  Cheque  Ensino  terá  em  conta  os  custos  médios  do  curso  universitário  a  que  reporta.<br/>
+c)  Qualquer  aluno  frequentando  o  Ensino  Superior  que  reprove  um  ano  sem  séria  justificação passará a receber o cheque-ensino pela metade; reprovado que seja uma segunda vez igualmente sem cabal justificação, passará a custear por inteiro os seus estudos até ao final do seu curso. <br/>
+d) As propinas terão em conta as necessidades de Portugal nas áreas científicas e técnicas a que essas propinas digam respeito. As propinas a pagar por um curso de engenharia civil ou informática teráo necessariamente de tender para zero, enquanto que as propinas a pagar por um curso de Sociologia teráo de tender para o custo real do curso.<br/>
+e) A possibilidade de leccionar livremente os candidatos será uma prerrogativa que garantiremos a todos os estabelecimentos de Ensino Superior<br/>
+f) Propomos que o Estado inicie um processo de privatização de parte das instituições universitárias e politécnicas que detenha.
+
+**2. SAUDE**
+
+O Estado não deverá, idealmente, interferir como prestador de bens e serviços mo Mercado da Saúde mas ser apenas, um árbitro imparcial e competente, um regulador que esteja plenamente consciente da delicadeza, complexidade e sensbilidade deste Mercado. Tendo isso em conta, propomos:
+
+1. Concentrar a actuação do Estado, neste caso por intermédio do Ministério da Saúde numa função essencialmente de arbitragem, de regulação e de inspecção. Essas funções seriam exercidas sobre todos os estabelecimentos de Saúde – hospitais, clínicas e Centros de Saúde. Quanto às funções acima referidas de arbitragem, de regulação e de inspecção são, no essencial, as que se seguem: <br/>
+a) Elaboração de tabela de preços de base para actos médicos e cirúrgicos por parte do Ministério ou de entidade reguladora dos serviços de saúde, a criar;<br/>
+b) Elaboração dos parâmetros a que devem obedecer as entidade que pretendam prestar serviços de saúde.<br/>
+c) Celebração de contratos/convenções com as entidades que cumpram os requisitos anteriormente definidos;<br/>
+d) Regulamentação, com base na tabela mencionada em 1) do cheque-saúde;<br/>
+e) Obrigatoriedade dos serviços prestadores de cuidados médicos ou paramédicos, aquando da concessão da alta clínica, de fornecer factura discriminada de todos os gastos com o doente, independentemente do pagamento da despesa ser efectuados, ou não, pelo cidadão.<br/>
+f) Introdução de escalões de taxas a cobrar nos serviços de saúde de acordo com rendimentos pessoais, relativamente aos custos reais.<br/>
+g) Eliminação do acesso gratuito a serviços de saúde para imigrantes ilegais e comparticipação para todos os residentes legais que não tenham um mínimo de 5 anos de permanência em Portugal, com excepção de serviços de urgência.<br/>
+h)  Criação  de  uma  Rede  de  Cuidados  Paliativos  e  de  Residências  Geriátricas  que  procurem suprir as necessidades dos cidadão mais idosos para que tenham uma vida digna e confortável até ao fim. <br/>
+i) A criação de uma carreira de médico dentista na administração pública que aguarda  aprovação  há  mais  de  um  ano  e  que  permita  que  todas  as  Unidades  de  Saúde  tenham profissionais nesta área completamente negligenciada pelos consecutivos governos.
+
+**OUTRAS MEDIDAS QUE URGE TOMAR**
+1. Acabar com os numerus clausus em todas as faculdades de medicina do País.
+2. Reforçar a livre escolha do doente no âmbito dos cuidados de saúde, entre o serviço público, privado e social, de modo que este receba uma resposta atempada e de qualidade a um baixo custo por ato/exame (se possível, inferior ao que seria obtido no SNS). Para tal, e também tendo em conta o princípio básico de que cabe ao Estado financiar a Procura e nunca a Oferta será instituído o Cheque-Saúde. A Entidade Reguladora da Saúde definirá as condições genéricas de um seguro de saúde típico e dará, aos cidadãos que provem recursos insuficientes, um cheque-saúde mensal destinado a custear, em empresa escolhida pelo doente, um seguro de saúde. Esta dupla solução privatização – Cheque Saúde permitirá que os descontos para o sistema de saúde venham a ser substancialmente diminuídos.
+3. Promover a gestão privada dos hospitais públicos, com demonstração publica do beneficio obtido e redução de custos para o contribuinte, invertendo a política que o actual Governo tem vindo a levar a cabo de reversão da gestão privada dos hospitais públicos.
+4. Haver um sistema de compras centralizado no SNS para todo o país, para diminuição de custos na aquisição de medicamentos/dispositivos e equipamentos médicos.
+5. Excluir da comparticipação moléculas de classes possuidoras de genéricos (ex. analgésicos, AINEs, anti hipertensores), que não trazem valor acrescentado relevante e cujo preço de venda ao público (PVP) e respectiva comparticipação, oneram desnecessariamente as contas públicas.
+6. Aumento da quota de genéricos para ¾ e aumentar a literacia sobre os genéricos no consumidor.
+7. Interconexão informática entre os centros de saúde satélites e a sua unidade hospitalar de referência, e numa segunda fase a todas as unidades do país, de modo a evitar a duplicação de pedidos de análises e de outros exames. Outro beneficio acessório, é o de se ter acesso rápido a informação clínica, poupando tempo, que seria destinado a colhê-la de novo, cada vez que um doente é avaliado em qualquer unidade de saúde.
+8. Promover o uso racional e eficaz dos serviços de saúde, condicionando o seu uso abusivo e as falsas urgências.
+9. Alargar o funcionamento de USF a todo o Continente e Regiões Autónomas com o mesmo nível de exigência e avaliação de indicadores de qualidade, performance e custo.
+10. Alargamento do horário semanal dos profissionais de saúde das 35 para as 40 horas semanais
+11. Vacinas infantis obrigatórias e gratuitas
+12. Alargamento dos cuidados de saúde oral nos Centros de saúde até à idade adulta.
+
+### **3. SEGURANÇA SOCIAL**
+A garantia pública contra um conjunto de riscos e eventualidades, não significa, nem implica um Estado monopolista dos serviços de protecção social. O gigante administrativo em que se transformaram os serviços de protecção social consome uma parcela significativa dos recursos que deviam ser utilizados na garantia de prestações aos beneficiários. O aparelho inverteu a lógica inspiradora da Protecção Social Pública. Ela nasceu, cresceu e amadureceu para servir os cidadãos, não foi para os cidadãos alimentarem o seu aparelho.Com o objectivo de alterar esta situação, o CHEGA propõe:<br/>
+a) Respeito pelo Princípio da Equidade: a equidade como princípio matriz contrapõe-se ao princípio da igualdade, configurador do actual sistema. A igualdade é indiferente à situação individual de cada cidadão, trata de forma igual situações desiguais;<br/>
+b) Princípio da Liberdade de Escolha: introdução de patamares de protecção social. No patamar da protecção individual (doença, desemprego e doenças profissionais) deve ser permitida a escolha entre as diversas ofertas disponíveis. A liberdade de escolha promove o mercado da oferta, potenciador de eficácia, eficiência e qualidade;<br/>
+c) Substituição progressiva do financiamento por via de impostos directos, por impostos indirectos;<br/>
+d) Criação de uma rede de prestadores de serviços de protecção social. A rede engloba, indiferenciadamente entidades públicas e privadas. O beneficiário é portador de um crédito, cujo montante é definido pelos serviços públicos, mas que exerce junto da instituição que melhor qualidade oferecer;<br/>
+e) Ao rendimento mínimo garantido, terá de corresponder a obrigatoriedade de serviços prestados à comunidade;<br/>
+f) A instituição do serviço comunitário durante a concessão de subsídio de desemprego.
+
+### **4. TRABALHO**
+Fim  dos  vários  privilégios  dos  sindicatos  e  nomeadamente  o  de  poderem  requisitar  filiados  ao  seu trabalho profissional
+
+### **ECONOMIA**
+Ao Estado não compete a detenção directa ou indirecta, maioritária ou minoritária, com golden-share ou sem ela, do capital social de qualquer empresa industrial ou de serviços no âmbito primário, secundário ou terciário da economia. Ao Estado compete uma função arbitral e não a de concorrente com empresas privadas. Não cabe, pois, ao Estado ser o “dono” na Economia, como o entendem os comunistas; nem motor da Economia, como o entendem os socialistas; ou mesmo dinamizador da Economia, como o entendem os sociais-democratas e democratas - cristãos. Ao Estado não compete a produção ou distribuição de bens e serviços, sejam esses serviços de Educação ou de Saúde, ou sejam os bens vias de comunicação ou meios de transporte. Ao Estado compete, como o entendem os conservadores liberais que somos, funcionar como entidade arbitral, reguladora e, no limite, supletiva não interferindo na produção e oferta de bens ou serviços limitando-se, por intermédio de entidades para o efeito constituídas, a regular e arbitrar no âmbito dos vários mercados, de forma a que se não constituam monopólios ou oligopólios
+
+### **6. EMPREGO**
+1. O Estado não deve ter a preocupação de criar empregos, a não ser para os seus serviços, mas apenas  implementar  as  condições  necessárias  para  que  estes  sejam  criados  pelos  agentes  da  sociedade. <br/>
+2. Alteração da legislação laboral no sentido da flexibilização dos fluxos de entrada e saída da situação de empregado;
+3. Maior flexibilização da legislação laboral a vários níveis, de modo a que todos possam ter acesso ao mercado de trabalho, mediante
+4. A liberalização das entradas e saídas do mercado de trabalho. Para que os fluxos aumentem é necessário facilitar as contratações e isto só é possível se os custos de “empregabilidade” - salários, restrições legais, horários de trabalho rígidos, difícil acesso a informação, contribuições para a segurança social e custos de despedimento - forem reduzidos;
+5. A flexibilização dos salários pela aplicação da máxima “salários diferentes para trabalho diferente”;
+6. Alteração dos horários de trabalho especialmente no que respeita à possibilidade de se trabalhar em “part-time”;
+7.  Fixação  de  uma  idade  a  partir  de  qual  a  reforma  se  torne  facultativa  mas  não  obrigatória;
+8. A legislação deverá equiparar os trabalhadores do sector público ao sector privado.
