@@ -44,9 +44,9 @@ A disponibilização dos programas num formato standard permitirá também que s
 **Converter um programa para Markdown**
 1.  Fazer um pull-request para alterar o conteúdo deste README com o vosso nome na coluna responsável e "WIP" na coluna status, para sabermos quem está a trabalhar em qual programa.
 2. Abrir o programa eleitoral disponível no link apresentado na tabela do README em frente ao nome do partido e copiar o conteúdo para um ficheiro markdown.
-⋅⋅2.1 Usamos a notação markdown para marcar títulos (vários níveis), listas e sub-listas. Para referência da syntax, guiamo-nos por este [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-⋅⋅2.2 Cada parágrafo do programa eleitoral deve aparecer como 1 só linha no markdown. Deixamos uma linha livre entre cada parágrafo.
-⋅⋅2.3 Na dúvida, ver alguns dos exemplos já concluídos.
+  2.1 Usamos a notação markdown para marcar títulos (vários níveis), listas e sub-listas. Para referência da syntax, guiamo-nos por este [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+  2.2 Cada parágrafo do programa eleitoral deve aparecer como 1 só linha no markdown. Deixamos uma linha livre entre cada parágrafo.
+  2.3 Na dúvida, ver alguns dos exemplos já concluídos.
 3. Quando a conversão estiver completa, fazer um pull-request com o ficheiro. O nome deve ser a sigla do partido + a data de acesso ao programa.
 
 **Conversa**
