@@ -2,9 +2,9 @@
 
 Um repositório dos programas eleitorais para as eleições legislativas de 2019, em versão Markdown para serem utilizados na plataforma que está a ser construída em www.politicaparatodos.pt
 
-A disponibilização dos programas num formato standard permitirá também que se façam análises de texto interessantes, bem como manter um arquivo para consulta futura.
+A disponibilização dos programas num formato standard permitirá também que se façam interessantes análises de texto, bem como manter um arquivo para consulta futura.
 
-TO-DO:
+## TO-DO:
 
 | Nome do Partido| Programa | Responsável | Status |
 |---|---|---|---|
@@ -33,3 +33,22 @@ TO-DO:
 | Partido Unido dos Reformados e Pensionistas  |  |  |  |
 | PESSOAS-ANIMAIS-NATUREZA | [Link](https://pan.com.pt/eleicoes/eleicoes-legislativas-2019/programa-eleitoral/) | Tiago S. | DONE  |
 | Reagir Incluir Reciclar | | |  |
+
+## Instruções
+
+**Adicionar um link em falta**
+
+1. Confirmar que o programa é o programa eleitoral e não o programa político (no caso de existirem os dois). Aqui estamos interessados nas propostas para as eleições legislativas de 2019, por isso será quase sempre o programa eleitoral o documento de referência certo.
+2. Fazer um pull-request para alterar o conteúdo deste README com o novo link
+
+**Converter um programa para Markdown**
+1.  Fazer um pull-request para alterar o conteúdo deste README com o vosso nome na coluna responsável e "WIP" na coluna status, para sabermos quem está a trabalhar em qual programa.
+2. Abrir o programa eleitoral disponível no link apresentado na tabela do README em frente ao nome do partido e copiar o conteúdo para um ficheiro markdown.
+2.1 Usamos a notação markdown para marcar títulos (vários níveis), listas e sub-listas. Para referência da syntax, guiamo-nos por este [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+2.2 Cada parágrafo do programa eleitoral deve aparecer como 1 só linha no markdown. Deixamos uma linha livre entre cada parágrafo.
+2.3 Na dúvida, ver alguns dos exemplos já concluídos.
+3. Quando a conversão estiver completa, fazer um pull-request com o ficheiro. O nome deve ser a sigla do partido + a data de acesso ao programa.
+
+**Conversa**
+
+* Gerimos o nosso trabalho através de pull-requests e issues aqui no GitHub, mas também pelo nosso [grupo na plataforma Loomio](https://www.loomio.org/d/LxtvTelP/programas-em-markdown).
