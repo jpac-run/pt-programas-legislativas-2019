@@ -14,7 +14,7 @@ A disponibilização dos programas num formato standard permitirá também que s
 | CHEGA  | [Link](https://partidochega.pt/wp-content/uploads/2019/09/PROGRAMA_POL%C3%8DTICO_2019_CHEGA-2.pdf) | Hugo B. | DONE |
 | Iniciativa Liberal | [Set. 2019](https://iniciativaliberal.pt/wp-content/uploads/2019/09/compromisso-eleitoral-iniciativa-liberal.pdf)  |  |  |
 | Juntos pelo Povo | | | |
-| LIVRE | [Link](https://partidolivre.pt/legislativas2019/programa) | Vasco P. | WIP |
+| LIVRE | [Link](https://partidolivre.pt/legislativas2019/programa) | Vasco P. | DONE |
 | Movimento Alternativa Socialista |  |  |  |
 | Nós, Cidadãos! |  |  |  |
 | ~~Partido Cidadania e Democracia Cristã~~ | NÃO SE CANDIDATA A ESTAS ELEIÇÕES EM NENHUM CÍRCULO ELEITORAL  |  |  |
