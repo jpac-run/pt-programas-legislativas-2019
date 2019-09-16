@@ -12,7 +12,7 @@ A disponibilização dos programas num formato standard permitirá também que s
 | Bloco de Esquerda | [Link](https://programa2019.bloco.org/images/programa-com-fotos.pdf)|  Luis C. | DONE |
 | CDS - Partido Popular|[Set. 2019](https://fazsentido.cds.pt/assets/programaeleitoral_legislativascds19.pdf) | Nuno C.| WIP|
 | CHEGA  | [Link](https://partidochega.pt/wp-content/uploads/2019/09/PROGRAMA_POL%C3%8DTICO_2019_CHEGA-2.pdf) | Hugo B. | DONE |
-| Iniciativa Liberal | [Set. 2019](https://iniciativaliberal.pt/wp-content/uploads/2019/09/compromisso-eleitoral-iniciativa-liberal.pdf)  |  |  |
+| Iniciativa Liberal | [Set. 2019](https://iniciativaliberal.pt/wp-content/uploads/2019/09/compromisso-eleitoral-iniciativa-liberal.pdf)  | Hugo B. e David N. | WIP |
 | Juntos pelo Povo | | | |
 | LIVRE | [Link](https://partidolivre.pt/legislativas2019/programa) | Vasco P. | DONE |
 | Movimento Alternativa Socialista |  |  |  |
@@ -24,7 +24,7 @@ A disponibilização dos programas num formato standard permitirá também que s
 | Partido Democrático Republicano |  |  |  |
 | Partido Ecologista "Os Verdes" | [Link](http://www.osverdes.pt/media/Legislativas_2019/12_compromissos_Legislativas2019_PEV.pdf)| Tiago S. | DONE   |
 | ~~Partido Liberal Democrata~~  | NÃO SE CANDIDATA A ESTAS ELEIÇÕES EM NENHUM CÍRCULO ELEITORAL |  | |
-| Partido Nacional Renovador | [Link](http://www.pnr.pt/wp-content/uploads/2019/09/Programa-eleitoral-Legislativas-2019.pdf) |  |  |
+| Partido Nacional Renovador | [Link](http://www.pnr.pt/wp-content/uploads/2019/09/Programa-eleitoral-Legislativas-2019.pdf) | Vasco P.  | WIP |
 | ~~Partido Operário de Unidade Socialista~~ |  NÃO SE CANDIDATA A ESTAS ELEIÇÕES EM NENHUM CÍRCULO ELEITORAL |  | |
 | Partido Popular Monárquico | |  | |
 | Partido Social Democrata | [Link](https://app.box.com/s/x8mh7ycebkpityah14hj6awgue3v0e9j) | Nuno C. e Vasco P. | DONE |
