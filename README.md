@@ -10,13 +10,13 @@ A disponibilização dos programas num formato standard permitirá também que s
 |---|---|---|---|
 | Aliança | [Set. 2019](https://partidoalianca.pt/wp-content/uploads/2019/09/PROGRAMA-FINAL.pdf)   | Luis C. | DONE |
 | Bloco de Esquerda | [Link](https://programa2019.bloco.org/images/programa-com-fotos.pdf)|  Luis C. | DONE |
-| CDS - Partido Popular|[Set. 2019](https://fazsentido.cds.pt/assets/programaeleitoral_legislativascds19.pdf) | Nuno C.| WIP|
+| CDS - Partido Popular|[Set. 2019](https://fazsentido.cds.pt/assets/programaeleitoral_legislativascds19.pdf) | João C.| WIP|
 | CHEGA  | [Link](https://partidochega.pt/wp-content/uploads/2019/09/PROGRAMA_POL%C3%8DTICO_2019_CHEGA-2.pdf) | Hugo B. | DONE |
 | Iniciativa Liberal | [Set. 2019](https://iniciativaliberal.pt/wp-content/uploads/2019/09/compromisso-eleitoral-iniciativa-liberal.pdf)  | Hugo B. e David N. | WIP |
 | Juntos pelo Povo | | | |
 | LIVRE | [Link](https://partidolivre.pt/legislativas2019/programa) | Vasco P. | DONE |
 | Movimento Alternativa Socialista |  |  |  |
-| Nós, Cidadãos! | [Set. 2019](https://noscidadaos.pt/programa-eleitoral-nc-legislativas-2019/) |  |  |
+| Nós, Cidadãos! | [Set. 2019](https://noscidadaos.pt/programa-eleitoral-nc-legislativas-2019/) | Joana F. | WIP |
 | ~~Partido Cidadania e Democracia Cristã~~ | NÃO SE CANDIDATA A ESTAS ELEIÇÕES EM NENHUM CÍRCULO ELEITORAL  |  |  |
 | Partido Comunista dos Trabalhadores Portugueses |  |  |  |
 | Partido Comunista Português | [Set. 2019](https://www.cdu.pt/2019/pdf/programa_eleitoral_pcp.pdf) | Diogo C.|  WIP|
