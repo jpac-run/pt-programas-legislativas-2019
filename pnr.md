@@ -77,16 +77,16 @@ O PNR é um partido completamente independente e livre de pressões, sendo finan
 
 Para esse efeito, o PNR propõe o seguinte conjunto de medidas:
 
-1.1 Apresentar uma proposta para uma nova Constituição da República, que seja ideologicamente neutra, simples e minimal, mas sólida e essencial, e preocupada única e exclusivamente com o futuro dos portugueses e de Portugal;
-1.2 Alterar a actual Lei do Financiamento dos Partidos Políticos, reduzindo o valor total das subvenções actualmente pagas pelo Estado aos partidos, mas de forma a que passassem todos partidos a ter direito a receber a subvenção, calculada em função do número de votos obtidos;
-1.3 Reduzir o número de deputados da Assembleia da República para os 180;
-1.4 Rever a Lei Eleitoral, com vista à criação de um círculo único nacional e à consequente distribuição dos deputados segundo uma lógica rigorosamente proporcional ao número de votos e não segundo o Método de Hondt;
-1.5 Incluir nos boletins de voto a opção de “voto em branco”, deixando vazios os lugares correspondentes na Assembleia da República;
-1.6 Aumentar o período de cada legislatura, dos actuais quatro anos, para seis anos;
-1.7 Incrementar o recurso ao Referendo, de forma habitual, perante as grandes questões nacionais e fracturantes;
-1.8 Impedir a regionalização;
-1.9 Rever a lei do direito à greve e da actividade sindical para salvaguardar, em primeiro lugar, os direitos das populações e o bem comum;
-1.10 Extinguir o Tribunal Constitucional, que é eminentemente de cariz político, e tem um regime de custas proibitivo em matéria de fiscalização concreta da constitucionalidade, e a criação dentro do Supremo Tribunal de Justiça de uma Secção de Contencioso Constitucional.
+* 1.1. Apresentar uma proposta para uma nova Constituição da República, que seja ideologicamente neutra, simples e minimal, mas sólida e essencial, e preocupada única e exclusivamente com o futuro dos portugueses e de Portugal;
+* 1.2. Alterar a actual Lei do Financiamento dos Partidos Políticos, reduzindo o valor total das subvenções actualmente pagas pelo Estado aos partidos, mas de forma a que passassem todos partidos a ter direito a receber a subvenção, calculada em função do número de votos obtidos;
+* 1.3. Reduzir o número de deputados da Assembleia da República para os 180;
+* 1.4. Rever a Lei Eleitoral, com vista à criação de um círculo único nacional e à consequente distribuição dos deputados segundo uma lógica rigorosamente proporcional ao número de votos e não segundo o Método de Hondt;
+* 1.5. Incluir nos boletins de voto a opção de “voto em branco”, deixando vazios os lugares correspondentes na Assembleia da República;
+* 1.6. Aumentar o período de cada legislatura, dos actuais quatro anos, para seis anos;
+* 1.7. Incrementar o recurso ao Referendo, de forma habitual, perante as grandes questões nacionais e fracturantes;
+* 1.8. Impedir a regionalização;
+* 1.9. Rever a lei do direito à greve e da actividade sindical para salvaguardar, em primeiro lugar, os direitos das populações e o bem comum;
+* 1.10. Extinguir o Tribunal Constitucional, que é eminentemente de cariz político, e tem um regime de custas proibitivo em matéria de fiscalização concreta da constitucionalidade, e a criação dentro do Supremo Tribunal de Justiça de uma Secção de Contencioso Constitucional.
 
 ### 2. FAMILIA, VIDA E DIGNIDADE SOCIAL
 
@@ -100,28 +100,28 @@ A Segurança Social deve actuar como um apoio às famílias na preparação do s
 
 Para esse efeito, o PNR propõe o seguinte conjunto de medidas:
 
-2.1. Garantir a isenção do pagamento da taxa de Segurança Social às empresas que contratem trabalhadores temporários durante a licença de maternidade de um progenitor pertencente aos quadros dessas mesmas empresas;
-2.2. Tornar obrigatório que os pagamentos dos serviços básicos que funcionam por escalões (como a água) sejam calculados em função do agregado familiar;
-2.3. Isentar do imposto automóvel a compra de veículos de sete lugares ou mais para famílias com mais de três filhos;
-2.4. Atribuir um subsídio de educação igual ao IAS para cada progenitor que optar por ficar em casa a educar os filhos; 
-2.5. Implementação do Rendimento de apoio à natalidade com vista a combater o inverno demográfico;
-2.6. Implementar um programa nacional de incentivo à natalidade, com a criação de uma rede nacional de creches e infantários com mensalidades adequadas a cada família;
-2.7. Apoiar as empresas que se proponham a criar creches na sua área de laboração;
-2.8. Reencaminhar o dinheiro gasto com subsídios à imigração, com o apoio às associações próimigração e com reformas milionárias para um efectivo apoio à natalidade, majorando os subsídios das famílias portuguesas com mais de duas crianças;
-2.9. Repor os abonos de família;
-2.10. Revogar a actual lei da Interrupção Voluntária da Gravidez (IVG), que banaliza uma situação que apenas deveria ser permitida em casos muito excepcionais, bem como a abolição de qualquer tipo de subsídio para abortar;
-2.11. Revogar a lei de casamento entre pessoas do mesmo sexo;
-2.12. Cortar todas as verbas e apoios a associações LGBT;
-2.13. Criar políticas de apoio aos idosos, com a criação de uma rede de lares e de serviços paliativos com mensalidades adequadas, bem como através de apoios para as famílias que optem por cuidar dos idosos; 
-2.14. Impedir a legalização da eutanásia;
-2.15. Estabelecer uma reforma máxima de 2.500 € e conversão do eventual excesso em Certificados de Aforro, liquidáveis de 3 em 3 anos. O objectivo é poder atribuir uma reforma mínima de 600 euros;
-2.16. Isentar de IRS o dinheiro aplicado em PPR, desde que permaneça até à reforma;
-2.17. Apoiar as famílias com membros deficientes, bem como as associações de deficientes;
-2.18. Apoiar os ex-Combatentes e os deficientes das Forças Armadas;
-2.19. Apoiar os espoliados do Ultramar;
-2.20. Valorizar e apoiar organizações da sociedade civil que visem o apoio social;
-2.21. Valorização e reconhecimento do trabalho de voluntariado;
-2.22. Criação do Ministério da Família.
+* 2.1. Garantir a isenção do pagamento da taxa de Segurança Social às empresas que contratem trabalhadores temporários durante a licença de maternidade de um progenitor pertencente aos quadros dessas mesmas empresas;
+* 2.2. Tornar obrigatório que os pagamentos dos serviços básicos que funcionam por escalões (como a água) sejam calculados em função do agregado familiar;
+* 2.3. Isentar do imposto automóvel a compra de veículos de sete lugares ou mais para famílias com mais de três filhos;
+* 2.4. Atribuir um subsídio de educação igual ao IAS para cada progenitor que optar por ficar em casa a educar os filhos; 
+* 2.5. Implementação do Rendimento de apoio à natalidade com vista a combater o inverno demográfico;
+* 2.6. Implementar um programa nacional de incentivo à natalidade, com a criação de uma rede nacional de creches e infantários com mensalidades adequadas a cada família;
+* 2.7. Apoiar as empresas que se proponham a criar creches na sua área de laboração;
+* 2.8. Reencaminhar o dinheiro gasto com subsídios à imigração, com o apoio às associações próimigração e com reformas milionárias para um efectivo apoio à natalidade, majorando os subsídios das famílias portuguesas com mais de duas crianças;
+* 2.9. Repor os abonos de família;
+* 2.10. Revogar a actual lei da Interrupção Voluntária da Gravidez (IVG), que banaliza uma situação que apenas deveria ser permitida em casos muito excepcionais, bem como a abolição de qualquer tipo de subsídio para abortar;
+* 2.11. Revogar a lei de casamento entre pessoas do mesmo sexo;
+* 2.12. Cortar todas as verbas e apoios a associações LGBT;
+* 2.13. Criar políticas de apoio aos idosos, com a criação de uma rede de lares e de serviços paliativos com mensalidades adequadas, bem como através de apoios para as famílias que optem por cuidar dos idosos; 
+* 2.14. Impedir a legalização da eutanásia;
+* 2.15. Estabelecer uma reforma máxima de 2.500 € e conversão do eventual excesso em Certificados de Aforro, liquidáveis de 3 em 3 anos. O objectivo é poder atribuir uma reforma mínima de 600 euros;
+* 2.16. Isentar de IRS o dinheiro aplicado em PPR, desde que permaneça até à reforma;
+* 2.17. Apoiar as famílias com membros deficientes, bem como as associações de deficientes;
+* 2.18. Apoiar os ex-Combatentes e os deficientes das Forças Armadas;
+* 2.19. Apoiar os espoliados do Ultramar;
+* 2.20. Valorizar e apoiar organizações da sociedade civil que visem o apoio social;
+* 2.21. Valorização e reconhecimento do trabalho de voluntariado;
+* 2.22. Criação do Ministério da Família.
 
 ### 3. SEGURANÇA 
 
@@ -129,14 +129,14 @@ O modelo nacional de segurança pública já não responde eficazmente às amea�
 
 Para esse efeito, o PNR propõe o seguinte conjunto de medidas:
 
-3.1. Defender com determinação as Forças de Segurança, recuperando o seu prestígio e valorizando os seus agentes, devolvendo-lhes para tal a dignidade e o respeito;
-3.2. Revalorizar as remunerações dos agentes da segurança e libertá-los das funções puramente administrativas;
-3.3. Reestruturar o actual modelo de segurança, criando uma Polícia moderna e eficaz e acabando com a actual duplicação de missões e de meios entre a PSP e a GNR;
-3.4. Fornecer os meios técnicos e humanos adequados à função e objectivos das Forças de Segurança;
-3.5. Atribuir subsídio de risco às Forças de Segurança pública e agentes de protecção civil; 
-3.6. Aumentar o actual número de efectivos e reforçar o policiamento de proximidade;
-3.7. Combater toda a espécie de criminalidade, contra pessoas e bens, venha ele de onde vier e seja de que tipo for: desde práticas de vandalismo, como os graffitis, até aos crimes de sangue, passando pelos crimes de colarinho branco, actuações de gangue, etc.;
-3.8. Acabar com a impunidade e desculpabilização dos criminosos;
+* 3.1. Defender com determinação as Forças de Segurança, recuperando o seu prestígio e valorizando os seus agentes, devolvendo-lhes para tal a dignidade e o respeito;
+* 3.2. Revalorizar as remunerações dos agentes da segurança e libertá-los das funções puramente administrativas;
+* 3.3. Reestruturar o actual modelo de segurança, criando uma Polícia moderna e eficaz e acabando com a actual duplicação de missões e de meios entre a PSP e a GNR;
+* 3.4. Fornecer os meios técnicos e humanos adequados à função e objectivos das Forças de Segurança;
+* 3.5. Atribuir subsídio de risco às Forças de Segurança pública e agentes de protecção civil; 
+* 3.6. Aumentar o actual número de efectivos e reforçar o policiamento de proximidade;
+* 3.7. Combater toda a espécie de criminalidade, contra pessoas e bens, venha ele de onde vier e seja de que tipo for: desde práticas de vandalismo, como os graffitis, até aos crimes de sangue, passando pelos crimes de colarinho branco, actuações de gangue, etc.;
+* 3.8. Acabar com a impunidade e desculpabilização dos criminosos;
 
 ### 4. POLÍTICA DE IMIGRAÇÃO E DEFESA DA IDENTIDADE
 
@@ -146,16 +146,16 @@ O multiculturalismo, além de não trazer qualquer benefício, gera forte tensã
 
 Para esse efeito, o PNR propõe o seguinte conjunto de medidas:
 
-4.1. Alterar a Lei da Nacionalidade, baseando-se no jus sanguinis (nacionalidade herdada por descendência) e com excepções apenas nos casos de mérito e de serviços relevantes prestados a Portugal;
-4.2. Inverter os fluxos migratórios;
-4.3. Tornar muito mais restritivas as leis da imigração;
-4.4. Repatriar imediatamente todos os imigrantes ilegais ou os que, estando legais, tenham sido condenados pela prática de qualquer crime, bem como aqueles que não se integrem ou que façam dos apoios sociais, modo de vida (subsídio-dependentes);
-4.5. Extinguir o reagrupamento familiar, para que o mesmo se faça nos países de origem;
-4.6. Acabar com a discriminação positiva e do apoio a minorias étnicas e ideológicas que tiranizam a sociedade;
-4.7. Acabar com o RSI e outros subsídios para minorias inadaptáveis;
-4.8. Retirar o apoio financeiro estatal às associações de imigrantes de apoio às minorias étnicas, pois mais não fazem do que promover o racismo anti-português e uma mentalidade antipolícia;
-4.9. Findar a atribuição do estatuto de refugiado a imigrantes económicos e acabar com o acolhimento destes no nosso país. Um país empobrecido não pode ajudar os outros enquanto existir um único português na pobreza ou precariedade;
-4.10. Travar o crescimento do Islão em Portugal e proibir a construção de mesquitas.
+* 4.1. Alterar a Lei da Nacionalidade, baseando-se no jus sanguinis (nacionalidade herdada por descendência) e com excepções apenas nos casos de mérito e de serviços relevantes prestados a Portugal;
+* 4.2. Inverter os fluxos migratórios;
+* 4.3. Tornar muito mais restritivas as leis da imigração;
+* 4.4. Repatriar imediatamente todos os imigrantes ilegais ou os que, estando legais, tenham sido condenados pela prática de qualquer crime, bem como aqueles que não se integrem ou que façam dos apoios sociais, modo de vida (subsídio-dependentes);
+* 4.5. Extinguir o reagrupamento familiar, para que o mesmo se faça nos países de origem;
+* 4.6. Acabar com a discriminação positiva e do apoio a minorias étnicas e ideológicas que tiranizam a sociedade;
+* 4.7. Acabar com o RSI e outros subsídios para minorias inadaptáveis;
+* 4.8. Retirar o apoio financeiro estatal às associações de imigrantes de apoio às minorias étnicas, pois mais não fazem do que promover o racismo anti-português e uma mentalidade antipolícia;
+* 4.9. Findar a atribuição do estatuto de refugiado a imigrantes económicos e acabar com o acolhimento destes no nosso país. Um país empobrecido não pode ajudar os outros enquanto existir um único português na pobreza ou precariedade;
+* 4.10. Travar o crescimento do Islão em Portugal e proibir a construção de mesquitas.
 
 ### 5. REPOVOAMENTO DO INTERIOR: AGRICULTURA, PESCAS E INDÚSTRIA
 
@@ -179,24 +179,24 @@ Daremos prioridade a unidades industriais de sectores tradicionais, nomeadamente
 
 Para esse efeito, o PNR propõe o seguinte conjunto de medidas:
 
-5.1. Renegociação da política de quotas, com vista a acabar com as actuais, impostas pela UE;
-5.2. Negociação com a UE para que a receita da cedência de quotas de pesca na nossa ZEE seja utilizada para financiar a criação de uma frota pesqueira moderna em Portugal e para criar linhas de crédito (ou, se possível, subsídios) à aquisição das embarcações e equipamento por parte dos industriais que quiserem investir;
-5.3. Imposição de um preço mínimo garantido para os produtos do sector primário, evitando que sofram o esmagamento dos preços feitos pelo cartel dos grandes compradores;
-5.4. Garantir que todos os refeitórios na dependência directa ou indirecta do Estado utilizam preferencialmente produtos portugueses;
-5.5. Criação de uma “bolsa de terras” do Estado, para cedência à exploração, a preços simbólicos, para quem queira dedicar-se à agricultura e não tenha terras próprias;
-5.6. Plano de Fomento dos Sectores de Excelência: horticultura, floricultura, fruticultura, vitivinicultura, olivicultura, pecuária, lacticínios;
-5.7. Incremento produtivo e empresarial à Agricultura Biológica;
-5.8. Incentivo à Indústria Aquífera;
-5.9. Reorganização e apoio ao sector conserveiro, nomeadamente nas cidades do litoral com tradição nesse sector;
-5.10. Assegurar a maior independência alimentar possível e criar reservas alimentares, tendo em conta eventuais convulsões internacionais ou catástrofes naturais, e criar nichos de produção que consigam penetrar nos mercados externos;
-5.11. Apoio e simplificação no desenvolvimento e manutenção das empresas de Construção e de Reparação Naval, de Marinha Mercante e de Pescas;
-5.12. Criação de escolas profissionais para os sectores relacionados com a Construção Naval e formação de quadros para a Marinha Mercante e de Pesca, bem como para o sector agrícola;
-5.13. Optimização e exportação de produtos de excelência;
-5.14. Aposta na indústria da biomassa residual florestal, que permite a rentabilização de produtos florestais para aproveitamento energético e aposta nas energias renováveis.
-5.15. Plano de incentivo ao emprego no interior;
-5.16. Incentivos fiscais para empresas e famílias que se fixem (ou regressem) ao interior;
-5.17. Investimento na ferrovia como forma eficaz de transporte e comunicação;
-5.18. Aposta na prospecção e exploração dos recursos naturais (lítio, gás natural, petróleo etc.).
+* 5.1. Renegociação da política de quotas, com vista a acabar com as actuais, impostas pela UE;
+* 5.2. Negociação com a UE para que a receita da cedência de quotas de pesca na nossa ZEE seja utilizada para financiar a criação de uma frota pesqueira moderna em Portugal e para criar linhas de crédito (ou, se possível, subsídios) à aquisição das embarcações e equipamento por parte dos industriais que quiserem investir;
+* 5.3. Imposição de um preço mínimo garantido para os produtos do sector primário, evitando que sofram o esmagamento dos preços feitos pelo cartel dos grandes compradores;
+* 5.4. Garantir que todos os refeitórios na dependência directa ou indirecta do Estado utilizam preferencialmente produtos portugueses;
+* 5.5. Criação de uma “bolsa de terras” do Estado, para cedência à exploração, a preços simbólicos, para quem queira dedicar-se à agricultura e não tenha terras próprias;
+* 5.6. Plano de Fomento dos Sectores de Excelência: horticultura, floricultura, fruticultura, vitivinicultura, olivicultura, pecuária, lacticínios;
+* 5.7. Incremento produtivo e empresarial à Agricultura Biológica;
+* 5.8. Incentivo à Indústria Aquífera;
+* 5.9. Reorganização e apoio ao sector conserveiro, nomeadamente nas cidades do litoral com tradição nesse sector;
+* 5.10. Assegurar a maior independência alimentar possível e criar reservas alimentares, tendo em conta eventuais convulsões internacionais ou catástrofes naturais, e criar nichos de produção que consigam penetrar nos mercados externos;
+* 5.11. Apoio e simplificação no desenvolvimento e manutenção das empresas de Construção e de Reparação Naval, de Marinha Mercante e de Pescas;
+* 5.12. Criação de escolas profissionais para os sectores relacionados com a Construção Naval e formação de quadros para a Marinha Mercante e de Pesca, bem como para o sector agrícola;
+* 5.13. Optimização e exportação de produtos de excelência;
+* 5.14. Aposta na indústria da biomassa residual florestal, que permite a rentabilização de produtos florestais para aproveitamento energético e aposta nas energias renováveis.
+* 5.15. Plano de incentivo ao emprego no interior;
+* 5.16. Incentivos fiscais para empresas e famílias que se fixem (ou regressem) ao interior;
+* 5.17. Investimento na ferrovia como forma eficaz de transporte e comunicação;
+* 5.18. Aposta na prospecção e exploração dos recursos naturais (lítio, gás natural, petróleo etc.).
 
 ### 6. TRABALHO E POLÍTICA DE EMPREGO 
 
@@ -214,17 +214,17 @@ O PNR defende uma cultura de trabalho, nas mais diversas áreas e profissões, c
 
 Para esse efeito, o PNR propõe o seguinte conjunto de medidas:
 
-6.1. Implementação de Programas de Fomento do Emprego, com prioridade para a população activa jovem e licenciados, e ainda para a população activa da meia-idade e sénior que tenha disponibilidade para trabalhar;
-6.2. Promover uma política tendencial de pleno emprego, com prioridade para cidadãos portugueses nas empresas públicas, sempre que haja esta oferta;
-6.3. Conceder incentivos às empresas para premiar a qualificação profissional, a produtividade, competitividade, internacionalização e a acção social;
-6.4. Conceder incentivos fiscais e de Segurança Social às empresas que criem emprego estável e de longa duração;
-6.5. Conceder incentivos fiscais às empresas que se fixem no interior do país, contrariando o despovoamento do interior e as assimetrias do território nacional;
-6.6. Aumentar o Salário Mínimo Nacional em 50 Euros;
-6.7. Reduzir em 50% por dois anos a taxa de Segurança Social às empresas que contratem sem termo;
-6.8. Isentar da taxa de Segurança Social por dois anos as empresas que contratem sem termo, para o território nacional, portugueses que estejam emigrados há mais de dois anos;
-6.9. Proibir que os funcionários públicos acumulem as suas funções públicas com actividades privadas remuneradas;
-6.10. Compensar a diferença da carga horária entre o sector público e o privado na antecipação da idade de reforma, neste último, equivalente às horas a mais trabalhadas ao longo dos anos;
-6.11. Utilizar os meios de comunicação estatais (RTP e RDP), para a promoção de uma cultura de trabalho e utilidade social e de divulgação das mais diversas profissões e ofícios em programas com interesse prático.
+* 6.1. Implementação de Programas de Fomento do Emprego, com prioridade para a população activa jovem e licenciados, e ainda para a população activa da meia-idade e sénior que tenha disponibilidade para trabalhar;
+* 6.2. Promover uma política tendencial de pleno emprego, com prioridade para cidadãos portugueses nas empresas públicas, sempre que haja esta oferta;
+* 6.3. Conceder incentivos às empresas para premiar a qualificação profissional, a produtividade, competitividade, internacionalização e a acção social;
+* 6.4. Conceder incentivos fiscais e de Segurança Social às empresas que criem emprego estável e de longa duração;
+* 6.5. Conceder incentivos fiscais às empresas que se fixem no interior do país, contrariando o despovoamento do interior e as assimetrias do território nacional;
+* 6.6. Aumentar o Salário Mínimo Nacional em 50 Euros;
+* 6.7. Reduzir em 50% por dois anos a taxa de Segurança Social às empresas que contratem sem termo;
+* 6.8. Isentar da taxa de Segurança Social por dois anos as empresas que contratem sem termo, para o território nacional, portugueses que estejam emigrados há mais de dois anos;
+* 6.9. Proibir que os funcionários públicos acumulem as suas funções públicas com actividades privadas remuneradas;
+* 6.10. Compensar a diferença da carga horária entre o sector público e o privado na antecipação da idade de reforma, neste último, equivalente às horas a mais trabalhadas ao longo dos anos;
+* 6.11. Utilizar os meios de comunicação estatais (RTP e RDP), para a promoção de uma cultura de trabalho e utilidade social e de divulgação das mais diversas profissões e ofícios em programas com interesse prático.
 
 ### 7. ECONOMIA E PRODUÇÃO NACIONAL
 
@@ -240,11 +240,11 @@ A política económica deve estar focada de modo particular na facilitação da 
 
 Para esse efeito, o PNR propõe o seguinte conjunto de medidas:
 
-7.1. Redefinir as prioridades políticas de forma a vitalizar os sectores, primário e secundário;
-7.2. Programar, a prazo, a recuperação do controlo do Estado nas áreas vitais para a nossa soberania, economia e bem-estar. Em cada sector que contribui activamente para a competitividade das empresas portuguesas, o Estado deve assegurar a existência de uma empresa com a dimensão necessária para poder satisfazer as necessidades das empresas produtoras de bens e serviços internacionalizáveis, a preços que contribuam para a sua competitividade e tornem esses bens transaccionáveis;
-7.3. Criar uma política activa de subsídios significativos para as despesas de empresas e Instituições de ensino superior na aplicação de técnicas inovadoras e na criação de produtos e serviços transaccionáveis;
-7.4. Negociar com a UE a possibilidade de uma sobretaxa para os produtos de países que não respeitam os direitos sociais de quem trabalha e que recorrem à concorrência desleal;
-7.5. Renegociação dos contratos de exploração geológica-mineira.
+* 7.1. Redefinir as prioridades políticas de forma a vitalizar os sectores, primário e secundário;
+* 7.2. Programar, a prazo, a recuperação do controlo do Estado nas áreas vitais para a nossa soberania, economia e bem-estar. Em cada sector que contribui activamente para a competitividade das empresas portuguesas, o Estado deve assegurar a existência de uma empresa com a dimensão necessária para poder satisfazer as necessidades das empresas produtoras de bens e serviços internacionalizáveis, a preços que contribuam para a sua competitividade e tornem esses bens transaccionáveis;
+* 7.3. Criar uma política activa de subsídios significativos para as despesas de empresas e Instituições de ensino superior na aplicação de técnicas inovadoras e na criação de produtos e serviços transaccionáveis;
+* 7.4. Negociar com a UE a possibilidade de uma sobretaxa para os produtos de países que não respeitam os direitos sociais de quem trabalha e que recorrem à concorrência desleal;
+* 7.5. Renegociação dos contratos de exploração geológica-mineira.
 
 
 ### 8. FINANÇAS E FISCALIDADE
@@ -259,27 +259,27 @@ A pesadíssima carga fiscal que temos hoje em Portugal, entre impostos directos 
 
 Para esse efeito, o PNR propõe o seguinte conjunto de medidas:
 
-8.1. Reduzir o IVA normal para 19%. Tal medida, além de ter impacto no poder de compra das pessoas e na competitividade das empresas, seria muito benéfica nas zonas junto à fronteira ao permitir elevar os níveis de consumo do lado português;
-8.2. Libertar as micro, pequenas e médias empresas do sufoco fiscal, incentivando a criatividade e a inovação;
-8.3. Reduzir o IRS e o IRC;
-8.4. Acabar com o IMI para a habitação própria;
-8.5. Reduzir o imposto sobre os combustíveis e abolir as taxas nas facturas das energias;
-8.6. Diminuir a carga fiscal sobre as empresas nacionais que queiram renovar os seus equipamentos industriais, para que possam competir nos mercados internacionais;
-8.7. Conceder incentivos fiscais ao investimento nacional nas mais variadas áreas, tais como: indústria, novas tecnologias, agricultura, agro-pecuária, pescas, etc.
-8.8. Conceder incentivos às empresas para premiar a qualificação profissional, a produtividade, competitividade, a internacionalização e a acção social;
-8.9. Reformar a Administração Pública, em simultâneo com a reestruturação progressiva da dimensão do Estado;
-8.10. Assegurar a consolidação orçamental, com redução progressiva do défice orçamental para níveis compatíveis com um desenvolvimento económico e social sustentado;
-8.11. Reformar progressivamente o sistema fiscal, ajustando-o ao dos países que sejam nossos directos concorrentes, para que Portugal tenha condições de competitividade;
-8.12. Extinguir todos os Institutos e Fundações públicas cujo interesse para o país não seja devidamente comprovado;
-8.13. Realizar uma exaustiva auditoria com vista à extinção e/ou fusão de empresas municipais, bem como renegociar todas as parcerias público–privadas;
-8.14. Rever os critérios de atribuição do Rendimento Social de Inserção e de outros rendimentos sociais, e aumentar a fiscalização nesta matéria, de modo a que só possa beneficiar destes rendimentos quem realmente deles necessitar;
-8.15. Cessar a injecção de capitais públicos na Banca privada;
-8.16. Revogação dos actuais critérios de adjudicação de propostas em concursos públicos, abolindo a lógica prioritária (ou exclusiva) do preço mais baixo, passando a prevalecer um equilíbrio de 50/50 entre o preço e o mérito da mesma;
-8.17. Cessar o recurso a consultadorias externas asseguradas por firmas jurídicas, bem como o pagamento de pareceres, passando a Administração Central a estar dotada de Gabinetes Técnicos para esse efeito;
-8.18. Efectuar cortes drásticos nos privilégios e benesses dos detentores de cargos públicos;
-8.19. Acabar com as subvenções vitalícias para os políticos;
-8.20. Recuperar todos os activos alienados pelas privatizações-burla, entretanto efectuadas;
-8.21. Fim da dupla tributação na compra de automóveis.
+* 8.1. Reduzir o IVA normal para 19%. Tal medida, além de ter impacto no poder de compra das pessoas e na competitividade das empresas, seria muito benéfica nas zonas junto à fronteira ao permitir elevar os níveis de consumo do lado português;
+* 8.2. Libertar as micro, pequenas e médias empresas do sufoco fiscal, incentivando a criatividade e a inovação;
+* 8.3. Reduzir o IRS e o IRC;
+* 8.4. Acabar com o IMI para a habitação própria;
+* 8.5. Reduzir o imposto sobre os combustíveis e abolir as taxas nas facturas das energias;
+* 8.6. Diminuir a carga fiscal sobre as empresas nacionais que queiram renovar os seus equipamentos industriais, para que possam competir nos mercados internacionais;
+* 8.7. Conceder incentivos fiscais ao investimento nacional nas mais variadas áreas, tais como: indústria, novas tecnologias, agricultura, agro-pecuária, pescas, etc.
+* 8.8. Conceder incentivos às empresas para premiar a qualificação profissional, a produtividade, competitividade, a internacionalização e a acção social;
+* 8.9. Reformar a Administração Pública, em simultâneo com a reestruturação progressiva da dimensão do Estado;
+* 8.10. Assegurar a consolidação orçamental, com redução progressiva do défice orçamental para níveis compatíveis com um desenvolvimento económico e social sustentado;
+* 8.11. Reformar progressivamente o sistema fiscal, ajustando-o ao dos países que sejam nossos directos concorrentes, para que Portugal tenha condições de competitividade;
+* 8.12. Extinguir todos os Institutos e Fundações públicas cujo interesse para o país não seja devidamente comprovado;
+* 8.13. Realizar uma exaustiva auditoria com vista à extinção e/ou fusão de empresas municipais, bem como renegociar todas as parcerias público–privadas;
+* 8.14. Rever os critérios de atribuição do Rendimento Social de Inserção e de outros rendimentos sociais, e aumentar a fiscalização nesta matéria, de modo a que só possa beneficiar destes rendimentos quem realmente deles necessitar;
+* 8.15. Cessar a injecção de capitais públicos na Banca privada;
+* 8.16. Revogação dos actuais critérios de adjudicação de propostas em concursos públicos, abolindo a lógica prioritária (ou exclusiva) do preço mais baixo, passando a prevalecer um equilíbrio de 50/50 entre o preço e o mérito da mesma;
+* 8.17. Cessar o recurso a consultadorias externas asseguradas por firmas jurídicas, bem como o pagamento de pareceres, passando a Administração Central a estar dotada de Gabinetes Técnicos para esse efeito;
+* 8.18. Efectuar cortes drásticos nos privilégios e benesses dos detentores de cargos públicos;
+* 8.19. Acabar com as subvenções vitalícias para os políticos;
+* 8.20. Recuperar todos os activos alienados pelas privatizações-burla, entretanto efectuadas;
+* 8.21. Fim da dupla tributação na compra de automóveis.
 
 ### 9. SAÚDE
 
@@ -293,24 +293,24 @@ Sabe-se também da dificuldade que há em reter-se médicos no SNS, pois podendo
 
 Para esse efeito, o PNR propõe o seguinte conjunto de medidas:
 
-9.1. Implementar uma cultura de prevenção das doenças, apostando na medicina do trabalho e familiar;
-9.2. Aumentar a capacidade e qualidade de oferta de serviços de saúde públicos, formando mais médicos e aumentando a rede hospitalar;
-9.3. Valorizar e incentivar a criação de sub-sistemas de saúde;
-9.4. Manter as taxas moderadoras e escaloná-las consoante parâmetros a estipular, nomeadamente o grau de hierarquia da triagem na admissão;
-9.5. Promover um estudo junto das classes ligadas à medicina, de forma a reabrir urgências encerradas pelos últimos Governos, como forma de combater o caos deste sector nos hospitais centrais;
-9.6. Atribuir isenção total ou comparticipação parcial nas despesas de medicamentos e consultas para idosos, consoante o orçamento familiar;
-9.7. Incentivar a prescrição e o consumo de medicamentos genéricos, e apostar na produção de medicamentos genéricos por parte do Laboratório Militar;
-9.8. Criar uma rede nacional de cuidados paliativos;
-9.9. Promover um sistema de incentivos para a colocação de médicos no interior do país que não seja apenas assente em incentivos remuneratórios, mas que tenha uma componente de facilidade de especialização e de progressão na carreira;
-9.10. Criar um sistema de Medicina-Itinerante, fazendo chegar os cuidados primários de saúde a todo o País. Este modelo será assegurado por todos os funcionários médicos nos quatro primeiros anos após a formação;
-9.11. Indexar uma obrigatoriedade de anos de serviço dos Médicos no SNS, igual aos anos da sua formação a cargo do Estado. Aqueles que optarem por não o fazer, terão de ressarcir o estado num montante igual ao que foi despendido na sua formação;
-9.12. Incentivar a cultura física e do desporto, acompanhada da promoção de uma melhoria dos hábitos alimentares, criando-se assim um ambiente favorável à saúde;
-9.13. Actuação prioritária ao nível das doenças crónicas e doenças raras;
-9.14. Profilaxia do alcoolismo e da dependência de drogas químicas;
-9.15. Incentivos aos dadores de sangue e de medula;
-9.16. Instituição de regime de voluntariado, com benefícios fiscais;
-9.17. Abertura de mais licenciaturas em Medicina, Gestão Hospitalar e Enfermagem Clínica;
-9.18. Acabar com a gratuitidade da IVG.
+* 9.1. Implementar uma cultura de prevenção das doenças, apostando na medicina do trabalho e familiar;
+* 9.2. Aumentar a capacidade e qualidade de oferta de serviços de saúde públicos, formando mais médicos e aumentando a rede hospitalar;
+* 9.3. Valorizar e incentivar a criação de sub-sistemas de saúde;
+* 9.4. Manter as taxas moderadoras e escaloná-las consoante parâmetros a estipular, nomeadamente o grau de hierarquia da triagem na admissão;
+* 9.5. Promover um estudo junto das classes ligadas à medicina, de forma a reabrir urgências encerradas pelos últimos Governos, como forma de combater o caos deste sector nos hospitais centrais;
+* 9.6. Atribuir isenção total ou comparticipação parcial nas despesas de medicamentos e consultas para idosos, consoante o orçamento familiar;
+* 9.7. Incentivar a prescrição e o consumo de medicamentos genéricos, e apostar na produção de medicamentos genéricos por parte do Laboratório Militar;
+* 9.8. Criar uma rede nacional de cuidados paliativos;
+* 9.9. Promover um sistema de incentivos para a colocação de médicos no interior do país que não seja apenas assente em incentivos remuneratórios, mas que tenha uma componente de facilidade de especialização e de progressão na carreira;
+* 9.10. Criar um sistema de Medicina-Itinerante, fazendo chegar os cuidados primários de saúde a todo o País. Este modelo será assegurado por todos os funcionários médicos nos quatro primeiros anos após a formação;
+* 9.11. Indexar uma obrigatoriedade de anos de serviço dos Médicos no SNS, igual aos anos da sua formação a cargo do Estado. Aqueles que optarem por não o fazer, terão de ressarcir o estado num montante igual ao que foi despendido na sua formação;
+* 9.12. Incentivar a cultura física e do desporto, acompanhada da promoção de uma melhoria dos hábitos alimentares, criando-se assim um ambiente favorável à saúde;
+* 9.13. Actuação prioritária ao nível das doenças crónicas e doenças raras;
+* 9.14. Profilaxia do alcoolismo e da dependência de drogas químicas;
+* 9.15. Incentivos aos dadores de sangue e de medula;
+* 9.16. Instituição de regime de voluntariado, com benefícios fiscais;
+* 9.17. Abertura de mais licenciaturas em Medicina, Gestão Hospitalar e Enfermagem Clínica;
+* 9.18. Acabar com a gratuitidade da IVG.
 
 ### 10. JUSTIÇA
 
@@ -322,23 +322,23 @@ O imperativo da Justiça é a erradicação da corrupção. O pressuposto da Jus
 
 Para esse efeito, o PNR propõe o seguinte conjunto de medidas:
 
-10.1. Rever o Regulamento das Custas Processuais, com vista a reduzir as Taxas de Justiça, de modo a torná-la acessível aos cidadãos que a ela necessitam de aceder;
-10.2. Rever a Lei de Acesso ao Direito e aos Tribunais, de modo a alargar o âmbito e os critérios de concessão do benefício do apoio judiciário;
-10.3. Revogar o actual Mapa Judiciário;
-10.4. Acabar de forma firme com a desjudicialização da Justiça que tem sido levada a cabo pelos anteriores Governos, retirando das entidades administrativas e privadas os processos que lhes foram entregues;
-10.5. Organizar e fornecer os meios técnicos e humanos necessários para que seja iniciada uma verdadeira Operação Mãos Limpas de combate à corrupção e ao tráfico de influências, tanto a nível do Estado como do sector privado;
-10.6. Condenar exemplarmente os corruptos - considerando a corrupção como crime de traição ao país - confiscar-lhes os bens e impedi-los de voltar a exercer cargos públicos;
-10.7. Proceder a uma reforma do Contencioso Administrativo e Fiscal no sentido de conferir mais garantias aos particulares nos conflitos que os opõem à Administração Pública e à Administração Fiscal, com vista a tornar esses processos mais céleres e justos.
-10.8. Tornar obrigatória a gravação em vídeo das audiências de julgamento e demais diligências processuais, de modo a permitir um amplo recurso da matéria de facto e habilitar assim os Tribunais Superiores (Relação, Centrais e Administrativos) a proceder mais circunstanciadamente à reapreciação e julgamento da matéria de facto;
-10.9. Alterar o Código Penal com vista a agravar as molduras penais para crimes de sangue, crimes contra crianças e crimes de tráfico de droga. Obrigar ao cumprimento integral das penas dos crimes de sangue e contra menores;
-10.10. Legislar no sentido de responsabilizar criminalmente todos os governantes, administradores e gestores por gestão danosa no exercício das suas funções;
-10.11. Proceder a uma reforma do Código de Execução das Penas e do Sistema Prisional, de modo a proceder à separação dos reclusos consoante os crimes pelos quais os mesmos foram condenados e separar os presos preventivos dos presos condenados;
-10.12. Tornar obrigatório que os reclusos trabalhem durante o período da sua reclusão, quer para contribuírem para o seu sustento durante esse período, quer para adquirirem hábitos de trabalho com vista a arranjarem emprego quando forem restituídos à liberdade, e assim conseguirem uma melhor inserção e integração na mesma;
-10.13. No geral, tomar todas as medidas necessárias com vista a tornar a Justiça célere e eficaz, bem como acessível a todos os cidadãos, e recolher a opinião dos operadores judiciários (Juízes, Magistrados do Ministério Público, Advogados e Funcionários Judiciais) para prosseguir tal objectivo;
-10.14. Construir novos estabelecimentos prisionais e remodelar infra-estruturas actuais que necessitem de melhoramentos;
-10.15. Criar Tribunais especializados para determinados tipos de crimes de elevada complexidade;
-10.16. Reforçar adequadamente e com urgência o quadro de efectivos da Guarda Prisional;
-10.17. Extinção da Subvenção Vitalícia aos elementos da classe-política por ela abrangidos, se condenados por qualquer crime, bem como aos que a acumulem com outros vencimentos regulares ou prestações sociais.
+* 10.1. Rever o Regulamento das Custas Processuais, com vista a reduzir as Taxas de Justiça, de modo a torná-la acessível aos cidadãos que a ela necessitam de aceder;
+* 10.2. Rever a Lei de Acesso ao Direito e aos Tribunais, de modo a alargar o âmbito e os critérios de concessão do benefício do apoio judiciário;
+* 10.3. Revogar o actual Mapa Judiciário;
+* 10.4. Acabar de forma firme com a desjudicialização da Justiça que tem sido levada a cabo pelos anteriores Governos, retirando das entidades administrativas e privadas os processos que lhes foram entregues;
+* 10.5. Organizar e fornecer os meios técnicos e humanos necessários para que seja iniciada uma verdadeira Operação Mãos Limpas de combate à corrupção e ao tráfico de influências, tanto a nível do Estado como do sector privado;
+* 10.6. Condenar exemplarmente os corruptos - considerando a corrupção como crime de traição ao país - confiscar-lhes os bens e impedi-los de voltar a exercer cargos públicos;
+* 10.7. Proceder a uma reforma do Contencioso Administrativo e Fiscal no sentido de conferir mais garantias aos particulares nos conflitos que os opõem à Administração Pública e à Administração Fiscal, com vista a tornar esses processos mais céleres e justos.
+* 10.8. Tornar obrigatória a gravação em vídeo das audiências de julgamento e demais diligências processuais, de modo a permitir um amplo recurso da matéria de facto e habilitar assim os Tribunais Superiores (Relação, Centrais e Administrativos) a proceder mais circunstanciadamente à reapreciação e julgamento da matéria de facto;
+* 10.9. Alterar o Código Penal com vista a agravar as molduras penais para crimes de sangue, crimes contra crianças e crimes de tráfico de droga. Obrigar ao cumprimento integral das penas dos crimes de sangue e contra menores;
+* 10.10. Legislar no sentido de responsabilizar criminalmente todos os governantes, administradores e gestores por gestão danosa no exercício das suas funções;
+* 10.11. Proceder a uma reforma do Código de Execução das Penas e do Sistema Prisional, de modo a proceder à separação dos reclusos consoante os crimes pelos quais os mesmos foram condenados e separar os presos preventivos dos presos condenados;
+* 10.12. Tornar obrigatório que os reclusos trabalhem durante o período da sua reclusão, quer para contribuírem para o seu sustento durante esse período, quer para adquirirem hábitos de trabalho com vista a arranjarem emprego quando forem restituídos à liberdade, e assim conseguirem uma melhor inserção e integração na mesma;
+* 10.13. No geral, tomar todas as medidas necessárias com vista a tornar a Justiça célere e eficaz, bem como acessível a todos os cidadãos, e recolher a opinião dos operadores judiciários (Juízes, Magistrados do Ministério Público, Advogados e Funcionários Judiciais) para prosseguir tal objectivo;
+* 10.14. Construir novos estabelecimentos prisionais e remodelar infra-estruturas actuais que necessitem de melhoramentos;
+* 10.15. Criar Tribunais especializados para determinados tipos de crimes de elevada complexidade;
+* 10.16. Reforçar adequadamente e com urgência o quadro de efectivos da Guarda Prisional;
+* 10.17. Extinção da Subvenção Vitalícia aos elementos da classe-política por ela abrangidos, se condenados por qualquer crime, bem como aos que a acumulem com outros vencimentos regulares ou prestações sociais.
 
 ### 11. EDUCAÇÃO, CULTURA E DEFESA DA IDENTIDADE NACIONAL
 
@@ -352,27 +352,27 @@ Educação não é apenas instrução, mas antes transmissão de valores e, para
 
 Para esse efeito, o PNR propõe o seguinte conjunto de medidas:
 
-11.1.  Rever toda a política de manuais escolares de forma a garantir a validade de cada manual escolar por três anos e reduzindo o preço de aquisição.
-11.2.  Acabar com a politização dos manuais e libertar o ensino da influência do «politicamente correcto» ideológico e do marxismo cultural;
-11.3.  Aumentar os níveis de exigência do ensino e combater o facilitismo;
-11.4.  Obrigatoriedade de todas as escolas públicas terem hasteada a Bandeira Nacional;
-11.5.  Obrigatoriedade se cantar o Hino Nacional nas escolas públicas, no primeiro dia aulas de cada semana;
-11.6.  Restaurar a segurança nas escolas, no interior e nas imediações dos estabelecimentos;
-11.7.  Criar Escolas Técnico-Profissionais, com forte componente prática, para possibilitar a formação de jovens especializados em áreas específicas, onde encontrem saída profissional e sejam úteis, também, à produção nacional;
-11.8.  Definição duradoura de Programas, Currículos e Métodos de ensino;
-11.9.  Criar programas concretos para Área de Projecto e para a Formação Cívica, onde constem áreas de interesse específico, quer para o aluno, quer para a comunidade;
-11.10. Criar um “Regulamento do Aluno”, que assente na exigência do conhecimento e do esforço, na disciplina e na implementação de valores patriotas e morais;
-11.11. Restaurar o respeito pela figura do professor e a dignidade da sua carreira;
-11.12. Anular o “Acordo Ortográfico” nas escolas e repor o Português correcto;
-11.13. Reformular os programas de cidadania, eliminando as prerrogativas à ideologia de "género” e ao lixo propagado pela sua mentira, como meio de doutrinação das crianças;
-11.14. Apoiar as famílias que optam por ter os filhos em colégios particulares e que desse modo aliviam o Estado com o custo de um posto escolar, através da atribuição de um “Cheque-escolar” tendencialmente igual ao valor de um posto escolar no Ensino Público;
-11.15. Apoiar as Associações Filarmónicas e Grupos Folclóricos, depositários de uma parte importantíssima do património cultural português;
-11.16. Criar o Estatuto Profissional do Artista;
-11.17. Impulsionar uma rede de Ateliês e Oficinas;
-11.18. Criar Cooperativas Empresariais de Artes & Ofícios Tradicionais;
-11.19. Desenvolver uma política de afectação de património municipal ao desenvolvimento regular de actividades artísticas;
-11.20. Reinstituir o Ministério da Cultura, com a incumbência principal de promover a cultura portuguesa e salvaguardar o património imaterial da nossa Nação;
-11.21. Reverter a actual municipalização do ensino, geradora de maiores assimetrias no âmbito da Educação, de acordo com o desenvolvimento municipal, e de aumento da burocracia.
+* 11.1.  Rever toda a política de manuais escolares de forma a garantir a validade de cada manual escolar por três anos e reduzindo o preço de aquisição.
+* 11.2.  Acabar com a politização dos manuais e libertar o ensino da influência do «politicamente correcto» ideológico e do marxismo cultural;
+* 11.3.  Aumentar os níveis de exigência do ensino e combater o facilitismo;
+* 11.4.  Obrigatoriedade de todas as escolas públicas terem hasteada a Bandeira Nacional;
+* 11.5.  Obrigatoriedade se cantar o Hino Nacional nas escolas públicas, no primeiro dia aulas de cada semana;
+* 11.6.  Restaurar a segurança nas escolas, no interior e nas imediações dos estabelecimentos;
+* 11.7.  Criar Escolas Técnico-Profissionais, com forte componente prática, para possibilitar a formação de jovens especializados em áreas específicas, onde encontrem saída profissional e sejam úteis, também, à produção nacional;
+* 11.8.  Definição duradoura de Programas, Currículos e Métodos de ensino;
+* 11.9.  Criar programas concretos para Área de Projecto e para a Formação Cívica, onde constem áreas de interesse específico, quer para o aluno, quer para a comunidade;
+* 11.10. Criar um “Regulamento do Aluno”, que assente na exigência do conhecimento e do esforço, na disciplina e na implementação de valores patriotas e morais;
+* 11.11. Restaurar o respeito pela figura do professor e a dignidade da sua carreira;
+* 11.12. Anular o “Acordo Ortográfico” nas escolas e repor o Português correcto;
+* 11.13. Reformular os programas de cidadania, eliminando as prerrogativas à ideologia de "género” e ao lixo propagado pela sua mentira, como meio de doutrinação das crianças;
+* 11.14. Apoiar as famílias que optam por ter os filhos em colégios particulares e que desse modo aliviam o Estado com o custo de um posto escolar, através da atribuição de um “Cheque-escolar” tendencialmente igual ao valor de um posto escolar no Ensino Público;
+* 11.15. Apoiar as Associações Filarmónicas e Grupos Folclóricos, depositários de uma parte importantíssima do património cultural português;
+* 11.16. Criar o Estatuto Profissional do Artista;
+* 11.17. Impulsionar uma rede de Ateliês e Oficinas;
+* 11.18. Criar Cooperativas Empresariais de Artes & Ofícios Tradicionais;
+* 11.19. Desenvolver uma política de afectação de património municipal ao desenvolvimento regular de actividades artísticas;
+* 11.20. Reinstituir o Ministério da Cultura, com a incumbência principal de promover a cultura portuguesa e salvaguardar o património imaterial da nossa Nação;
+* 11.21. Reverter a actual municipalização do ensino, geradora de maiores assimetrias no âmbito da Educação, de acordo com o desenvolvimento municipal, e de aumento da burocracia.
 
 ### 12 – AMBIENTE E ENERGIA
 
@@ -388,16 +388,16 @@ Também a exploração dos nosso recursos naturais, a independência energética
 
 Para esse efeito, o PNR propõe o seguinte conjunto de medidas:
 
-12.1. Investir seriamente na nossa ZEE e no mar;
-12.2. Combater sem tréguas toda e qualquer forma de negócio e lucro com o fogo;
-12.3. Acabar com a entrega dos meio aéreos de combate a incêndios aos privados. Essa função deverá ficar a cargo da FAP;
-12.4. Revisão do quadro legal face aos incendiários, engrossando as penas;
-12.5. Repovoamento da floresta e campo com espécies vegetais que consigam fixar espécies animais em perigo de extinção, aves de rapina, felinos, com especial preocupação do lince ibérico.
-12.6. Defesa intransigente dos parques naturais, como forma de preservar a natureza Nacional, permitindo, contudo, a integração das famílias, como forma da sua exclusiva manutenção e como forma da sua defesa natural.
-12.7. Promover a biodiversidade, através da valorização de espécies florestais autóctones e, simultaneamente, criar condições para a implantação e expansão de culturas autóctones diversas e a melhoria da produtividade.
-12.8. Limitar a expansão da área de eucalipto ao nível das acções de arborização, acompanhada por um modelo inovador de compensações que exige o investimento na diversidade da fileira florestal e que permite a substituição gradual de povoamentos de eucaliptal, de baixa produtividade, por povoamentos com espécies autóctones, permitindo igualmente que se instalem novos povoamentos de eucalipto em áreas de maior produtividade;
-12.9. Considerar o tema da água (barragens e regadio) uma prioridade e investir nos meios que permitam minimizar o risco de seca e a aumentar a nossa autonomia no que toca ao abastecimento de água;
-12.10. Investir na biomassa, conciliando a vantagem da limpeza das florestas com a produção de energia nas zonas rurais e a criação de mão-de-obra.
+* 12.1. Investir seriamente na nossa ZEE e no mar;
+* 12.2. Combater sem tréguas toda e qualquer forma de negócio e lucro com o fogo;
+* 12.3. Acabar com a entrega dos meio aéreos de combate a incêndios aos privados. Essa função deverá ficar a cargo da FAP;
+* 12.4. Revisão do quadro legal face aos incendiários, engrossando as penas;
+* 12.5. Repovoamento da floresta e campo com espécies vegetais que consigam fixar espécies animais em perigo de extinção, aves de rapina, felinos, com especial preocupação do lince ibérico.
+* 12.6. Defesa intransigente dos parques naturais, como forma de preservar a natureza Nacional, permitindo, contudo, a integração das famílias, como forma da sua exclusiva manutenção e como forma da sua defesa natural.
+* 12.7. Promover a biodiversidade, através da valorização de espécies florestais autóctones e, simultaneamente, criar condições para a implantação e expansão de culturas autóctones diversas e a melhoria da produtividade.
+* 12.8. Limitar a expansão da área de eucalipto ao nível das acções de arborização, acompanhada por um modelo inovador de compensações que exige o investimento na diversidade da fileira florestal e que permite a substituição gradual de povoamentos de eucaliptal, de baixa produtividade, por povoamentos com espécies autóctones, permitindo igualmente que se instalem novos povoamentos de eucalipto em áreas de maior produtividade;
+* 12.9. Considerar o tema da água (barragens e regadio) uma prioridade e investir nos meios que permitam minimizar o risco de seca e a aumentar a nossa autonomia no que toca ao abastecimento de água;
+* 12.10. Investir na biomassa, conciliando a vantagem da limpeza das florestas com a produção de energia nas zonas rurais e a criação de mão-de-obra.
 
 ### 13. DEFESA NACIONAL E POLÍTICA EXTERNA
 
@@ -415,15 +415,15 @@ Connosco, estas questões não ficarão silenciadas, exigindo-se das instâncias
 
 Para esse efeito, o PNR propõe o seguinte conjunto de medidas:
 
-13.1. Reestruturar, redimensionar e reequipar as Forças Armadas Portuguesas;
-13.2. Denunciar o “Pacto Global para a Migração”; 
-13.3. Denunciar os acordos de Schengen e restabelecer o controlo das fronteiras nacionais;
-13.4. Desenvolver todos esforços no sentido de se concretizar a aprovação da nossa plataforma continental que une o continente e os arquipélagos dos Açores e da Madeira, apostando no mar e nos seus recursos;
-13.5. Renegociar com a UE, firmemente, um rumo com tendência para o fim das quotas de produção nacional, em matéria de agricultura e pescas;
-13.6. Melhor cobertura do ensino da Língua Portuguesa e da História de Portugal junto das comunidades de portugueses espalhadas pelo mundo; um maior investimento nesta área contribuiria para uma maior aproximação da segunda geração de emigrantes às suas raízes;
-13.7. Alteração da Lei do Registo Civil, permitindo que os filhos de pai ou mãe portugueses possam ser registados com a presença apenas de um dos progenitores e com os documentos de registo do país de nascimento;
-13.8. Criar “Antenas Consulares” (Postos consulares com um ou dois funcionários) em zonas com maior densidade de portugueses e que estejam longe de algum consulado;
-13.9. Criar aplicações consulares para telemóveis, agilizando a comunicação e serviços entre consulados e comunidades portuguesas;
-13.10. Lutar pelos direitos dos espoliados do Ultramar, no sentido de exigir justas indemnizações, colocando este tema na agenda das relações com os novos países de expressão portuguesa;
-13.11. Recuperar a questão de Olivença – território português ocupado ilegalmente por Espanha – sensibilizando a comunidade internacional para essa violação do direito internacional;
-13.12. Recuperar a questão de Cabinda – protectorado português entregue ilegalmente a Angola pelos “descolonizadores exemplares” – sensibilizando a comunidade internacional para essa violação do direito internacional.
+* 13.1. Reestruturar, redimensionar e reequipar as Forças Armadas Portuguesas;
+* 13.2. Denunciar o “Pacto Global para a Migração”; 
+* 13.3. Denunciar os acordos de Schengen e restabelecer o controlo das fronteiras nacionais;
+* 13.4. Desenvolver todos esforços no sentido de se concretizar a aprovação da nossa plataforma continental que une o continente e os arquipélagos dos Açores e da Madeira, apostando no mar e nos seus recursos;
+* 13.5. Renegociar com a UE, firmemente, um rumo com tendência para o fim das quotas de produção nacional, em matéria de agricultura e pescas;
+* 13.6. Melhor cobertura do ensino da Língua Portuguesa e da História de Portugal junto das comunidades de portugueses espalhadas pelo mundo; um maior investimento nesta área contribuiria para uma maior aproximação da segunda geração de emigrantes às suas raízes;
+* 13.7. Alteração da Lei do Registo Civil, permitindo que os filhos de pai ou mãe portugueses possam ser registados com a presença apenas de um dos progenitores e com os documentos de registo do país de nascimento;
+* 13.8. Criar “Antenas Consulares” (Postos consulares com um ou dois funcionários) em zonas com maior densidade de portugueses e que estejam longe de algum consulado;
+* 13.9. Criar aplicações consulares para telemóveis, agilizando a comunicação e serviços entre consulados e comunidades portuguesas;
+* 13.10. Lutar pelos direitos dos espoliados do Ultramar, no sentido de exigir justas indemnizações, colocando este tema na agenda das relações com os novos países de expressão portuguesa;
+* 13.11. Recuperar a questão de Olivença – território português ocupado ilegalmente por Espanha – sensibilizando a comunidade internacional para essa violação do direito internacional;
+* 13.12. Recuperar a questão de Cabinda – protectorado português entregue ilegalmente a Angola pelos “descolonizadores exemplares” – sensibilizando a comunidade internacional para essa violação do direito internacional.
