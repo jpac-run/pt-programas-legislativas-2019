@@ -77,16 +77,16 @@ O PNR é um partido completamente independente e livre de pressões, sendo finan
 
 Para esse efeito, o PNR propõe o seguinte conjunto de medidas:
 
-1.1. Apresentar uma proposta para uma nova Constituição da República, que seja ideologicamente neutra, simples e minimal, mas sólida e essencial, e preocupada única e exclusivamente com o futuro dos portugueses e de Portugal;
-1.2. Alterar a actual Lei do Financiamento dos Partidos Políticos, reduzindo o valor total das subvenções actualmente pagas pelo Estado aos partidos, mas de forma a que passassem todos partidos a ter direito a receber a subvenção, calculada em função do número de votos obtidos;
-1.3. Reduzir o número de deputados da Assembleia da República para os 180;
-1.4. Rever a Lei Eleitoral, com vista à criação de um círculo único nacional e à consequente distribuição dos deputados segundo uma lógica rigorosamente proporcional ao número de votos e não segundo o Método de Hondt;
-1.5. Incluir nos boletins de voto a opção de “voto em branco”, deixando vazios os lugares correspondentes na Assembleia da República;
-1.6. Aumentar o período de cada legislatura, dos actuais quatro anos, para seis anos;
-1.7. Incrementar o recurso ao Referendo, de forma habitual, perante as grandes questões nacionais e fracturantes;
-1.8. Impedir a regionalização;
-1.9. Rever a lei do direito à greve e da actividade sindical para salvaguardar, em primeiro lugar, os direitos das populações e o bem comum;
-1.10. Extinguir o Tribunal Constitucional, que é eminentemente de cariz político, e tem um regime de custas proibitivo em matéria de fiscalização concreta da constitucionalidade, e a criação dentro do Supremo Tribunal de Justiça de uma Secção de Contencioso Constitucional.
+1.1 Apresentar uma proposta para uma nova Constituição da República, que seja ideologicamente neutra, simples e minimal, mas sólida e essencial, e preocupada única e exclusivamente com o futuro dos portugueses e de Portugal;
+1.2 Alterar a actual Lei do Financiamento dos Partidos Políticos, reduzindo o valor total das subvenções actualmente pagas pelo Estado aos partidos, mas de forma a que passassem todos partidos a ter direito a receber a subvenção, calculada em função do número de votos obtidos;
+1.3 Reduzir o número de deputados da Assembleia da República para os 180;
+1.4 Rever a Lei Eleitoral, com vista à criação de um círculo único nacional e à consequente distribuição dos deputados segundo uma lógica rigorosamente proporcional ao número de votos e não segundo o Método de Hondt;
+1.5 Incluir nos boletins de voto a opção de “voto em branco”, deixando vazios os lugares correspondentes na Assembleia da República;
+1.6 Aumentar o período de cada legislatura, dos actuais quatro anos, para seis anos;
+1.7 Incrementar o recurso ao Referendo, de forma habitual, perante as grandes questões nacionais e fracturantes;
+1.8 Impedir a regionalização;
+1.9 Rever a lei do direito à greve e da actividade sindical para salvaguardar, em primeiro lugar, os direitos das populações e o bem comum;
+1.10 Extinguir o Tribunal Constitucional, que é eminentemente de cariz político, e tem um regime de custas proibitivo em matéria de fiscalização concreta da constitucionalidade, e a criação dentro do Supremo Tribunal de Justiça de uma Secção de Contencioso Constitucional.
 
 ### 2. FAMILIA, VIDA E DIGNIDADE SOCIAL
 
