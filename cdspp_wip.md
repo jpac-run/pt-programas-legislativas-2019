@@ -1,12 +1,12 @@
 # Votar no CDS faz sentido!
 
 Há quase dois anos, o CDS lançou um processo muito alargado e participado para preparar um programa eleitoral arrojado, com rasgo
-e ambição para o nosso país. Para o Portugal de hoje, certamente, mas sempre com os olhos no Portugal que hoje queremos construir para amanhã, para os nossos filhos e netos. 
+e ambição para o nosso país. Para o Portugal de hoje, certamente, mas sempre com os olhos no Portugal que hoje queremos construir para amanhã, para os nossos filhos e netos.
 
 Foi assim que, em novembro de 2017, com a coordenação de três independentes – a Raquel Abecasis, o Sebastião Lencastre e o Pedro
 Mexia, se lançou o grande projeto do “Ouvir Portugal”, na rua, com muitas contribuições que nos chegaram por mail, redes sociais e cartas, e no ciclo de conferências, uma por cada distrito e Regiões Autónomas.
 
-Em paralelo, o nosso Gabinete de Estudos, dirigido pelo Diogo Feio, multiplicou-se em iniciativas onde militantes e independentes em estreita ligação com os nossos deputados, aprofundaram muitas áreas temáticas que em muitos casos ajudaram a uma ação de excelência do nosso grupo parlamentar. 
+Em paralelo, o nosso Gabinete de Estudos, dirigido pelo Diogo Feio, multiplicou-se em iniciativas onde militantes e independentes em estreita ligação com os nossos deputados, aprofundaram muitas áreas temáticas que em muitos casos ajudaram a uma ação de excelência do nosso grupo parlamentar.
 
 Do congresso do CDS de Lamego, em março de 2018, saiu o grupo Portugal@comfuturo, coordenado pelo Adolfo Mesquita Nunes, e que
 integrou seis militantes – Mariana França Gouveia, João Moreira Pinto, Ana Rita Bessa, Graça Canto Moniz e Jorge Teixeira - e dois independentes – Nadia Piazza e Pedro Mexia que, juntamente com dezenas de grupos de trabalho, ficou com a incumbência de recolher todos os contributos do Grupo Parlamentar, do Gabinete de Estudos, do Ouvir Portugal e das nossas estruturas distritais, de os selecionar, organizar e preparar um grande programa eleitoral.
@@ -21,7 +21,7 @@ Acreditamos no mérito e defendemos convictamente que o esforço e o trabalho de
 
 O centro das políticas públicas são as pessoas, não o sistema, e a preocupação maior da política deve ser com as pessoas, não com o sistema.
 
-A pessoa pré-existe ao Estado, que se organiza para servir o bem-comum, não para se autojustificar. Por isso a prioridade número um do CDS é baixar impostos, e libertar as famílias e as empresas da maior carga fiscal de sempre. 
+A pessoa pré-existe ao Estado, que se organiza para servir o bem-comum, não para se autojustificar. Por isso a prioridade número um do CDS é baixar impostos, e libertar as famílias e as empresas da maior carga fiscal de sempre.
 
 Permitir que cada um construa o seu percurso de vida, que as empresas se criem e desenvolvam com facilidade, passem de micro e pequenas a médias e cheguem a grandes, criem bom emprego, qualificado e com salários dignos.
 
@@ -41,7 +41,7 @@ Exigimos uma justiça que funcione e um combate sem tréguas à corrupção. Com
 
 Olhamos para o nosso território, tão exposto às alterações climáticas, como um ativo, uma riqueza, que temos de preservar, potenciar e legar às novas gerações melhor do que encontrámos. Partir do território para o valorizar, da agricultura, da floresta, do nosso território marítimo, da paisagem que cruza de forma inteligente e com sentido de beleza o natural e o humano, é o nosso objetivo. Queremos um território coeso e preparado para as alterações climáticas.
 
-O programa eleitoral é a peça chave da democracia representativa: é o nosso compromisso com o eleitor, é a base da confiança. Estabelece os princípios, as propostas, as ações a que nos propomos. A nossa capacidade para o executar depende mais dos eleitores do que da nossa vontade, que essa é sempre máxima! Com a força dos votos seremos capazes de o fazer cumprir. 
+O programa eleitoral é a peça chave da democracia representativa: é o nosso compromisso com o eleitor, é a base da confiança. Estabelece os princípios, as propostas, as ações a que nos propomos. A nossa capacidade para o executar depende mais dos eleitores do que da nossa vontade, que essa é sempre máxima! Com a força dos votos seremos capazes de o fazer cumprir.
 
 Este programa, quer no seu foco muito claro, quer na abrangência das suas propostas, revela bem ao que vimos e por que razão faz sentido votar no CDS. Quem nos confiar o seu voto sabe quais as nossas prioridades e o nosso posicionamento. Assim, votar no CDS faz sentido! Assunção Cristas Agosto 2019
 
@@ -105,7 +105,7 @@ Se queremos que as pessoas subam na vida, se queremos acabar com as desigualdade
 
 O nosso objetivo é dotar Portugal de um sistema fiscal mais favorável ao trabalho, à família e à iniciativa, condição necessária para que Portugal se transforme num país de oportunidades para todos, com menos desigualdades, com mais mobilidade social, com mais justiça.
 
-Propomos uma reforma fiscal que concretize uma descida robusta e substancial da carga fiscal. 
+Propomos uma reforma fiscal que concretize uma descida robusta e substancial da carga fiscal.
 
 A reforma fiscal que propomos está assente em cinco princípios:
 
@@ -126,7 +126,7 @@ A reforma fiscal que propomos incide essencialmente na redução dos impostos so
 1. O CDS compromete-se a baixar em 15% a taxa efetiva média de IRS dos portugueses até 2023, o que implica baixar em 2 pontos percentuais a taxa média efetiva da maioria dos agregados. Ou seja, em média, no final da legislatura, os agregados pagarão menos 15% em IRS.
 2. Comprometemo-nos a colocar o IRC a 17% já em 2020, recuperando a reforma do IRC. Uma reforma que, recorde-se, aumentou a receita ao baixar a taxa de impostos. O nosso objetivo é, no prazo de seis anos, equiparar o IRC de Portugal com o IRC da Irlanda, o país que melhor tem conseguido utilizar a competitividade fiscal enquanto instrumento de crescimento.
 3. A redução do IRS será financiada por 60% do excedente orçamental previsto no Programa de Estabilidade para quatro anos. Não é necessária qualquer redução de despesa adicional. Se há um excedente orçamental, ele tem de servir para devolver aos portugueses os frutos do seu enorme esforço.
-4. Temos de deixar um mundo melhor para os nossos filhos. Mais dívida significa que eles terão menos liberdade de escolha. Se, no âmbito da nossa reforma fiscal, 60% do excedente serve para reduzir o IRS, os restantes 40% servem para evitar impostos futuros, pagando a dívida. O CDS aposta em ter um saldo estrutural das contas públicas tendencialmente positivo. 
+4. Temos de deixar um mundo melhor para os nossos filhos. Mais dívida significa que eles terão menos liberdade de escolha. Se, no âmbito da nossa reforma fiscal, 60% do excedente serve para reduzir o IRS, os restantes 40% servem para evitar impostos futuros, pagando a dívida. O CDS aposta em ter um saldo estrutural das contas públicas tendencialmente positivo.
 
 ## CONDIÇÕES PARA CONSTRUIR UM PROJETO DE VIDA EM FAMÍLIA
 
@@ -156,7 +156,7 @@ Os setores mais dinâmicos precisam que o Estado lhes saia da frente e lhes dê 
 
 Para isso, propomos um conjunto de políticas alinhadas com as reformas já empreendidas pelos países europeus com que competimos:
 1. Uma reforma no sistema educativo, devidamente consensualizada e estabilizada, para preparar os alunos para os riscos e para as oportunidades do Mundo global. Atualizaremos os currículos. Transformaremos a escola num elevador social, recorrendo à liberdade de escolha e à autonomia das escolas. Fixaremos o perfil do Professor no século XXI, modernizando as dimensões de acesso, formação, seleção, recrutamento, estruturação da carreira e de valorização do mérito. Combateremos a estigmatização do ensino profissional, instrumento que reforça a segurança num mercado cada vez mais flexível.
-2. Uma revolução na formação profissional. Vamos orientar a formação profissional para as competências profissionais e para o emprego, e não para as qualificações académicas. Adaptaremos conteúdos e cursos para as necessidades da economia. Criaremos mecanismos de concorrência na formação profissional, com uma formação avaliada e financiada por rankings de empregabilidade. Valorizaremos a participação dos Centros de Formação e dos Centros de Formação Protocolares; 
+2. Uma revolução na formação profissional. Vamos orientar a formação profissional para as competências profissionais e para o emprego, e não para as qualificações académicas. Adaptaremos conteúdos e cursos para as necessidades da economia. Criaremos mecanismos de concorrência na formação profissional, com uma formação avaliada e financiada por rankings de empregabilidade. Valorizaremos a participação dos Centros de Formação e dos Centros de Formação Protocolares;
 3. Uma adaptação do ensino superior e do sistema científico à economia do conhecimento, sem a qual perdemos o comboio e impedimos a reindustrialização. Vamos introduzir critérios de avaliação que ponderem a realização de investigação em contexto empresarial, eliminando um dos maiores obstáculos à investigação em contexto empresarial. Queremos um Sistema de Incentivos Financeiros à Inovação e Investigação industrialmente orientada nas empresas. E dotaremos o país do regime fiscal mais amigo da invenção, inovação e propriedade intelectual.
 4. Uma desburocratização e abertura robustas da nossa economia, para animar o investimento, a inovação, as exportações, o crescimento empresarial e a criação de emprego. No âmbito do Estado de direito, pugnaremos pelo reforço radical dos direitos de
 propriedade, pela criação de mecanismos ágeis de justiça e cumprimento de contratos, retirando dos tribunais as bagatelas jurídicas, e pelo compromisso de estabilidade legislativa e o império da lei. No âmbito da carga fiscal e da despesa, asseguraremos uma carga fiscal pensada para o crescimento da economia e uma reforma na fiscalidade dos agentes económicos. No âmbito da regulação económica, assumiremos de forma radical a liberdade para fazer negócios sem depender do Estado, a liberdade
@@ -232,7 +232,7 @@ Isto significa que os impostos justos são os impostos proporcionalmente baixos:
 
 É uma ilusão pensar que é possível criar riqueza com um sistema fiscal que penaliza todos aqueles que começam a gerar riqueza, a subir na vida, a crescer empresarialmente.
 
-Para o CDS, quem começa a subir na vida deve ser incentivado, conseguindo mais para si e para a sua família; quem começa a ter sucesso deve ser incentivado, gerando mais riqueza, arriscando mais; uma pequena empresa que passe a média deve ser incentivada a passar a grande. 
+Para o CDS, quem começa a subir na vida deve ser incentivado, conseguindo mais para si e para a sua família; quem começa a ter sucesso deve ser incentivado, gerando mais riqueza, arriscando mais; uma pequena empresa que passe a média deve ser incentivada a passar a grande.
 
 ## 2. NÃO PODEMOS TER UM ESFORÇO FISCAL ACIMA DOS NOSSOS PARCEIROS EUROPEUS
 
@@ -269,7 +269,7 @@ Uma das principais formas de subir na vida é através dos rendimentos que uma p
 
 Pôr de novo o “elevador social” a funcionar, desbloquear a sociedade portuguesa como sociedade de oportunidades, em suma, restabelecer a mobilidade social no nosso país é um objetivo central do CDS nos próximos quatro anos.
 
-Porém, com uma violenta carga fiscal, o Estado impede que alguém consiga acumular riqueza pelo seu trabalho. Sempre que trabalha mais e ganha mais, o Estado fica com cada vez mais. 
+Porém, com uma violenta carga fiscal, o Estado impede que alguém consiga acumular riqueza pelo seu trabalho. Sempre que trabalha mais e ganha mais, o Estado fica com cada vez mais.
 
 O resultado é simples: uma pessoa de classe média, por mais que trabalhe, por mais que trabalhe horas extras, por mais que se esforce, não conseguirá melhorar a sua porque tudo o que ganhe a mais será para o Estado.
 
@@ -278,7 +278,7 @@ continuar com esta carga fiscal.
 
 É esta carga fiscal que impede as pessoas de progredir, ainda que com a desculpa de que essa carga fiscal é para as servir. Está hoje à vista que assim não é: os serviços públicos estão em situação de colapso e a carga fiscal está em máximos.
 
-Isto é assim com o rendimento das pessoas, e também o é com a tributação das empresas. Portugal precisa de mais empresas e de empresas cada vez maiores. Só com mais empresas, e cada vez maiores e mais robustas, podemos vencer o desafio da produtividade e da competitividade nacional. 
+Isto é assim com o rendimento das pessoas, e também o é com a tributação das empresas. Portugal precisa de mais empresas e de empresas cada vez maiores. Só com mais empresas, e cada vez maiores e mais robustas, podemos vencer o desafio da produtividade e da competitividade nacional.
 
 Sempre que um país aposta num ambiente favorável ao crescimento empresarial, consegue criar um ambiente tendente à qualificação de
 recursos humanos, à qualidade da gestão, à criação de emprego, à melhoria dos salários e das condições de trabalho, à diminuição da precariedade, às atividades de inovação e internacionalização e à melhoria das condições de financiamento.
@@ -299,11 +299,11 @@ As esquerdas querem mais e mais impostos para reforçar um modelo de Estado que 
 nem dinheiro para o Estado nem serviços de qualidade para os portugueses. É o que já se vislumbra nos serviços públicos.
 
 Uma economia moderna precisa de rendimento disponível: seja para investir num novo negócio ou em mão-de-obra, seja para pagar
-uma escola melhor aos filhos ou um serviço de saúde com maior qualidade; só se pode crescer quando se consegue respirar e planear a longo prazo. 
+uma escola melhor aos filhos ou um serviço de saúde com maior qualidade; só se pode crescer quando se consegue respirar e planear a longo prazo.
 
 Enquanto os portugueses forem estrangulados por impostos que não são produtivos nem dão retorno em serviços, não só porque falham estruturalmente, mas porque são financiados por uma economia débil e estagnada, ficarão presos no círculo vicioso em que há décadas nos encontramos.
 
-Devolver dinheiro aos portugueses é um contrato de confiança que o CDS quer estabelecer com os portugueses: são quem produz, investe, quem inova, quem contribui todos os meses com os frutos do seu trabalho, em impostos, em despesa e investimento, quem trata, no fim, do nosso futuro. 
+Devolver dinheiro aos portugueses é um contrato de confiança que o CDS quer estabelecer com os portugueses: são quem produz, investe, quem inova, quem contribui todos os meses com os frutos do seu trabalho, em impostos, em despesa e investimento, quem trata, no fim, do nosso futuro.
 
 ## 6. OBJETIVO E CRITÉRIOS PARA UMA REFORMA FISCAL
 
@@ -322,7 +322,7 @@ Seguem-se os termos da reforma fiscal a que o CDS se propõe, que incide essenci
 
 ## 7. BAIXAR EM 15% O IRS DOS PORTUGUESES
 
-O CDS compromete-se a baixar em 15% a taxa efetiva média de IRS dos portugueses até 2023, o que implica baixar em 2 pontos percentuais a taxa média efetiva da maioria dos agregados. 
+O CDS compromete-se a baixar em 15% a taxa efetiva média de IRS dos portugueses até 2023, o que implica baixar em 2 pontos percentuais a taxa média efetiva da maioria dos agregados.
 
 Ou seja, em média, os agregados pagarão menos 15% em IRS.
 
@@ -376,7 +376,7 @@ auxiliares, essas despesas deverão poder ser deduzidas à coleta do IRS, dando 
 
 ## 8. REFORÇAR RADICALMENTE A COMPETITIVIDADE FISCAL DA NOSSA ECONOMIA
 
-A nossa reforma fiscal faz uma significativa opção a favor da competitividade empresarial. 
+A nossa reforma fiscal faz uma significativa opção a favor da competitividade empresarial.
 
 Pensamos, sobretudo, no investimento, na inovação e na internacionalização das empresas portuguesas. Temos em atenção os regimes
 fiscais que competem com o português, nomeadamente dos países do Leste europeu. E aproveitamos as boas práticas europeias, visando
@@ -473,7 +473,7 @@ Vamos elaborar uma “Reforma das Garantias dos Contribuintes” tendente a veri
 Qualquer empresa ou pessoa a quem o Estado deve dinheiro deve poder descontar a fatura vencida e não paga, utilizando o dinheiro
 proveniente desse desconto, para pagar os seus impostos.
 
-As faturas vencidas e não pagas pelo Estado, depois de devidamente certificadas pelo Ministério das Finanças, são convertidas em títulos da dívida que poderão ser utilizados para pagamentos ao Estado, e apenas para esses pagamentos. 
+As faturas vencidas e não pagas pelo Estado, depois de devidamente certificadas pelo Ministério das Finanças, são convertidas em títulos da dívida que poderão ser utilizados para pagamentos ao Estado, e apenas para esses pagamentos.
 
 ### 12.4. A conta corrente Estado-Contribuintes tem mesmo de ser uma realidade
 
@@ -506,9 +506,9 @@ A história económica mostra que demografia e economia andam de mãos dadas. É
 
 Assumimos por isso o desafio demográfico como uma das cinco prioridades da nossa ação política nos próximos quatro anos.
 
-## 1. PORTUGAL É UM DOS PIORES EXEMPLOS 
+## 1. PORTUGAL É UM DOS PIORES EXEMPLOS
 
-Sabemos que este é um desafio partilhado na Europa e, em geral, nos países mais desenvolvidos. 
+Sabemos que este é um desafio partilhado na Europa e, em geral, nos países mais desenvolvidos.
 
 Sucede que, em Portugal, somos um dos piores exemplos e estamos abaixo dos restantes países que estão mal. O índice de fecundidade
 continua a ser dos mais baixos da Europa e o número de nascimentos demonstra uma tendência decrescente.
@@ -532,17 +532,17 @@ Não se trata de tomar opções pelas famílias, trata-se, isso sim, de lhes dar
 Decidir constituir uma família continua a ser uma das escolhas mais importantes das vidas das pessoas. Não é aceitável que seja tão difícil, por causas muitas vezes relacionadas com a incapacidade do Estado de se adaptar aos projetos de vida dos portugueses, decidir casar, ter filhos, construir um lar e viver em família. A família continua a ser o
 núcleo social e formativo essencial da formação de cada um. Todos temos a ganhar com mais famílias.
 
-E há várias áreas em que o Estado se comporta como obstáculo ao aumento da natalidade, como sejam a elevada carga fiscal que impõe, a insuficiência da rede de serviços que não assegura, um quadro legal que dificulta a conciliação da vida familiar com a vida profissional ou a rigidez dos mecanismos de apoio à maternidade e à infância que estabelece. 
+E há várias áreas em que o Estado se comporta como obstáculo ao aumento da natalidade, como sejam a elevada carga fiscal que impõe, a insuficiência da rede de serviços que não assegura, um quadro legal que dificulta a conciliação da vida familiar com a vida profissional ou a rigidez dos mecanismos de apoio à maternidade e à infância que estabelece.
 
-Em todas essas áreas o Estado mostra-se incapaz de dar espaço para acomodar os projetos familiares dos portugueses. Não podemos aceitar que assim seja, e temos prioritariamente de garantir uma atuação não contraditória por parte do Estado. É nisso que estamos empenhados. 
+Em todas essas áreas o Estado mostra-se incapaz de dar espaço para acomodar os projetos familiares dos portugueses. Não podemos aceitar que assim seja, e temos prioritariamente de garantir uma atuação não contraditória por parte do Estado. É nisso que estamos empenhados.
 
-## 3. O DESAFIO É GRANDE DEMAIS PARA SE RESOLVER COM MEDIDAS AVULSAS 
+## 3. O DESAFIO É GRANDE DEMAIS PARA SE RESOLVER COM MEDIDAS AVULSAS
 
 É por isso que, ao longo deste Programa, a família surge e surgirá, praticamente em todos os setores.
 
 Na educação, propomos a revolução que constitui institucionalizar a liberdade de escolha dos pais em relação à escola que pretendem para os seus filhos.
 
-Na saúde, apostamos na rede dos médicos de família e na humanização do atendimento e fazemos uma aposta nos cuidados paliativos. 
+Na saúde, apostamos na rede dos médicos de família e na humanização do atendimento e fazemos uma aposta nos cuidados paliativos.
 
 Na solidariedade, avançamos para a parceria com o setor social e com as Instituições Particulares de Solidariedade Social (IPSS), de modo a aumentar significativamente a oferta de consultas e cirurgias, de estruturas de acolhimento ou apoio domiciliário a idosos e de equipamentos para a infância.
 
@@ -586,7 +586,7 @@ de um montante fixo. Foi essa a política que implementámos quando fomos govern
 
 ### 4.3. Cada filho conta nas taxas moderadoras
 
-É justo que cada filho conte para a determinação do rendimento do agregado no reconhecimento da situação de insuficiência económica para isenção de taxas moderadoras: não se pode equivaler a capacidade económica de um casal sem filhos a um casal com vários filhos que aufere o mesmo rendimento. 
+É justo que cada filho conte para a determinação do rendimento do agregado no reconhecimento da situação de insuficiência económica para isenção de taxas moderadoras: não se pode equivaler a capacidade económica de um casal sem filhos a um casal com vários filhos que aufere o mesmo rendimento.
 
 ## 5. ALARGAR E FLEXIBILIZAR O GOZO DAS LICENÇAS PARENTAIS
 
@@ -602,9 +602,9 @@ Regulamentaremos toda esta matéria no seio da concertação social.
 ### 5.1. É tempo de alargar as licenças parentais para um ano
 
 Propomos que a licença parental inicial possa já em 2020 ser gozada por 210 dias, no caso de cada um dos progenitores gozar, em
-exclusivo, um período de 60 dias consecutivos, ou dois períodos de 30 dias consecutivos. 
+exclusivo, um período de 60 dias consecutivos, ou dois períodos de 30 dias consecutivos.
 
-Esse prazo vai ser alargado ao longo da legislatura, garantindo que será de um ano em 2023. 
+Esse prazo vai ser alargado ao longo da legislatura, garantindo que será de um ano em 2023.
 
 ### 5.2. Permitir aos avós gozar de parte da licença parental
 
@@ -644,7 +644,7 @@ Tornaremos obrigatória a educação pré-escolar para todas as crianças que co
 
 ### 6.2. Se há disponibilidade nas creches privadas, não há por que esperar por vaga na rede pública ou solidária
 
-Uma das carências que afeta parte do território português é a falta de vagas nas creches de equipamentos detidos por instituições do setor social com protocolo com a segurança social, o que faz com que muitas famílias não consigam dispor do apoio estatal e tenham de colocar os seus filhos em creches privadas, ou de outras entidades públicas, como autarquias, a preços substancialmente superiores. 
+Uma das carências que afeta parte do território português é a falta de vagas nas creches de equipamentos detidos por instituições do setor social com protocolo com a segurança social, o que faz com que muitas famílias não consigam dispor do apoio estatal e tenham de colocar os seus filhos em creches privadas, ou de outras entidades públicas, como autarquias, a preços substancialmente superiores.
 
 Muitas famílias, sabendo que não têm meios de pagar creches privadas, desistem da ideia de ter um filho.
 
@@ -654,7 +654,7 @@ O Estado tem de criar um regime de contratualização com o setor social e priva
 
 O Estado deve contratualizar com o setor social as vagas necessárias para universalizar o acesso às creches. Isso permitirá ter vagas mais depressa, e gastando menos do que construindo novas creches. É uma proposta que gasta menos do que as propostas das esquerdas nesta matéria. Se as vagas do setor social não forem suficientes, deve o Estado contratualizar com o setor privado as vagas em falta.
 
-Uma vez contratualizadas essas vagas, passaremos a ter uma disponibilidade universal, com vagas para todas as crianças cujas famílias decidam recorrer à rede protocolada. 
+Uma vez contratualizadas essas vagas, passaremos a ter uma disponibilidade universal, com vagas para todas as crianças cujas famílias decidam recorrer à rede protocolada.
 
 ## 7. CONCILIAR VIDA PROFISSIONAL COM VIDA FAMILIAR
 
@@ -666,7 +666,7 @@ Portugal precisa de modernizar e efetivamente liderar através da sua legislaç�
 
 ### 7.1. Mais liberdade para trabalhar a partir de casa
 
-Não faz sentido que a legislação laboral continue a dificultar tanto o trabalho a partir de casa, impedindo que alguém possa, em parte do seu horário de trabalho, ou em parte da sua semana ou ano, trabalhar a partir de casa. 
+Não faz sentido que a legislação laboral continue a dificultar tanto o trabalho a partir de casa, impedindo que alguém possa, em parte do seu horário de trabalho, ou em parte da sua semana ou ano, trabalhar a partir de casa.
 
 É essencial alterar este estado de coisas, dando mais liberdade e flexibilidade à entidade empregadora e ao trabalhador para que este possa conciliar vida profissional com vida familiar, trabalhando a partir de casa em parte do seu horário normal de trabalho (smartworking)
 
@@ -678,7 +678,7 @@ O smartworking deverá ainda constituir um direito dos trabalhadores com filhos 
 
 ### 7.3. Flexibilizar os horários das instituições que acolhem crianças nos primeiros anos de vida
 
-Precisamos de adaptar o funcionamento da rede de creches e estabelecimentos de ensino às novas necessidades das famílias, facilitando uma maior flexibilização dos horários das creches. Vamos adequar o modelo de financiamento das creches, de forma a incentivar o estabelecimento de horários flexíveis e adaptados aos horários de trabalho das entidades empregadoras da comunidade. 
+Precisamos de adaptar o funcionamento da rede de creches e estabelecimentos de ensino às novas necessidades das famílias, facilitando uma maior flexibilização dos horários das creches. Vamos adequar o modelo de financiamento das creches, de forma a incentivar o estabelecimento de horários flexíveis e adaptados aos horários de trabalho das entidades empregadoras da comunidade.
 
 ### 7.4. Dar mais condições às entidades empregadoras para terem as suas creches
 
@@ -920,7 +920,7 @@ Isto não significa que o CDS esgote aqui tudo o que pensa sobre a Segurança So
 ### 12.1. Mais informação sobre a nossa pensão – o Sistema de Informação para a Reforma
 
 Cada pessoa tem o direito a ser informado periodicamente da estimativa sobre o montante de pensão que lhe caberá, para que possa
-planear a sua vida. 
+planear a sua vida.
 
 Essa informação não só tem de estar disponível a todo o momento, como tem de ser enviada anualmente a cada beneficiário (com toda a informação sobre o carácter estimativo da informação) Para isso, há que criar contas individuais virtuais, que permitem ao Estado transmitir essa informação.
 
@@ -971,3 +971,828 @@ Uma enorme imprevisibilidade comercial, negocial, financeira, e até política, 
 Esta é a descrição do Mundo em que vivemos, um Mundo cada vez mais veloz e imprevisível, com milhões de problemas e milhões de oportunidades.
 
 Não vale a pena fingir que o Mundo é diferente, nem sequer vale a pena glorificar um passado que ficou para trás. O que temos de fazer é agir.
+
+## 2. SE NADA FIZERMOS, OS PROBLEMAS FICAM E AS OPORTUNIDADES VÃO
+
+Se nada fizermos, todos os problemas destas mudanças serão sentidos aqui, e as oportunidades que elas geram serão criadas noutro lugar. Se nada fizermos, o pelotão da frente dos países mais desenvolvidos
+deixa de poder ser apanhado por nós. Se nada fizermos, ficaremos para trás, o nosso sistema social deixará de financiar-se, a economia deixará de produzir e de criar riqueza. Onde a esquerda nos prepara para viver protegidos do mundo global e competitivo, o CDS acredita que o país e os portugueses podem vencer nesse mundo.
+
+Onde a esquerda desconfia da iniciativa, o CDS confia em quem quer subir na vida.
+
+Onde a esquerda limita a liberdade individual e empresarial, o CDS quer alargar a liberdade de cada um escolher o seu projeto de vida.
+
+Onde a esquerda pede à Europa que se resolva e que aprove mais regulação, o CDS exige à Europa que acabe com tanta regulação.
+
+Onde a esquerda apregoa o igualitarismo e o facilitismo, o CDS pugna pela igualdade de oportunidades e pela exigência.
+
+Onde a esquerda descura a negociação de diretivas, o CDS não quer o Governo a importar mais burocracia.
+
+O que nos diferencia das esquerdas é precisamente esta ideia de abertura à mudança, porque a grande questão do nosso tempo é precisamente esta: como reagimos à mudança? Com abertura ou com medo?
+
+São muitas as perguntas e os receios dos portugueses hoje.
+
+Pessoas com receio que a empresa em que trabalham se deslocalize. Empresários com receio de não ter aqui os recursos humanos ou o enquadramento fiscal adequado para competir com as empresas que todos os dias começam. Estudantes com receio de não estar a tirar o curso que melhor os prepara, ou que vai ser necessário no futuro. Trabalhadores com medo que a sua função desapareça, sem saber o que fazer para se requalificar. Jovens que não conseguem encontrar financiamento para começar o seu projeto que se perguntam se é aqui que vale a pena arriscar e começar algo de diferente. Pequenos e médios empresários que não conseguem chegar a grandes. Classe média cada vez a sentir-se menos média, mais afastada do topo.
+
+Não é possível apresentar uma proposta política aos portugueses sem ter em conta estas preocupações, esta enorme incerteza, este receio à conta de tanta imprevisibilidade.
+
+## 3. PRECISAMOS DE ABERTURA ECONÓMICA
+
+Só é possível vencer num mundo tão global se soubermos abrir a nossa economia, transformando-a numa economia do conhecimento.
+
+E isso só é possível oferendo a quem nela vive, a quem queremos atrair para ela, quatro compromissos essenciais – que são os compromissos do CDS.
+
+No âmbito do Estado de direito: o reforço radical dos direitos de propriedade; a criação de mecanismos ágeis de justiça e cumprimento de contratos; o compromisso de estabilidade legislativa e o império da lei.
+
+No âmbito da carga fiscal e da despesa: uma carga fiscal pensada para o crescimento da economia; uma reforma profunda na fiscalidade dos agentes económicos; um controlo estrutural e não conjuntural da despesa, e uma avaliação do desempenho do Estado com critérios de eficiência e utilidade.
+
+No âmbito da regulação económica: assumir de forma radical a liberdade para fazer negócios sem depender do Estado e dos seus palpites, venham eles do CDS ou do Bloco; a liberdade para inovar e para ameaçar as empresas e os negócios existentes; ser o melhor lugar do mundo para se desenvolver uma ideia e adaptar toda a regulação laboral e o modelo previdencial aos riscos e oportunidades da economia global.
+
+E no âmbito do funcionamento dos mercados: abertura a empresas, a pessoas, a bens e serviços; uma regulação independente e atuante e uma reforma profunda e sensata na educação e na formação profissional, preparando-nos para os desafios dessa abertura.
+
+## 4. TEMOS DE NOS PREPARAR PARA VENCER
+
+A nossa aspiração deve ser a de um país aberto ao mundo, a de uma sociedade aberta ao novo, a de uma economia aberta à concorrência, na convicção de que só uma atitude de abertura nos permitirá vencer, crescer, num planeta mais competitivo e global.
+
+A mudança não é para se ir gerindo, é para ser vencida. Para isso, temos de preparar o país e os portugueses para esta mudança, temos de capacitar e qualificar os portugueses, temos de agir, agir, agir, ou vamos ficar para trás.
+
+Os setores mais vulneráveis precisam de instrumentos para se adaptarem ao que aí vem, para se requalificarem, para conseguirem oportunidades. Se nada fizermos, serão as primeiras vítimas, a ficar para trás.
+
+Os setores mais dinâmicos precisam que o Estado lhes saia da frente e lhes dê o enquadramento necessário para vencer, para competirem, para crescerem. Se nada fizermos, vão se embora ou fecham.Olhemos para os países que crescem mais do que nós: estão todos a trabalhar neste sentido, enquanto em Portugal ainda andamos a discutir sobre se os privados podem ou não gerir hospitais.
+
+Este é o propósito do nosso programa político: vencer a incerteza; dar espaço a quem quer crescer, capacitar quem precisa de ajuda, modernizar o que está antigo, preservar o que de melhor temos.
+
+Para isso, propomos um conjunto de políticas sensatas, alinhadas com as reformas já empreendidas pelos países europeus com que competimos e com que ambicionamos comparar-nos.
+
+* a) Uma reforma no sistema educativo, para preparar os alunos para os riscos e para as oportunidades do Mundo global;
+* b) Uma revolução na formação profissional, para a direcionar para as necessidades da nossa economia, das nossas indústrias, e da economia digital;
+* c) Uma adaptação do enquadramento do ensino superior e do sistema científico à economia do conhecimento, sem a qual perdemos o comboio e impedimos a reindustralização;
+* d) Uma desburocratização e abertura robustas da nossa economia, para animar o investimento, a inovação, as exportações, o crescimento empresarial e a criação de emprego;
+* e) Uma reforma na justiça, que é não só essencial para as pessoas como é determinante para a nossa economia.
+
+## 5. UMA ESCOLA QUE TE PREPARA PARA OS DESAFIOS DO FUTURO
+
+Propomos uma reforma sensata do nosso sistema educativo, com um objetivo muito concreto: preparar os alunos para o Mundo global, num contexto de igualdade de oportunidades.
+
+Essa reforma está estruturada em cinco linhas de ação.
+
+* a) Atualizar os currículos e os ciclos de estudo. Estamos a ser desafiados por novas realidades, novos produtos, novas empresas, novos concorrentes, novas necessidades, novas ferramentas, novas profissões, enquanto vemos desaparecer realidades e produtos e empresas e ferramentas e profissões que tínhamos como certas. É uma ilusão pensar que um modelo definido para o analógico consegue vencer no digital; é um erro pensar que capacidades e ferramentas ensinadas para a previsibilidade vão servir para a imprevisibilidade; é uma irresponsabilidade pensar que temos apenas de deixar as coisas andar só porque funcionaram até aqui;
+* b) Transformar a escola num elevador social. Portugal é dos países onde é mais forte a relação entre a escolaridade dos pais e a probabilidade de sucesso educativo dos filhos. Ou seja, é dos países onde a herança socioeconómica é menos eficazmente contrariada pelas escolas. Não podemos deixar que sejam apenas os mais ricos a beneficiar das oportunidades deste Mundo, deixando as dificuldades para os que menos têm.
+* c) Fixar o perfil do Professor no século XXI. Nenhuma escola vive sem os professores, nenhum sistema de ensino progride sem professores motivados, empenhados e formados para preparar os alunos para vencerem num Mundo global. Para esse perfil, precisamos de modernizar as dimensões de: acesso e formação inicial; seleção, recrutamento, estruturação da carreira e valorização do mérito; formação continua e mobilidade internacional.
+* d) Garantir a estabilidade do sistema e a continuidade da reforma. Não é desejável que cada Governo ceda a ímpetos reformistas, sobretudo motivados por posições doutrinárias, muitas vezes sem uma avaliação prévia e fundamentada de regimes vigentes. Não significa que não se possam ou devam fazer mudanças, mas é essencial fazê-lo de forma a não criar instabilidade, permitindo tempo para que as políticas produzam resultados e possam ser avaliadas por isso. Propomos assim um Pacto Nacional pela Educação, a ser trabalhado durante os primeiros dois anos da legislatura.
+* e) Eliminar a estigmatização do ensino profissional. O ensino profissional, que a esquerda estigmatiza, é um poderoso instrumento de combate ao desemprego jovem e à escassez de competências, que reforça a segurança num mercado cada vez mais flexível e que atenua o impacto da demografia no mercado de trabalho.
+
+### 5.1. Um Pacto Nacional para a Educação para dar estabilidade ao sistema de ensino
+
+Saber compatibilizar a mudança exigida com estabilidade e previsibilidade necessárias ao bom funcionamento do sistema educativo é um dos equilíbrios governativos mais difíceis de realizar, mas também um dos mais insistentemente pedidos.
+
+É esta estabilidade que o CDS quer ver consagrada através de um Pacto em que as várias forças políticas acordam estabilizar as principais políticas públicas em educação para os próximos oito anos.
+
+E levaremos a esse Pacto, e a essa discussão, as nossas ideias de modernização da nossa escola e do nosso sistema de ensino, adaptando-os às exigências de flexibilidade e conhecimentos da economia digital.
+
+### 5.2. Atualizar currículos e ciclos de estudo para te preparar para a economia do futuro
+
+Com a essencial participação das sociedades científicas, num processo de consulta pública e com recurso a peritos nacionais e internacionais, devemos iniciar um processo de reforma dos currículos do ensino secundário, preparando os alunos para a economia do futuro.
+
+#### 5.2.1. Conteúdos, competências e disciplinas atualizadas
+
+Essa atualização deve focar-se em quatro eixos essenciais:
+
+* (a) conteúdos dos programas, com um reforço das componentes de ciência, tecnologia, engenharia e matemática, em que promoveremos um quadro institucional que favoreça o recurso a parcerias com entidades especializadas, escolhidas pelas escolas;
+* (b) competências transversais a desenvolver pelos alunos, que devem ser mais adaptadas às exigências dessa economia: saber pensar, argumentar e expor; aprender a aprender; multi-literacia; empreendedorismo e iniciativa; responsabilidade pessoal; competências TIC;
+* (c) esta latitude não deve descurar as aprendizagens básicas no Português e Matemática, que devem ser reforçadas na sua nuclearidade.
+* (d) intensificação do inglês, que deve ser oferecido desde o 1º ano com acesso a uma certificação de nível B2, segundo o Quadro Europeu Comum de Referência para as Línguas, no final dos 12 anos da escolaridade obrigatória.
+
+#### 5.2.2. Dar-te mais poder na definição do teu próprio currículo
+
+Num mundo em que a incerteza é a palavra de ordem e em que muitas das profissões futuras não foram ainda inventadas, o percurso curricular dos alunos tem de ser de abrangência por oposição a um afunilamento precoce.
+
+Não podemos continuar a ter áreas tão segmentadas e estanques, em que um aluno ou escolhe uma ou outra, como se a realidade seguisse essas regras.
+
+Propomos que o percurso do ensino secundário regular deixe de ser definido em áreas, mas antes construído com núcleo de disciplinas base, comuns a todos os alunos, e um conjunto de disciplinas optativas de várias áreas, num sistema de créditos idêntico ao do nível superior.
+
+Cabe ao aluno escolher, de entre as disciplinas optativas, quais pretende, podendo estas ser de áreas que anteriormente eram distintas. Assim, conseguimos currículos adaptados às necessidades dos alunos, com a abrangência necessária para escolhas profissionais cada vez mais individualizadas.
+
+O sistema de exames e provas de ingresso de acesso ao ensino superior – definidas pelas instituições de ensino superior – deverão manter-se, estando no entanto assegurada a formação mais abrangente de cada aluno.
+
+#### 5.2.3. Reorganizar os ciclos de estudo para evitar tantas transições
+
+A escolaridade obrigatória de 12 anos, dividida entre o ensino básico com nove anos de duração e organizado em três ciclos de ensino, e o ensino secundário com duração de três anos, é excessivamente segmentada, obrigando os alunos a várias transições e ruturas, o que não contribui para o combate ao insucesso escolar.
+
+A reorganização dos ciclos de forma a mitigar esta segmentação só é possível se devidamente preparada, planeada e faseada, no âmbito desse Pacto Nacional para a Educação. Não é possível fazê-lo no prazo de uma legislatura, mas é possível fazê-lo no prazo de 8 anos, tendo até em conta a evolução demográfica, e no âmbito de um processo devidamente consensualizado.
+
+O objetivo é o de contribuir para neutralizar as transições repetidas, consolidando: a relação dos alunos com o espaço-escola, as áreas e a organização curricular, a afiliação aos professores e o desenvolvimento gradual das competências e metas definidas, criando condições para o maior sucesso no trabalho escolar.
+
+Assim, nesse Pacto, proporemos aproximar o sistema português do de outros países, querendo, no prazo máximo de oito anos, desagregar o percurso de 12 anos num ensino básico ciclo de seis anos, juntando o primeiro e segundo ciclos, e num ensino secundário de seis anos, pela conjugação do terceiro ciclo do ensino básico com o atual secundário (mantendo a opção de prosseguimento de estudos superiores ou preparação para inserção no mercado de trabalho).
+
+### 5.3. A escola como elevador social
+
+A nossa escola está a fazer pouco pela mobilidade social, como demonstram vários indicadores.
+
+E porquê? Porque o sistema é demasiado rígido, trata de forma igual situações que são diferentes, impede famílias com menor capacidade financeira de escolher uma escola que permita melhorar os resultados dos seus filhos e não dá às escolas os meios e a autonomia necessária para adaptarem o ensino aos seus alunos.
+
+A escola tem de ser um elevador social, um sítio onde tens todas as oportunidades de sucesso, independentemente do sítio onde nasceste ou do teu contexto familiar e para isso é preciso eliminar todas regras que limitam o futuro do aluno, amarrando-o ao seu contexto de nascimento ou de residência.
+
+E por isso queremos eliminar as regras que privilegiam pessoas só porque nasceram ou vivem em determinado sítio.
+
+Por outro lado, uma escola com autonomia é sempre mais eficaz a garantir a aprendizagem de todos alunos, porque pode identificar oportunidades e necessidades específicas e atuar rapidamente em conformidade, garantindo que, afinal, todos têm a mesma oportunidade.
+
+A excessiva e crescente centralização por parte do Ministério tem feito aumentar a burocracia, enquanto desresponsabiliza e desmotiva escolas, professores, alunos e famílias e inviabiliza a formação de pessoas intelectualmente autónomas ao tratar todos os alunos por igual, independentemente das características, interesses e dificuldades de cada um.
+
+A aposta na liberdade de educação e na autonomia das escolas é, por isso, incondicional.
+
+Só uma escola de qualidade acessível a todos, de acordo com um princípio de liberdade de escolha, condiz com o princípio de igualdade de oportunidades e só uma escola com autonomia suficiente para se adaptar à sua comunidade escolar pode puxar pelo melhor de cada um de nós.
+
+#### 5.3.1. Não tens de nascer no melhor bairro para frequentar a escola que melhor se adapta a ti
+
+O sítio onde uma família vive não pode ser o fator mais determinante para a definição da escola em que um aluno deve estudar. Isso perpetua as diferenças sociais, afunila as escolhas e desincentiva a diversidade.
+
+Revogaremos a prevalência do código postal como critério de acesso à escola, de forma a permitir que as famílias tenham a oportunidade de colocar os seus filhos nas escolas mais adequadas para o seu percurso escolar. Todas as famílias devem ter essa possibilidade de escolha.
+
+#### 5.3.2. Quem mais precisa e mais se esforça, precisa de uma oportunidade
+
+Se queremos acabar com a discriminação implícita num modelo baseado apenas no código postal, queremos assegurar que os mais desfavorecidos também conseguem vencer. Passando por desafios que lhes são próprios e muitas vezes complexos, acabam por ter de se esforçar mais, trabalhar mais, e nem sempre esse esforço suplementar é recompensado.
+
+Propomos que cada escola deve ter uma quota de entrada para os alunos com Ação Social Escolar que tenham aproveitamento de mérito.
+
+#### 5.3.3. Mais autonomia para as escolas se adaptarem ao que precisas
+
+A autonomia das escolas, que desde há anos vem sendo decretada na lei, tem de ser efetiva e tem de ser apropriada pelas comunidades educativas
+
+Autonomizar escolas significa atribuir-lhes autonomia administrativa, financeira e pedagógica, profissionalizando a sua gestão e elevando o seu nível de responsabilidade e autoridade, dando-lhes liberdade para planear e executar projetos educativos definidos localmente, em ciclos de 6 anos, constituindo verdadeiros planos estratégicos de cada escola, bem como contratar docentes, estabelecer e ajustar turmas, programas, métodos e processos pedagógicos, acompanhar professores e alunos e realizar avaliações.
+
+O Ministério deve passar a desempenhar o papel de parceiro no desenvolvimento da missão das escolas, abandonando o papel de “dono” das escolas públicas, ocupado com o seu controlo.
+
+#### 5.3.4. Equipas especializadas de professores para reforçarem a autonomia das escolas
+
+Se as escolas, por si, por receio ou contexto especial, não conseguem trabalhar no sentido de explorar os possíveis graus de autonomia, então justifica-se que estas sejam apoiadas por equipas especializadas e facilitadas pelo Ministério da Educação, que em conjunto com cada escola crie um plano de autonomia próprio e consequentemente que reforce a sua capacidade.
+
+Queremos terminar a legislatura com uma larga percentagem de escolas a utilizar a sua autonomia nos seguintes campos:
+
+* (a) Gestão do calendário escolar;
+* (b) Transversalidade disciplinar;
+* (c) Conceito de turma e de grupos-turma;
+* (d) Introdução de novas disciplinas;
+* (e) Utilização da tecnologia para uma maior personalização dos percursos de aprendizagem;
+* (f) Ensino bilingue;
+* (g) Contratação de professores.
+
+#### 5.3.5. A autonomia exige avaliação
+
+Quanto maior for a autonomia concretizada em cada escola, maior a responsabilidade do Estado enquanto regulador do sistema. A avaliação sistémica – da escola, dos profissionais de educação e dos alunos - torna-se crítica.
+
+A instituição de exames nos momentos de fim de ciclo será instrumento essencial de transparência e capacidade de agir preventiva e corretivamente, para que a autonomia seja efetivamente potenciadora do sucesso escolar dos alunos.
+
+A tendência atual de suprimir todos os exames durante o ensino obrigatório faz temer uma desqualificação perigosa do processo educativo através do estímulo do facilitismo e da irresponsabilidade.
+
+Os exames são essenciais para verificar se a aprendizagem dos alunos permitiu que se adquirissem as competências mínimas estabelecidas pelo Ministério para cada ciclo educativo, verificar se o sistema educativo nas suas componentes e no seu todo tem funcionado com a eficácia esperada e valorizar o mérito do trabalho realizado por cada aluno, dando-lhe a oportunidade de aferir o seu grau de conhecimento.
+
+No que respeita à aprendizagem, os exames nacionais devem servir apenas para verificar se as competências mínimas estabelecidas pelo Ministério, para cada ciclo educativo, foram adquiridas ou não por cada aluno.
+
+Não é possível conceber um modelo como o que propomos, em que cada escola determina a sua abordagem ao currículo, a sua metodologia de ensino e o seu projeto educativo, se não existirem metas claras, transparentes e previsíveis, como as que podemos estabelecer através dos exames nacionais.
+
+Os exames nacionais devem ser, antes de tudo, concebidos como um instrumento de avaliação das escolas, necessitando de estabilidade ao longo do tempo – porque sabemos que a melhor avaliação também é aquela que avalia percursos, mais do que momentos.
+
+Por outro lado, tem de ser estabelecida a obrigatoriedade da avaliação externa dos projetos educativos a 6 anos que cada escola pública tenha preparado e submetido, publicando os resultados e contribuindo ativamente para a sua melhoria e eficácia de realização através da concessão do apoio necessário para a sua correta execução e gestão.
+
+### 5.3.6. Defesa intransigente dos contratos simples e contratos de associação
+
+Há que atender àqueles que, sem apoio do Estado, não têm ferramentas para exercer a prerrogativa de uma escolha, de um modo particular as famílias numerosas, as mais carenciadas e as com filhos com necessidades educativas especiais.
+
+Neste sentido, propomos o alargamento da elegibilidade dos contratos simples de apoio à família a mais escolas e famílias.
+
+Manteremos evidentemente a defesa dos atuais colégios com contratos de associação que prestam um bom serviço público de educação, criando efetivamente uma igualdade de oportunidades para todos.
+
+#### 5.3.7. Um projeto piloto para Escolas Livres
+
+Acreditamos que as comunidades educativas, constituídas pelos professores, funcionários, alunos e pais, para além do contexto alargado que rodeia a escola, são quem melhor sabe zelar pelos interesses dos alunos. Queremos dar a oportunidade para estas constituírem os seus próprios projetos educativos, com a confiança do Estado. Mais autonomia é mais diversidade, e mais diversidade é mais liberdade. O país – como os estudantes – não tem todo as mesmas necessidades nem precisa do mesmo modelo monolítico de ensino aplicado em todo o território.
+
+Assim, queremos promover a criação de um conjunto de escolas livres, em que grupos de professores (e comunidades educativas) se juntam para apresentar um projeto educativo em que acreditam, recebendo do Estado a confiança e todas condições, em troca do compromisso de uma escola pública desejada com uma gestão séria e escrutinada, conforme os objetivos de aprendizagem estabelecidos no currículo nacional.
+
+#### 5.3.8. Alunos com necessidades especiais
+
+Os alunos com necessidades especiais devem ser integrados na escola, atendendo e cuidando da especificidade das suas necessidades e apoios. Mas as famílias devem ter também a liberdade de optar por projetos educativos diferenciados para os seus filhos, através dos contratos de cooperação.
+
+#### 5.3.9. Tolerância zero com o bullying, preservação da autoridade de professores e auxiliares
+
+Uma escola é feita de alunos, professores, funcionários e também encarregados de educação, e é preciso que todos estejam mobilizados para a necessidade de melhorar o desempenho escolar dos alunos e das escolas, para a necessidade de elevar a fasquia e de desenvolver um trabalho comprometido com a melhoria substancial do nosso ensino, numa ambiente de segurança, tranquilidade, apto ao desenvolvimento das capacidades de cada um.
+
+É necessário dignificar social e profissionalmente a profissão docente, de forma a reforçar a sua autoridade social, pedagógica e educativa. É necessário comprometer os alunos e os seus pais com as obrigações escolares e responsabilizá-los no caso de incumprimento.
+
+Criaremos ainda um programa de sensibilização e prevenção do cibercrime dirigido à população escolar dos ensinos básico e secundário, dirigido e orientado pela Unidade Nacional de Combate ao Cibercrime e a Criminalidade Tecnológica (UNC3T), e aprovaremos um plano de prevenção da violência (incluindo violência no namoro), da discriminação e da criminalidade em meio escolar, em articulação com o programa Escola Segura.
+
+Proporemos a revisão das molduras penais aplicáveis a atos de violência exercidos sobre professores e funcionários de uma escola.
+
+### 5.4. Preparar os professores para os desafios que vais enfrentar
+
+No contexto da transformação acelerada da sociedade, da quebra demográfica portuguesa e da fraquíssima capacidade de atrair novo talento para a função, precisamos de definir o perfil do Professor no séc. XXI.
+
+No âmbito do Pacto Nacional para a educação, proporemos:
+
+* a) A definição do “perfil de professor” habilitado para lecionar cada área disciplinar, garantindo que as competências científicas, técnicas, pedagógicas ou outras que sejam necessárias para uma correta aprendizagem dos alunos estão asseguradas;
+* b) Uma revisão profunda dos programas de formação de professores, acompanhada por peritos internacionais; definição de incentivos para que os professores frequentem formações e melhorem as suas competências; criação de enquadramentos teóricos e materiais de apoio aos professores, em especial nas áreas da literacia digital e da matemática;
+* c) A revisão da carreira dos professores, nomeadamente estabelecendo que uma progressão na carreira implicará provas públicas a prestar em instituições de ensino superior públicas devidamente credenciadas para o efeito, e será assente no mérito; durante o exercício das suas funções, cada professor será acompanhado e avaliado, em termos formativos, na escola onde trabalha;
+* d) Uma redução da burocracia central do Estado em matérias que respeitem a professores. Terá de desaparecer muita da centralização de processos administrativos relativos a professores, pelo que o Estado deve ser reduzido e os processos simplificados. Qualquer descentralização terá sempre de ser acompanhada de uma redução verificável do Estado central;
+* e) Definição de um programa extraordinário e voluntário de aposentação antecipada.
+
+### 5.5. Tu e a tua família também têm uma palavra a dizer
+
+O direito à educação pertence-te a ti e à tua família. Não acreditamos num modelo educativo em que os alunos e as famílias são meros espectadores. Acreditamos num modelo de educação com ampla participação de alunos e famílias.
+
+A escola é um espaço de liberdade, onde devem conviver tantas visões do mundo quantas as famílias que nelas têm os seus encarregados de educação: não serve para veicular visões únicas, aprovadas pelo Ministério da Educação.
+
+Anualmente, as escolas deverão submeter o programa da disciplina de Educação para a Cidadania a parecer obrigatório da Associação de Pais respetiva. Em caso de parecer negativo, a escola deve aprovar novo programa tendo em conta as orientações propostas pela Associação de Pais.
+
+A participação de entidades externas na lecionação desta disciplina deve ser obrigatoriamente comunicada aos encarregados de educação, com a antecedência suficiente para que estes, em Associação de Pais, possam igualmente sugerir outras alternativas.
+
+### 5.6. Acabar com a estigmatização do ensino profissional
+
+Países com sistemas de ensino que conjugam conhecimentos teóricos com competências adquiridas no posto de trabalho, com a aprendizagem de uma profissão apresentam taxas de desemprego e sobretudo de desemprego jovem mais baixas.
+
+#### 5.6.1. Aprendizagem em contexto de trabalho
+
+Reforçaremos a aprendizagem em contexto de trabalho no ensino profissional (com planos de aprendizagem personalizados e acompanhamento individual na escola e empresa) E traduziremos qualificações em classificações claras e formais, baseadas nos resultados da aprendizagem.
+
+#### 5.6.2. Novos conteúdos para novos desafios
+
+Reforçaremos a componente digital e tecnológica nas competências adquiridas e nas tarefas quotidianas da sala de aula.
+
+#### 5.6.3. Um contrato de transparência no acesso ao ensino profissional
+
+O Estado tem hoje informação e meios que lhe permitem antecipar, no país e nos diferentes distritos, as competências que serão necessárias num curto e médio prazo. O CDS defende que essa informação seja disponibilizada aos alunos e às famílias, numa plataforma de fácil acesso e utilização, tendo em vista a promoção de escolhas profissionais mais informadas.
+
+#### 5.6.4. Queremos criar rankings de empregabilidade
+
+Cada pessoa deve poder saber, à partida, a empregabilidade associada a cada uma das escolhas que pretende fazer no âmbito do ensino profissional. O Estado tem a obrigação de providenciar rankings de empregabilidade, de forma a que essa escolha seja informada.
+
+#### 5.6.5. Descentralizar para melhorar
+
+Queremos promover a criação de plataformas ao nível municipal/ regional que, reunindo as instituições de ensino e o mundo empresarial, terão como objetivo a apresentação de um plano regional de competências que deverá refletir as necessidades, em termos de oferta e de procura, municipais/regionais.
+
+#### 5.6.6. Ligação ao setor privado
+
+Privilegiaremos as parcerias com a iniciativa privada, através das Associações Setoriais do território.
+
+## 6. UMA REVOLUÇÃO NA FORMAÇÃO PROFISSIONAL PARA QUE ELA SE ADAPTE AOS NOVOS TEMPOS
+
+Precisamos de fazer uma verdadeira revolução na formação profissional.
+
+Está a ficar ultrapassada, não está alinhada com as necessidades das empresas, não está a preparar para a economia digital, não tem mecanismos de concorrência, não tem verdadeira liberdade de escolha, ninguém consegue medir os seus resultados.
+
+Sem essa revolução, estaremos a desperdiçar um dos mais preciosos instrumentos de preparação de Portugal e dos portugueses para os desafios da economia e do emprego, num contexto de uma transição digital que coloca desafios muito próprios.
+
+Com esta revolução, atingiremos cinco objetivos essenciais.
+
+* a) Valorizar as competências dos trabalhadores, porque essa valorização tem especial relevância na sua remuneração e na estabilidade do seu vínculo laboral. Os salários aumentam e a precariedade diminui quando o trabalhador vai reforçando as suas competências e formação;
+* b) Formar trabalhadores que deem resposta às necessidades de crescimento da nossa economia, em particular às necessidades das nossas indústrias, sobretudo as atividades exportadoras. Sem mão-de-obra qualificada, não é possível manter nem captar investimento, nem é possível dar condições às empresas para crescer;
+* c) Incentivar a requalificação dos recursos humanos ao longo da vida, transmitido uma mentalidade de formação contínua, por forma a que todos acompanhem a evolução do mercado de trabalho;
+* d) Formar trabalhadores para a economia digital, que transversalmente interfere com todas as atividades económicas. Sem esta formação, na prática ausente até ao momento, não conseguiremos recapacitar os trabalhadores afetados por este movimento transformador;
+* e) Dar mais liberdade de escolha e flexibilidade à formação, porque os tempos exigem uma formação cada vez mais personalizada e adaptada ao caso concreto, e não uma formação indiferenciada e pré-formatada.
+
+### 6.1. Orientar a formação para as competências profissionais e para o emprego
+
+Queremos orientar a formação profissional para as competências profissionais e para o emprego, e não para as qualificações académicas, como na prática sucede atualmente.
+
+As qualificações académicas devem obter-se na oferta educativa. À formação profissional cabe a atualização e aquisição de competências ao longo da vida. Daí que impediremos que os fundos de formação profissional sejam desviados para financiar a falta de recursos nas escolas públicas, como atualmente sucede.
+
+### 6.2. Os cursos e referenciais de formação precisam de revisão urgente
+
+Precisamos de focar a formação profissional nas necessidades da economia. Se não procedermos a uma revisão urgente dos cursos, estaremos a privar as pessoas de uma formação que as prepare para os desafios do Mundo global.
+
+Propomos, no prazo de dois anos, atualizar o Catálogo Nacional de Qualificações, auscultando os parceiros sociais, entidades empregadoras e sindicatos, e criando uma task force composta pelo Instituto do Emprego e Formação Profissional (IEFP), Agência Nacional para a Qualificação e o Ensino Profissiona (ANQEP), Centros de Formação Profissional e Instituições do Ensino Superior.
+
+### 6.3. Vamos criar a Via Digital
+
+Os países mais competitivos do mundo fizeram uma aposta na formação dos colaboradores das suas empresas, designadamente nas suas competências digitais. Este é ainda um dos pontos fracos de Portugal tal como resulta do recente no relatório do Global Competitiveness Report.
+
+Se nos queremos tornar competitivos com base em fatores de diferenciação como a inovação, investigação e desenvolvimento precisamos de formação, precisamos de qualificar os recursos humanos das nossas empresas e tal pressupõe a adaptação do nosso modelo de formação profissional.
+
+Este desafio da economia digital exige assim uma nova modalidade de formação no âmbito do IEFP, independente da escolaridade, destinada a reconverter vidas ativas para as novas oportunidades da economia digital.
+
+Criaremos a Via Digital, uma modalidade de formação para reconversão profissional à economia digital, incrementando, desenvolvendo e instituindo um “Plano de Formação para a Economia Digital”.
+
+### 6.4. Precisamos de privilegiar os centros de formação em parceria com o setor privado
+
+Reformularemos e valorizaremos a participação dos Centros de Formação e dos Centros de Formação de Gestão Participada (Centros Protocolares), de modo a formarem os recursos humanos qualificados de que a indústria exportadora hoje necessita, evitando que a formação se faça com base na oferta e não na procura.
+
+### 6.5. Vamos criar mecanismos de concorrência para melhorar a oferta
+
+Precisamos de ter uma formação avaliada em rankings de empregabilidade e financiada em conformidade com esses rankings, que é a forma mais rápida de conseguir uma adaptação da oferta de formação profissional às necessidades da economia.
+
+Deve ser feito um ranking, e em resultado desse ranking, criaremos vias verdes no acesso aos fundos por parte dos centros e cursos melhor avaliados, de modo a que esses cursos e centros não se vejam retidos pelo calendário e burocracia, e privilegiaremos o financiamento dos cursos e centros com melhor classificação
+
+### 6.6. O Cheque-formação tem de ser reforçado
+
+Desenvolveremos o cheque-formação, instrumento essencial de ligação da formação ao mundo empresarial, reforçando a liberdade dos formandos, em conjunto com a empresa, para a definição do percurso formativo.
+
+### 6.7. Toda a rede do IEFP tem de estar à disposição
+
+Se o Centro de Emprego e Formação profissional da área de residência não tem o que o formando procura, então não só este terá a liberdade de poder, querendo, ingressar noutro Centro como terá, por recurso às novas tecnologias, e nos cursos compatíveis, acesso remoto à formação que ali é dada. Para isso, dotaremos todos os Centros dos meios necessários para o efeito.
+
+### 6.8. Vamos alterar o procedimento de recrutamento e seleção de formadores do IEFP
+
+A importância da formação profissional exige um processo de recrutamento e seleção de formadores mais exigente, nomeadamente no âmbito das TIC e da área sócio-cultural.
+
+### 6.9. Quem deve escolher a formação de que precisa é o formando, não o Estado
+
+As pessoas não podem ficar dependentes da formação que o Estado pré-formatou. Cada caso é um caso e não acreditamos numa formação profissional que não se adapta às necessidades de cada um. Adotaremos a liberdade de escolha plena no âmbito da formação profissional, cabendo a cada um e, se for o caso, em conjunto com a empresa, escolher onde quer receber a formação profissional e quais as unidades de formação que devem compor o percurso formativo.
+
+
+## 7. UM ENSINO SUPERIOR PARA UM MUNDO GLOBAL E CONCORRENCIAL
+
+Em meados dos anos 60 a oportunidade de acesso ao ensino superior para estudantes com pais com escolaridade de nível superior era 488 vezes maior do que a dos jovens com pais sem escolaridade. Em 2010 esta relação tinha baixado para quatro vezes.
+
+Há dois elementos decisivos neste caminho de democratização do acesso ao ensino superior: o aumento da oferta, através da expansão da rede de universidades e politécnicos, e o sistema de ação social escolar que, através dos apoios financeiros, diretos e indiretos, aos estudantes economicamente desfavorecidos, atenuou as disparidades provocadas pelas diferenças sociais de origem.
+
+Mas há que continuar neste caminho, fazendo mais e melhor. Se é verdade que os efeitos negativos da situação demográfica se vão fazer sentir nos próximos anos, também é verdade que, em 2017, só menos de metade dos jovens com idade para frequentar o ensino superior estavam efetivamente a fazê-lo. No total, 362.000 alunos frequentavam o ensino superior e um em cada cinco era bolseiro.
+
+A taxa de abandono na licenciatura é superior a 20% e menos de metade dos alunos consegue acabar o curso nos três anos da sua duração. As questões económicas são muitas vezes referidas para justificar o abandono, bem como a falta de motivação/match com o curso e a desvalorização do diploma em face de uma oferta de emprego alternativa.
+
+Do ponto de vista das instituições de ensino superior, que hoje se inserem num mercado global e altamente concorrencial, o financiamento por aluno, atribuído pelo Orçamento do Estado, está significativamente abaixo da média da OCDE e da UE, e é mais desfavorável do que no ensino obrigatório não superior. O corpo docente é envelhecido e há níveis elevados de endogamia.
+
+Importa lembrar que Portugal se comprometeu com objetivos ambiciosos: até 2030, aumentar para 60% os jovens com 20 anos no ensino superior e ter 40% de diplomados na faixa etária dos 30-34 anos até 2020 – note-se que, em 2017 esta taxa era de 33,5% e em divergência com a meta fixada.
+
+É preciso injetar a cultura que respira no ensino superior de espírito de mérito e esforço e trabalho e ambição. Culturalmente, o bloqueio português, em termos de produtividade, reside também numa certa aversão ao mérito individual, “socializando” ou nivelando por baixo, os níveis de esforço e remuneração.
+
+Esta cultura, tributária da permeabilidade dos valores dominantes ao igualitarismo de esquerda, é de tal forma destruidora das expectativas da vida e dos projetos individuais, sobretudo dos mais jovens, que também é responsabilizável pela nova “emigração de qualidade”.
+
+Inúmeros jovens portugueses – com licenciatura, mestrado ou doutoramento – procuram países com oportunidades, que reconhecem o talento e a iniciativa, e não têm aquela cultura inibidora.
+
+### 7.1. Democratizar o acesso ao ensino superior com base na meritocracia
+
+Há ainda muitos alunos que, no final da escolaridade obrigatória, não procuram o ensino superior, quer provenham da via profissional quer da via regular. Estimular o acesso destes alunos, e compensar o efeito da demografia, implica tomar uma série de medidas ao nível da ação social escolar e do modelo de acesso.
+
+Mas garantir a sustentabilidade da oferta para estes e para todos os outros alunos também significa manter princípios em vigor, como seja a existência de propinas, um sistema com 20 anos de existência.
+
+#### 7.1.1. Bolsas para quem tem vaga, mas não a pode pagar
+
+A democratização do acesso ao ensino superior deve visar quem, cumprindo os critérios de acesso, está impedido de o fazer por razões económicas
+
+A ação social escolar deve ser reforçada, através do valor da bolsa e do limite de elegibilidade, para apoiar quem escolhe, mas não consegue, frequentar o ensino superior.
+
+#### 7.1.2. O papel das instituições na formação em ciclos de mestrado
+
+O fim dos mestrados integrados, que terá lugar no ano letivo de 2020/2021, coloca a questão de uma potencial fratura social uma vez que os preços praticados neste 2.º ciclo não serão acessíveis a todos.
+
+Rejeitamos que este ciclo de estudos venha ser alvo de planificação centralizada com preços máximos e limites de vagas determinados pelo Estado, como é o caso das licenciaturas.
+
+Defendemos antes que as instituições de ensino superior tenham mecanismos de autorregulação, recorrendo à subsidiação entre cursos e ciclos, bem como criando bolsas de financiamento para os alunos potencialmente excluídos por razões económicas.
+
+#### 7.1.3. Uma resposta eficiente e eficaz para o alojamento estudantil
+
+Um dos problemas mais prementes e que maiores entraves coloca ao acesso e frequência dos estudantes deslocados é o alojamento estudantil.
+
+Propomos:
+
+* a) A reabilitação e requalificação do património adequado, quer seja das instituições quer seja das autarquias quer pertença ao Estado central, através de linhas de financiamento bonificadas e com planeamento inteligente em cada território;
+* b) A contratualização de vagas com os setores privado e social, como resposta de curto-prazo, particularmente nas zonas de maior pressão imobiliária;
+* c) A despenalização no IMT dos proprietários que alugam quartos a estudantes.
+
+#### 7.1.4. Promoção do sistema de empréstimos
+
+É preciso reforçar soluções para os casos em que a ação social não consegue apoiar, bem como para os 2.º e 3.º Ciclos. Uma dessas fórmulas é a dos empréstimos, que oferece mais uma escolha, e mais uma oportunidade, a quem enfrenta dificuldades no acesso ao ensino superior.
+
+Defendemos assim um sistema de empréstimos de garantia mútua, com condições de carência e reembolso indexadas à empregabilidade.
+
+#### 7.1.5. Um estatuto de estudante-trabalhador que dê mais oportunidades a quem precisa
+
+O atual regime castiga os estudantes que precisam de trabalhar para (ajudar a) pagar os seus estudos, uma vez que engloba os seus rendimentos com os dos seus pais, podendo mesmo subir de escalão. É preciso corrigir isto.
+
+Propomos um estatuto de estudante-trabalhador, com benefício fiscal e sem perda de bolsa, para incentivo e complemento ao rendimento: regime de não englobamento dos rendimentos de estudantes até 25 anos que trabalham em part-time.
+
+#### 7.1.6. Igualdade de condições para alunos estrangeiros e portugueses
+
+Para o desenvolvimento deste setor enquanto exportador, é essencial atrair estudantes estrangeiros. Estes estudantes poderão contribuir para o desenvolvimento de futuras atividades económicas e bem como para o alargamento da base cultural dos nossos alunos.
+
+Sem prejuízo disso, se uma instituição de ensino superior público tiver capacidade para receber mais alunos para além do número de alunos que o Estado consegue financiar, deve dar oportunidade aos alunos portugueses de concorrerem a essas vagas, seguindo as regras da Concurso Nacional de Acesso, e de acordo com as notas aí obtidas.
+
+Para cada vaga aberta, deve ficar com ela o melhor aluno que a ela concorreu. Para o efeito, o sistema de empréstimos de garantia mútua permitirá alargar as condições de acesso a essa vaga, bem como a rápida implementação do estatuto de estudante-trabalhador.
+
+#### 7.1.7. Um novo modelo de acesso ao ensino superior
+
+Deve ser retomada a discussão sobre um novo modelo de acesso ao ensino superior, sabendo que tem de ser consensualizado entre a tutela, as instituições de ensino superior e as associações académicas, e sujeito a consulta pública. A solução tem de ser testada até ao final da legislatura.
+
+O novo sistema tem de garantir meritocracia, justiça relativa, não pode aumentar as barreiras à entrada, tem de prever quem suporta os custos da escolha, tem de ter em conta a política territorial.
+
+### 7.2. Racionalizar a oferta de Ensino Superior
+
+A oferta de Ensino Superior deverá ser racionalizada numa rede com diferenciação clara de ofertas formativas, com topologia e dimensão adequadas às necessidades da sociedade a médio e longo prazo.
+
+#### 7.2.1. Planear e dimensionar a rede de Ensino Superior para servir melhor o país
+
+Deverão ser promovidos e facilitados, do ponto de vista legislativo, consórcios entre instituições de ensino superior, para maximizar recursos e ganhar massa crítica, estabelecendo planos de estudo desenvolvidos em diferentes localizações e com certificação conjunta.
+
+#### 7.2.2. Um sistema binário com ofertas distintas
+
+Todos os países desenvolvidos têm um modelo de diferenciação, em geral forte, da sua oferta de ensino superior, porque as expectativas dos estudantes são muito diversas e a sua satisfação exige a afirmação de missões diferentes, através do conteúdo dos cursos e do ambiente de aprendizagem.
+
+Defendemos por isso a reafirmação do sistema binário, em que universidades e institutos politécnicos devem ter ofertas claramente distintivas entre si, com percursos claros para quem as procura e frequenta.
+
+Nesse contexto de ofertas de natureza diferenciada, os dois ramos do ensino superior deverão ter a possibilidade de conferir os três graus – licenciatura, mestrado e doutoramento.
+
+Os cursos de TeSP (Técnico Superior Profissional), focados numa profissionalização a dois anos e numa resposta territorial especifica, devem estar integrados apenas nos institutos politécnicos pela maior proximidade à sua missão dentro do sistema binário, devendo reforçar-se a intervenção do tecido social e económico em que se inserem.
+
+### 7.3. Financiamento e governo do sistema público
+
+O financiamento das instituições de ensino superior é hoje estabelecido com base nos valores “históricos”, ignorando a evolução das escolas quanto ao número de cursos, capacidade de atração de alunos e fixação de docentes. Acaba por gerar incentivos perversos e um subfinanciamento transversal.
+
+#### 7.3.1. Uma nova fórmula de financiamento das Instituições de Ensino Superior
+
+Deve ser retomada a fórmula de financiamento negociada, em 2015, com o Conselho de Reitores das Universidades Portuguesas (CRUP), o Conselho Superior dos Institutos Superiores Politécnicos (CSISP) e as associações académicas, e que, à data, teve um acolhimento universal, permitindo um financiamento programado, estável e previsível.
+
+#### 7.3.2. Avaliar o Regime Jurídico das Instituições de Ensino Superior para o melhorar
+
+Estamos disponíveis para reabrir o dossier do RJIES, mas consideramos errado que se produzam alterações avulsas, sem uma avaliação prévia formal e fundamentada, que inclua uma ponderação do que há que alterar ou do que simplesmente há que regulamentar.
+
+Em particular, e sobre o regime fundacional, as conclusões da avaliação do Conselho Coordenador do Ensino Superior, no âmbito do estudo da OCDE, apontam no sentido de relançar o modelo fundacional, reforçando o seu papel diferenciador e corrigindo as suas eventuais falhas.
+
+De resto, as Universidades do Porto, de Aveiro, do Minho, a Universidade Nova ou o ISCTE nunca pediram a reversão do modelo, mas sim o seu cumprimento pleno.
+
+#### 7.3.3. Rever os Estatutos da Carreira Docente Universitária e Politécnica
+
+Ambos os estatutos carecem de uma revisão global, a qual tem de atender à distinção entre contratação e avaliação/promoção, que terá de ser exclusivamente por mérito e satisfazendo um conjunto de critérios a definir no âmbito da autonomia das instituições.
+
+A situação atual, ligada ao tema do financiamento, torna-se insustentável, quer do ponto de vista da capacidade de gestão das instituições, das expectativas dos docentes e tem várias consequências negativas, desde logo, a endogamia.
+
+## 8. UM SISTEMA CIENTÍFICO QUE IMPULSIONE UMA ECONOMIA DO CONHECIMENTO
+
+A Ciência, e a investigação científica, são a base de conhecimento que potencia a inovação.
+
+E é a inovação que pode impulsionar a nossa economia, atraindo investimento internacional e gerando emprego – quer no sistema científico e tecnológico quer no tecido empresarial e industrial.
+
+Sem empresas e sem indústria, a nossa economia perderá a sua capacidade de inovação e não conseguirá criar empregos qualificados – continuará pouco preparada para superar os vários choques que a podem ameaçar.
+
+A análise de diferentes realidades ao nível internacional comprova que os países fortemente industrializados são aqueles que melhor resistem às crises cíclicas que afetam as economias modernas. A aposta na indústria revela que nestes países, mesmo nos tempos mais difíceis, o tecido empresarial se mantém mais forte, se registam menores taxas de desemprego e se mantêm vivas as exportações.E a digitalização dos processos industriais, por vezes referido como Indústria 4.0 – a quarta revolução industrial - já começou e começou a sério.
+
+A nossa indústria tem de estar preparada para esta revolução tecnológica. Esta necessidade de adaptação é mais premente nas empresas com vocação exportadora, as quais por atuarem no mercado internacional estão na primeira linha do impacto da mudança e, como tal, têm de perceber rapidamente os desafios com que se deparam.
+
+Um setor empresarial e industrial mais abrangente, moderno e inovador é condição sine qua non para a competitividade da economia portuguesa.
+
+O que pretendemos é ligar a produção de conhecimento às empresas para dinamizar a inovação e que é fundamental para as empresas agarrarem o modelo de economia do conhecimento (“knowledge based economy”).
+
+Porque de pouco vale investir em ciência e em investigação se, depois, não temos consequências desse investimento na nossa economia, na nossa indústria, na nossa propriedade industrial. Por outro lado, tal como a economia, também a Ciência está hoje assente em redes internacionais, num mundo globalizado em que a concorrência pelos financiamentos e pelo talento não fica entre portas.
+
+Portugal tem de ser um país capaz de atrair e reter talento, bem como exportar investigação científica e inovação, e para isso é necessário alterar o atual quadro regulador da Ciência em Portugal.
+
+### 8.1. A Ciência precisa de financiamento estável
+
+Não conseguiremos uma economia do conhecimento se não conseguirmos estabilizar o quadro financeiro e regulatório em que a ciência e o sistema científico se insere.
+
+Portugal estabeleceu, com a União Europeia, um compromisso de investimento em ciência de 3% do PIB até 2030, sendo um terço desse valor realizado através de investimento público. Essa componente deve estar integrada no Orçamento do Estado, num quadro plurianual de financiamento a 10 anos.
+
+#### 8.1.1. Não aproveitar os fundos europeus é meio caminho andado para ficarmos para trás
+
+O PT2020 tem de ter uma execução de 100%. Em junho de 2019, das 2092 candidaturas recebidas na área de I&D só 825 tinham sido aprovadas; dos 3032 milhões de euros de investimento proposto, 912 milhões tinham sido aprovados e só 185 milhões efetivamente pagos. É o Estado quem está a bloquear, em vez de facilitar, a inovação nas empresas.
+
+#### 8.1.2. Sistema de Incentivos Financeiros à Inovação e Investigação
+
+Queremos um Sistema de Incentivos Financeiros à Inovação e Investigação industrialmente orientada nas empresas, privilegiando as ligações às universidades e aos centros de conhecimento.
+
+#### 8.1.3. Temos de regularizar os fluxos de pagamento
+
+Regularizaremos os fluxos de pagamentos, para que não sejam as unidades de investigação a financiar as obrigações do Estado, com grande pressão sobre a gestão de tesouraria e inevitáveis consequências no desenvolvimento das atividades de investigação.
+
+#### 8.1.4. Um regime de reembolso de IVA para não perdermos a nossa competitividade
+
+Em Portugal, a Ciência é tributada como uma atividade comercial – paga-se 23% de IVA pelos bens e serviços necessários para a pesquisa científica sem fins lucrativos. Isto significa que qualquer financiamento gera menos recursos efetivos aos cientistas sediados em Portugal. As instituições científicas na Alemanha, França, Espanha ou Reino Unido beneficiam de isenções ou reembolsos. Precisamos de garantir condições semelhantes, removendo esta desvantagem competitiva.
+
+#### 8.2. As empresas não têm de adaptar-se à ciência, é a ciência que tem de procurar respostas para as empresas e para a indústria
+
+Também não teremos uma economia do conhecimento se não conseguirmos retirar os obstáculos que têm impedido a ciência de se aproximar do mundo empresarial, da economia e da nossa indústria.
+
+#### 8.2.1. Doutoramento em contexto de empresa
+
+Fazer um doutoramento recorrendo a uma bolsa não pode ser entendido apenas como um passo para um emprego numa instituição de ensino.
+
+Propomos que, até 2023, pelo menos 20% das Bolsas de Doutoramento concedidas pela FCT sejam destinadas a programas de doutoramento em contexto de empresa – com contratualização entre as três partes quanto às condições do programa e direitos sobre a investigação realizada.
+
+#### 8.2.2. Não é possível dinamizar a clusterização da indústria sem contar com a ciência
+
+Queremos fomentar o agrupamento dos setores industriais em clusters, ligando universidades, institutos politécnicos e centros de investigação com empresas e respetivas associações nos vários setores da indústria portuguesa.É tempo de criar as carreiras docente e de investigador, com interligação entre ambas
+
+No espaço da legislatura, deve ser lançada de forma pública, e concluída de forma legislativa, a discussão sobre as carreiras docente e de investigador, e os novos contornos desejáveis para o exercício destas e de outras funções conexas.
+
+#### 8.2.3. Liberdade de escolha para investigar ou ensinar ou ambas as coisas
+
+A nossa opção é clara: é tempo de atualizar as carreiras de docente e de investigador, numa conformação que permita interligação entre ambas.
+
+Um docente, para o ser de forma proficiente, terá de manter, ao longo da sua carreira, uma atividade de investigação. Um investigador inserido num contexto de ensino, deverá contribuir para a sua instituição, ensinando aquilo que investiga.
+
+Este equilíbrio deve ser conseguido através da permeabilidade entre atividades ao longo da percurso profissional, devendo instituir-se um quadro legal que o permitia, num exercício de conjugação entre a vontade do docente/investigador e a necessidade da instituição de acolhimento.
+
+#### 8.2.4. Quem quer investigar em contexto empresarial não pode ser prejudicado
+
+A atual estruturação das carreiras, nomeadamente os critérios de promoção e progressão, têm sido um dos obstáculos à realização de investigação em contexto empresarial. Os investigadores acabam por ser prejudicados em termos de carreira, se fizerem essa escolha.
+
+Se hoje é aceite que há lugar e que há até vantagens num maior entrosamento entre investigação e empresas, então há que introduzir critérios de avaliação que ponderem a realização de investigação em contexto empresarial para efeitos de promoção e progressão, sempre com base no mérito do trabalho realizado.
+
+### 8.3. Queremos transformar Portugal no melhor país para inventar e criar
+
+Num mundo cada vez mais competitivo e global, a enfrentar os desafios da economia digital, queremos garantir que Portugal se torna no melhor país da Europa para inventar e criar, transformando-nos em referência incontornável na área da propriedade intelectual, fomentando o registo de patentes.
+
+Queremos também reforçar o papel dos Gabinetes de Apoio à Propriedade Intelectual) inseridos nas Entidades do Sistema Tecnológico e nas Universidades, dotando-os de recursos e capacidade para fomentar a PI enquanto valor económico para as empresas e para o país.
+
+A atual estruturação das carreira, nomeadamente os critérios de promoção e progressão, têm sido um dos obstáculos à realização de investigação em contexto empresarial. Os investigadores acabam por ser prejudicados em termos de carreira, se fizerem essa escolha.
+
+Se hoje é aceite que há lugar e que há até vantagens num maior entrosamento entre investigação e empresas, então há que introduzir critérios de avaliação que ponderem a realização de investigação em contexto empresarial para efeitos de promoção e progressão, sempre com base no mérito do trabalho realizado.
+
+Queremos transformar Portugal no melhor país para inventar e criar.
+
+### 8.4. A Ciência precisa de recursos humanos empenhados
+
+No sistema científico e tecnológico nacional é necessária uma política de contratação de recursos humanos responsável, baseada no mérito. Somos particularmente firmes nesta afirmação do mérito como critério, porque entendemos que ele não tem sido, do ponto de vista da contratação, suficientemente declinado em critérios consequentes.
+
+Esta política deve respeitar quer os objetivos de desenvolvimento do setor, quer os orçamentos das instituições, quer os próprios investigadores e os seus projetos de vida – não faz sentido que um investigador passe uma parte significativa do tempo em que deveria estar a investigar, a candidatar-se a novos financiamentos e projetos, tornando-se improdutivo naquilo para que está a ser pago.
+
+Numa base regular e conhecida, deve haver lugar a concursos, para investigadores de vários níveis – desde bolsas para alunos de doutoramento a posições para cientistas coordenadores –, orientados para as necessidades do país e das instituições.
+
+### 8.5. Menos burocracia é fundamental
+
+Defendemos candidaturas com critérios transparentes e formulários simplificados e desburocratizados, de acordo com as boas práticas estabelecidas pelos concursos europeus de referência – como o European Research Council.
+
+### 8.6. Chegou o momento de reformar a FCT
+
+É tempo de dotar a FCT de autonomia política, administrativa e financeira, para que esta possa atuar como uma verdadeira agência de avaliação e financiamento, desenvolvendo a estratégia plurianual, independentemente de ciclos políticos, de forma previsível e estável.
+
+## 9. A ESQUERDA ACHA SEMPRE QUE GASTA POUCO E QUE AS EMPRESAS GANHAM DEMAIS
+
+Queremos uma carga fiscal própria de um país competitivo e uma administração fiscal que não persiga as empresas.
+
+Sem esse espaço de liberdade, de autonomia, de crescimento empresarial, nunca será possível insuflar a nossa economia de competitividade e produtividade, e consequentemente de melhores salários, melhores empregos e melhor investimento.
+
+Este é um aspeto determinante das nossas políticas e propostas: confiança absoluta de que só com uma aposta forte no nosso setor empresarial poderemos vencer os históricos problemas de crescimento com que Portugal se confronta há décadas.
+
+### 9.1. Queremos ter o IRC da Irlanda
+
+Se queremos ser mais competitivos, temos de ter uma carga fiscal mais competitiva: tão competitiva quanto a dos países com que ambicionamos comparar-nos.
+
+O objetivo do CDS é equiparar o IRC de Portugal com o IRC da Irlanda, o país que melhor tem conseguido utilizar a competitividade fiscal enquanto instrumento de crescimento. Desta forma, propomos, num espaço de seis anos, ter o IRC de Portugal em 12,5%, uma redução ambiciosa, mas possível.
+
+### 9.2. Estabilidade vale ouro
+
+Asseguraremos a estabilidade e a previsibilidade do sistema fiscal, reduzindo a sua complexidade e opacidade, condição essencial para a confiança dos investidores. Isso vale muito mais do que várias medidas avulsas.
+
+### 9.3. Aproximar a Administração Fiscal e as empresas
+
+É fundamental aproximar a Administração Fiscal e as empresas, equilibrando a relação entre ambas, e para isso propomos três medidas muito concretas:
+
+* a) Condenação do Fisco ao pagamento de uma indemnização à empresa, a arbitrar pelo tribunal, sempre que a Autoridade Tributária litigue, no domínio da mesma legislação e sobre a mesma questão fundamental de direito, contra mais de três sentenças do mesmo ou de outro tribunal de igual grau ou superior;
+* b) Obrigatoriedade de submeter a parecer de um corpo técnico independente centralizado no Serviço de Apoio e Defesa do Contribuinte (cuja criação foi anunciada em março de 2019 pelo Ministro das Finanças), os recursos hierárquicos apresentados pelas empresas. Este parecer deve instruir o processo judicial que venha a ter lugar para orientar a decisão do tribunal na eventual condenação ao pagamento de indemnização;
+* c) Revisão do regime da litigância de má-fé por forma a consagrar expressamente as circunstâncias em que o Estado pode incorrer em tal responsabilidade.
+
+## 10. A REGULAÇÃO NÃO SERVE PARA PROTEGER QUEM JÁ VENCEU
+
+Regular a economia não pode consistir na imposição dos padrões das empresas que já ganharam sobre aquelas que estão a emergir; não pode ser uma lógica de manutenção que já existe, com medo da inovação; não pode consistir num conjunto arbitrário de regras impercetíveis para os empresários; não pode ser a implementação de critérios meramente ideológicos na estrutura da economia.
+
+A regulação deve funcionar num sentido de justiça entre todos, genuína abertura à inovação e à concorrência, uma fiscalização eficaz e não capturada por interesses políticos ou partidários.
+
+O facto de Portugal ser uma economia aberta e de mercado, em tempo de globalização acelerada e de complexificação das engenharias jurídicas e financeiras, atribui a maior importância às funções de regulação, supervisão e inspeção, e cabe ao poder político assegurá-las, precisamente, por serem uma condição essencial da garantia de funcionamento dos mercados e das entidades que nele interagem, bem como da imparcialidade da Administração e dos funcionários. Neste plano, precisamos de reconhecer que esta função relevante do Estado garantia ficou aquém em áreas fundamentais do nosso país.
+
+As gravíssimas falhas de supervisão quanto a atividades criminais ou irregulares em parcelas do sistema financeiro, com elevado custo para o contribuinte; a dificuldade em detetar, a tempo, procedimentos de risco para lá do aceitável; a permissividade em relação a práticas abusivas no setor da concorrência; o desinteresse pela qualificação das atividades inspetivas dos próprios Ministérios, resultaram, cumulativamente, numa diminuição da confiança necessária nestas funções de regulação, supervisão e inspeção.
+
+### 10.1. Menos reguladores setoriais, uma regulação mais coerente
+
+Temos de contrariar a proliferação de reguladores setoriais, num contexto em que a economia se encontra cada vez mais interligada, deste o digital até à agricultura, e desenvolver políticas integradas de resposta às necessidades regulatórias de hoje.
+
+Evidentemente, em áreas tão cruciais como a banca, a manutenção de mais um regulador, com partilha de tarefas entre diferentes entidades, permite que se evite a captura de interesses na regulação em todo o setor.
+
+Mas para a generalidade das empresas e áreas económicas, é preciso dar mais coerência e transparência à estrutura regulatória do Estado.
+
+### 10.2. Reguladores independentes, mas não impunes
+
+A garantia de independência dos reguladores não pode confundir-se com a ausência de escrutínio democrático da sua atividade.
+
+Não só o Parlamento deve fiscalizar a sua atividade fiscalizadora dos reguladores tal com o Governo, assegurando a sua independência, como deve promover uma abordagem à regulação que se situe além dos interesses políticos do presente, tomando a iniciativa de estabelecer regras claras e acessíveis por todas as partes.
+
+Um regulador também tem contas a prestar perante os portugueses. Está na altura de incutir uma verdadeira cultura de responsabilidade e transparência nos nossos reguladores.
+
+### 10.3. Exigência máxima na nomeação
+
+A garantia de independência dos reguladores depende de um processo de nomeação dos seus quadros máximos. Reforçaremos o papel da CReSAP, para impedir nomeações partidárias.
+
+### 10.4. Uma supervisão financeira proativa e confiável
+
+As lições dramáticas que emergiram da crise financeira que começou nos Estados Unidos e se desenvolveu na Europa, atingindo proporções globais, não podem ser ignoradas. Por outro lado, as lições da experiência portuguesa são suficientes para avaliar com bastante ceticismo e muita preocupação a atuação do supervisor Banco de Portugal.
+
+O CDS tomou posições independentes e corajosas nesta matéria e é para nós essencial prevenir, para o futuro, falhas de supervisão tão custosas para o contribuinte. Precisamos de um sistema financeiro robusto e credível.
+
+Para o garantir, precisamos de um supervisor financeiro que seja tempestivo e prudencial, corajoso e se necessário incómodo, proativo e confiável.
+
+A sua função de garantir a estabilidade do sistema é tão importante como a de perceber os alertas precoces e os sinais críticos, nas práticas dos supervisionados, agindo com determinação e não exibindo, nem que seja por omissão, condescendência com práticas irregulares ou ilegais, cujo agravamento é altamente lesivo dos acionistas, dos aforradores, dos investidores e dos contribuintes.
+
+### 10.5. O Presidente da República deve ter um papel relevante na nomeação do Governador do Banco de Portugal
+
+O Presidente da República deve ter um papel relevante na nomeação do Governador do Banco de Portugal, o que garante maior independência face aos Governos – proposta que faremos em sede de processo de revisão constitucional. Este poder, para ser coerente, deve abranger os outros supervisores do sistema.
+
+### 10.6. Uma Autoridade da Concorrência ativa na abertura da nossa economia
+
+A Autoridade da Concorrência deve ter uma política sempre conducente à sã concorrência e à abertura dos mercados, e não a de proteção das empresas incumbentes.
+
+Quando se estabelecem condições excessivamente restritivas de entrada numa profissão ou numa atividade económica, a concorrência é limitada, os preços aumentam, os serviços pioram, diminuem os incentivos a que profissionais e empresas se modernizem e adaptem à evolução do mercado e às inovações – tudo o que não pode acontecer num Mundo tão competitivo.
+
+Queremos que a Autoridade da Concorrência estude, o mais rapidamente possível, todos os setores sobre a sua tutela, procurando todas as barreiras legais à concorrência, mecanismos de proteção de incumbentes no mercado e regulações ineficientes que impeçam o funcionamento corrente do mercado.
+
+A Autoridade da Concorrência deve promover a abertura do mercado onde ela fizer sentido, para além da mera manutenção do quadro legal existente.
+
+### 10.7. Pediremos à Autoridade da Concorrência que identifique todas as situações de limitações injustificadas à concorrência no acesso ao mercado
+
+Queremos abolir todas as restrições injustificadas de entrada no mercado, nomeadamente aquelas que, não dizendo respeito a segurança, sejam relativas a:
+
+* a) acesso e preços no mercado;
+* b) quotas e restrições geográficas;
+* c) licenciamentos obrigatórios;
+* d) requisitos profissionais, e
+* e) capitais sociais mínimos.
+
+Em conjunto com a Autoridade da Concorrência, e no prazo de um ano, identificaremos todas essas situações e revogaremos as disposições legais relevantes.
+
+Isso fará muito mais pela nossa competitividade de que dezenas e dezenas de planos de fomento e de incentivo - porque a competitividade fortalece-se na concorrência, não na sombra do Estado.
+
+10.8. Eliminaremos restrições regulatórias que possam levar à exclusão de serviços online alternativos
+
+Vamos eliminar restrições regulatórias que possam levar à exclusão de, entre outros, serviços online alternativos.
+
+A prestação de serviços online, especialmente de forma padronizada e que não sejam necessariamente ligados à prestação de serviços por um profissional (por exemplo, por meios de inteligência artificial e banco de dados), pode permitir aos consumidores um acesso mais fácil, rápido e barato a serviços profissionais.
+
+### 10.9. Menos monopólios, mais concorrência
+
+Deve ser uma prioridade do Governo precaver e, quando necessário, legislar, para evitar a permanência ou a constituição de monopólios públicos ou privados.
+
+A abertura de mercado e a concorrência devem espalhar-se a todas as áreas da economia que estendam além das funções de soberania.
+
+A doutrina da limitação do poder não é apenas uma conquista da democracia política. Os mercados em regime monopolista, quando não se deve a causas inultrapassáveis, funcionam deficientemente e representam um poder excessivo, com o potencial de prejudicar a economia, as empresas e os consumidores.
+
+## 11. COM TANTOS CUSTOS DE CONTEXTO, NÃO HÁ ECONOMIA QUE CRESÇA
+
+Boa regulamentação é uma coisa positiva. Protege os consumidores, preserva o meio ambiente, ajuda a construir uma sociedade mais justa e pode até salvar vidas. Mas, com o passar dos anos, os regulamentos – e as inspeções e a burocracia que os acompanham – aumentaram e aumentaram. Isso prejudica as transações diárias, os negócios que se fazem, causando danos reais à nossa economia.
+
+E isso faz mal à sociedade também. Quando as pessoas são confrontadas por uma série de regulamentações sempre que se querem voluntariar ou sempre que se predispõem a desempenhar um papel social, começam a pensar que o melhor é não se incomodarem.
+
+Se quisermos inverter esta tendência e encorajar uma maior responsabilidade na nossa sociedade, temos de confiar nas pessoas e dar-lhes mais liberdade para fazer a coisa certa, para fazerem o que entendem das suas vidas e dos seus negócios.
+
+Se mais de 40% da economia produzida em Portugal está comprometida com gastos públicos, os outros 60% estão limitados em regras, licenças e burocracias inconsequentes.
+
+Mas nada disso desaparece sem uma alteração profunda da forma como olhamos para o Estado na economia. Quem defende mais Estado na economia estará, mesmo que não queira, a defender mais regras e mais burocracias.
+
+Só quem defende uma economia mais livre e mais aberta pode vencer o desafio de acabar com a burocracia.
+
+O CDS quer assim eliminar todas as regras que prejudicam a criação de emprego, que prejudicam o dinamismo empresarial e que prejudicam a expansão económica internacional.
+
+### 11.1. Desafio: burocracia zero
+
+Vamos desafiar as pessoas e as empresas a dizerem ao governo quais as regulamentações que as limitam e condicionam, quais as regras que impedem o crescimento de uma atividade ou de um negócio, quais as regras que até permitiriam poupar dinheiro.
+
+Mensalmente, e por área de atividade, serão colocados à discussão os principais diplomas que a regulam, em debates públicos e online. Todos podem participar. Depois, cabe ao Governo fundamentar por que razão tal regulação deve manter-se, ou propor a sua revisão ou revogação.
+
+### 11.2. Queremos uma equipa de funcionários públicos especializados na redução de burocracia e regulação inútil
+
+Queremos envolver as empresas no esforço de redução e consolidação da regulação da economia. Para isso, iremos criar uma equipa de burden hunters: funcionários públicos especializados na redução da regulação excessiva.
+
+### 11.3. O Governo não pode legislar sem antes ouvir
+
+O processo legislativo do Governo tem de ser revisto, de forma a dar oportunidades aos vários setores da economia de se pronunciarem sobre as intenções do executivo, alertando ou sugerindo para os aspetos mais determinantes da realidade.
+
+Nesse sentido, vamos alterar o processo legislativo do Governo, obrigando o executivo a anunciar previamente os trabalhos de redação de nova legislação em matérias económicas, abrindo períodos de discussão pública sobre os caminhos a seguir e as burocracias a evitar.
+
+### 11.4. A transposição de diretivas não pode prejudicar as empresas portuguesas
+
+Temos de assegurar um level-playing field na atuação entre operadores, garantindo que toda a regulação aprovada em Portugal na sequência de transposição de Diretivas não pode ser mais gravosa ou pesada do que a que resulta dessa transposição noutros países da União.
+
+### 11.5. A internet não serve para digitalizar a burocracia, serve para eliminá-la
+
+Não faz sentido transitar os procedimentos para a via digital, mudando apenas o formato em que a burocracia se desenvolve. O mundo digital permite eliminar a burocracia, não apenas digitalizá-la, e para isso deverão servir os balcões únicos, transformados em pontos únicos e concentrando num único serviço os contactos com o Estado.
+
+### 11.6. Ainda estamos a fazer por computador quando já devíamos estar a fazer por mobile
+
+Todos os procedimentos administrativos poderiam ser feitos através do telemóvel. Vamos implementar uma estratégia para esse efeito.
+
+### 11.7. Licenciamento zero e fiscalização a posteriori
+
+O caminho tem de estar livre para quem quer fazer o país crescer, desde que respeite o ambiente, o território, e o compromisso com as gerações futuras.
+
+Nesse compromisso, procederemos ao alargamento da regra do licenciamento zero e da fiscalização a posteriori.
+
+### 11.8. Reformar o regime do deferimento tácito
+
+O alargamento das situações de deferimento tácito não tem tido os resultados esperados, muito porque as normas administrativas continuam a prever formas de o contornar. Queremos rever as normas que torpedeiam o regime de deferimento tácito.
+
+### 11.9. Simplificar a contabilidade das PME
+
+O processo de contabilidade é demasiado complexo para a realidade da grande maioria das empresas portuguesas.
+
+Sem prejuízo da necessidade de as empresas manterem TOCs para garantir o correto apuramento das responsabilidades fiscais das pessoas coletivas, criaremos um plano de contas simplificado para empresas de menor dimensão, desocupando-as dessa tarefa.
+
+### 11.10. Acabar com a papelada
+
+Muitos dos incentivos às empresas presumem candidaturas complexas. Em muitos casos, estas iniciativas ficam ao alcance apenas de empresas sofisticadas que são aquelas que menos precisam do incentivo.
+
+Muitas vezes para aceder aos incentivos, as empresas acabam a ter de recorrer a “consultores especializados” que ficam com boa parte desse valor, ou então nem sequer se candidatam por causa da complexidade ou de desconhecimento da existência das iniciativas.
+
+### 11.11. Temos de unificar a função “pagamentos”
+
+Vamos unificar a função “pagamentos”, centralizando o processamento das remunerações e restantes despesas de cada Ministério num único serviço, devendo progressivamente evoluir para a centralização de pagamentos de diversos organismos da administração direta e indireta do Estado.
+
+### 11.12. Reduzir as obrigações declarativas
+
+Reduziremos as obrigações declarativas das empresas e unificaremos de algumas declarações (Autoridade Tributária/Segurança Social/ Banco de Portugal/Autoridade de Supervisão de Seguros e Fundos de Pensões/Comissão do Mercado de Valores Mobiliários).
+
+### 11.13. Taxa não publicitada no portal da taxa, é taxa inexistente
+
+Criaremos um portal público de onde constem todas as taxas cobradas pelo Estado. Qualquer taxa que ali não esteja prevista, é taxa que não pode ser cobrada.
+
+### 11.14. Procedimentos online não têm de estar sujeitos às mesmas taxas
+
+Eliminaremos ou reduziremos, no mínimo para metade, as taxas aplicáveis a serviços que, entretanto, foram, ou estão a ser desmaterializados, ou de licenciamentos que passaram a ser procedimentos de comunicação prévia.
+
+### 11.15. Nova burocracia tem de ter prazo de validade
+
+Introduziremos as sunset clauses em Portugal, em toda a nova regulamentação de atividades económicas. Isto é, sujeitaremos a nova burocracia a prazos de caducidade automática (prazos variáveis consoante a matéria), que caducam se não houver uma vontade explícita e politicamente sufragável de a manter em vigor, obrigando o Estado a rever periodicamente a burocracia que cria.
+
+## 12. PEQUENAS EMPRESAS DEVEM PASSAR A MÉDIAS E AS MÉDIAS PASSAR A GRANDES
+
+Há uma cultura de esquerda que penaliza o empreendedorismo, na exata medida em que contraria o valor do risco individual, despreza o valor produtividade no trabalho e culpabiliza a remuneração legítima de quem investe.
+
+É a cultura de quem atualmente nos governa, que prefere uma empresa pública a uma empresa privada, que prefere um empresário a pedir à porta de um ministério a um empresário que não precise do ministro para nada. E, sobretudo, que prefere uma economia de pequenas empresas em vez de uma economia de grandes empresas.
+
+Mas são as grandes empresas que podem lidar melhor com os ciclos económicos, que têm mais ferramentas para evitar as crises, que conseguem mais financiamento, que estão mais apetrechadas para vencer, para criar emprego, para oferecer contratos de trabalho mais estáveis e melhor remunerados.
+
+Temos por isso de criar condições para que as empresas cresçam, porque quanto mais crescerem mais riqueza é produzida. Temos de acabar com as dificuldades de crescimento que o nosso setor empresarial enfrenta. Por isso é tão necessário o reforço do CDS. Portugal demorará tanto mais a ser um país próspero quanto mais tardar em perceber que sem empresas não há riqueza, nem crescimento, nem emprego. O CDS acredita no valor do empreendedorismo e bater-se-á por ele.
+
+### 12.1. O financiamento bancário não tem de ser a única alternativa para as PME
+
+O endividamento bancário constitui a principal fonte de financiamento do tecido empresarial, por oposição às outras fontes de endividamento ou a capitais próprios. Consequentemente, as empresas encontram-se fortemente endividadas e expostas aos problemas do setor bancário.
+
+A inexistência no mercado português de um amplo conjunto de fundos de investimento (private equity, venture capital, fundos de pensões, fundos de seguradoras ou fundos de bancos de investimento), aliado a um mercado de capitais pouco líquido e dinâmico dificulta a oferta de capital (e mesmo de dívida), a taxas de retorno comportáveis para empresas portuguesas.
+
+Inversamente, a existência, numa economia, de um mercado de capitais dinâmico e líquido facilita a transação de títulos (dívida e capital) entre investidores. Consequentemente, os fundos de investimento poderão reduzir os seus investimentos numa empresa, materializando eventuais os ganhos e as mais-valias essenciais para reinvestir em novos projetos.
+
+#### 12.1.1. O crowdfunding e crowdlending têm de sair do papel
+
+O mercado de crowdfunding e crowdlending em Portugal ainda está numa fase nascente. O maior obstáculo não é o regime específico em si, mas sim limitações que decorrem de legislação avulsa, e que nos comprometemos a rever: no âmbito da fiscalidade, como a inexistência de qualquer regime fiscal de imparidades de créditos; no âmbito dos empréstimos entre empresas e no âmbito da participação na central de responsabilidades de crédito.
+
+#### 12.1.2. Temos de rejuvenescer o nosso mercado de capitais e criar em Portugal a nova “IPO capital”
+
+O ciclo de “moda das start-ups” está quase a atingir uma década na Europa e algum sítio se vai tornar a “IPO Capital”. Há uma oportunidade de rejuvenescer o mercado de capitais português, criando os incentivos necessários à entrada em mercado e direcionando as políticas públicas de empreendedorismo para esse caminho.
+
+O cenário de troca de “dívida” por “equity” é um processo cultural e estrutural (irá demorar tempo) É necessário redistribuir os incentivos à economia (faze lo com outras medidas mais diretas) e não com recurso à Sociedade de Garantia Mútua. Aumentar a transparência no preço do crédito vai torná-lo mais saudável e tornar mais atrativo o uso de capitais próprios.
+
+#### 12.1.3. Entrar no mercado de capitais tem de ser mais fácil
+
+Os custos de entrada no mercado de capitais não se ficam pela entrada na bolsa, mas incluem todo o processo de assessoria financeira e jurídica e tudo aquilo que tenha de ver com os procedimentos e burocracias associadas. Tudo isto será revisto.
+
+#### 12.1.4. Se o Estado não cobrar quando está a dever, as PME agradecem
+
+A forma mais eficiente de injetar dinheiro na economia é conceder “descontos automáticos” nas contribuições obrigatórias das empresas ao Estado.
+
+Qualquer empresa ou pessoa a quem o Estado deve dinheiro deve poder descontar a fatura vencida e não paga, utilizando o dinheiro proveniente desse desconto, para pagar os seus impostos.
+
+As faturas vencidas e não pagas pelo Estado são convertidas, depois de devidamente certificadas pelo Ministério das Finanças em títulos da dívida, que poderão ser utilizados para pagamentos ao Estado, e apenas para esses pagamentos.
+
+#### 12.1.5. Não tributaremos o rendimento investido
+
+Isentaremos de IRS as quantias investidas na economia, que só serão tributadas quando o valor regresse ao agregado (investimento em bolsa, planos de poupança, capital social de PME’s ou mesmo em fundo maneio da empresa, e que só serão tributados quando o valor regressar ao agregado, não havendo distorções entre consumo e poupança) – tributa-se assim o rendimento gasto, não o rendimento investido ou poupado.
+
+#### 12.1.6. Fundos fechados cotados em bolsa constituídos por carteira de crédito concedido a PMEs ou por participações em capital de PMEs
+
+Criaremos condições, através de benefícios fiscais, para a constituição de fundos fechado cotado em bolsa constituídos por carteira de crédito concedido a PMEs ou por participações em capital de PMEs.
+
+#### 12.1.7. Emissão de obrigações por parte de PMEs
+
+Aprovaremos um regime mais favorável à emissão de obrigações por parte de PME junto de familiares e amigos.
+
+#### 12.1.8. Reduzir entraves regulatórios
+
+Vamos reduzir os entraves regulatórios à atividade dos fundos e de fontes alternativas de investimento, permitindo que os mesmos interajam com o mercado de capitais.
+
+#### 12.1.9. Pagar a tempo e horas
+
+O Estado continua a ser o pior pagador. Se as empresas que o fornecem recebessem a tempo e horas, teriam mais liquidez para enfrentar os seus desafios. Este compromisso de pagar a tempo e horas é essencial.
+
+### 12.2. Facilitaremos a concentração e agrupamento de empresas e a eficiência coletiva
+
+As empresas precisam de ganhar escala e de conseguir cooperação em rede, tendo em vista a consolidação da inovação nas empresas e o ganho de escala a nível internacional.
+
+Por outro lado, as iniciativas estratégicas de eficiência coletiva emergentes no tecido empresarial e do movimento associativo que o representa são indispensáveis ao reforço substantivo dos níveis de competitividade, da promoção da inovação e estímulo à internacionalização da economia portuguesa. Pelo que a dinamização de um ciclo de política pública de apoio à dinâmica de estratégias de eficiência coletiva, é fundamental para a nossa competitividade.
+
+#### 12.2.1. Facilitar a concentração e a transmissão de empresas
+
+Vamos facilitar a concentração e transmissão de empresas, para dar maiores possibilidades à sua continuidade ou crescimento.
+
+#### 12.2.2. Clusterização industrial
+
+Queremos fomentar o agrupamento dos setores industriais em clusters, ligando universidades, institutos politécnicos, centros de investigação e centros tecnológicos com empresas e respetivas associações dos vários setores da indústria portuguesa.
+
+#### 12.2.3. Ligação às grandes empresas
+
+Fomentaremos a ligação das nossas PME´s com as grandes empresas globais, tendo em vista a sua interligação na cadeia de valor.
+
+#### 12.2.4. Federação de PME através de modelos de cooperação e de hierarquia (franchising)
+
+Os pequenos negócios, sobretudo na área comercial, têm uma enorme dificuldade em conseguir escala para competirem. Sem escala as empresas ficam mais vulneráveis à concorrência e não conseguem explorar a totalidade do seu mercado.
+
+Iremos rever as regras de franchising, incentivando que pequenos empresários se federem hierarquicamente, expandido os seus modelos de negócio e dinamizando novas linhas de distribuição.
+
+#### 12.3. Não podemos prejudicar as empresas à medida que estas crescem
+
+Vamos rever o tratamento regulatório das PME, cuidando que este não imponha requisitos mais onerosos ao crescimento das empresas, funcionando como um desincentivo ao crescimento.
+
+Desta revisão, que será feita no primeiro ano da legislatura em conjunto com as relevantes confederações e associações, sairá um roteiro de simplificação, com propostas legislativas concretas a executar nos restantes três anos da legislatura.
