@@ -32,7 +32,7 @@ A disponibilização dos programas num formato standard permitirá também que s
 | Partido Trabalhista Português  |   |    |    |
 | Partido Unido dos Reformados e Pensionistas  |  |  |  |
 | PESSOAS-ANIMAIS-NATUREZA | [Link](https://pan.com.pt/eleicoes/eleicoes-legislativas-2019/programa-eleitoral/) | Tiago S. | DONE  |
-| Reagir Incluir Reciclar |https://www.partido-rir.pt/wp-content/uploads/2019/09/Programa-Eleitoral-RIR-2019.pdf | |  |
+| Reagir Incluir Reciclar |[Set. 2019](https://www.partido-rir.pt/wp-content/uploads/2019/09/Programa-Eleitoral-RIR-2019.pdf) | |  |
 
 ## Instruções
 
