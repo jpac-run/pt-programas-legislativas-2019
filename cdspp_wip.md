@@ -1791,8 +1791,430 @@ Os pequenos negócios, sobretudo na área comercial, têm uma enorme dificuldade
 
 Iremos rever as regras de franchising, incentivando que pequenos empresários se federem hierarquicamente, expandido os seus modelos de negócio e dinamizando novas linhas de distribuição.
 
-#### 12.3. Não podemos prejudicar as empresas à medida que estas crescem
+### 12.3. Não podemos prejudicar as empresas à medida que estas crescem
 
 Vamos rever o tratamento regulatório das PME, cuidando que este não imponha requisitos mais onerosos ao crescimento das empresas, funcionando como um desincentivo ao crescimento.
 
 Desta revisão, que será feita no primeiro ano da legislatura em conjunto com as relevantes confederações e associações, sairá um roteiro de simplificação, com propostas legislativas concretas a executar nos restantes três anos da legislatura.
+
+## 13. NÃO HÁ INOVAÇÃO QUANDO O ESTADO NÃO SAI DE CIMA
+
+Portugal é hoje um país com um potencial de inovação subaproveitado. Estamos a esbanjar a oportunidade – oferecida pela atual conjuntura de recuperação económica – de nos posicionarmos como um país propenso à inovação.
+
+Queremos inverter esta tendência e fazer de Portugal uma referência na inovação a nível europeu, e para isso é preciso que o Estado saia de cima e dê espaço à inovação.
+
+Em vez de milhares de programas e planos, o que o Estado tem de fazer é dar espaço para que as empresas criem e inovem e se atualizem.
+
+### 13.1. Defendemos a liberdade contratual
+
+Defendemos intransigentemente a liberdade contratual, princípio fundamental e indispensável para a diferenciação entre modelos de negócio, para a busca da inovação e para a competitividade das empresas.
+
+### 13.2. Por que razão não temos uma verdadeira sandbox?
+
+Uma sandbox impõe um conjunto de requisitos de elegibilidade e atribui um conjunto de isenções regulatórias ou de autorização a aplicar durante um determinado período de tempo (análogo a uma fase de teste).
+
+É hora de termos isto em Portugal, na área de FinTech ou InsurTech, chamando a inovação, em vez de a atrasar, e permitindo que as empresas apresentem uma ideia inovadora com benefícios ao nível da eficiência financeira e do bem-estar dos consumidores, testando o seu produto no mercado.
+
+Garantiremos a redução do tempo e do custo de testar ideias inovadoras no mercado, a menor incerteza regulatória e permitindo acesso mais fácil a financiamento, e o acesso a um canal de comunicação próximo e informal com o regulador setorial.
+
+### 13.3. Aproveitar as potencialidades do Big Data e da inteligência artificial
+
+Promoveremos uma estratégia nacional de Big Data e inteligência artificial destinada a criar condições, regulatórias e fiscais, que permitam às empresas portuguesas, no cumprimento das regras necessárias, um pleno aproveitamento do processamento de dados em massa e novas tecnologias.
+
+O objetivo não é limitar nem proibir, é dar espaço e liberdade para inovar e criar.
+
+### 13.4. A tecnologia blockchain não pode ser ignorada
+
+Criaremos o enquadramento necessário para que as empresas incorporem a tecnologia blockchain para melhorar sua rastreabilidade, para aumentar a eficiência dos seus processos e para criar empregos especializados.
+
+Esse enquadramento assegurará também que as operações feitas com o sistema blockchain e com cryptocurrencies, se desenvolva num ambiente de confiança, segurança e transparência.
+
+Estimularemos ainda a exploração do potencial da tecnologia blockchain para a proteção, licenciamento e tutela dos direitos de propriedade intelectual, através do lançamento de concursos que permitam identificar e potenciar projetos com esse propósito e conduzi-los a uma fase de implementação efetiva.
+
+### 13.5. Vamos criar a Via Digital, uma modalidade de formação para reconversão profissional à economia digital
+
+Os países mais competitivos do mundo fizeram uma aposta na formação dos colaboradores das suas empresas, designadamente nas suas competências digitais. Este é ainda um dos pontos fracos de Portugal tal como resulta do recente no relatório do Global Competitiveness Report.
+
+Se nos queremos tornar competitivos com base em fatores de diferenciação como a inovação, investigação e desenvolvimento precisamos de formação, precisamos de qualificar os recursos humanos das nossas empresas e tal pressupõe a adaptação do nosso modelo de formação profissional.
+
+Este desafio da economia digital exige assim uma nova modalidade de formação no âmbito do IEFP, independente da escolaridade, destinada a reconverter vidas ativas para as novas oportunidades da economia digital.
+
+Criaremos a Via Digital, uma modalidade de formação para reconversão profissional à economia digital, incrementando, desenvolvendo e instituindo um “Plano de Formação para a Economia Digital”.
+
+### 13.6. Os apoios públicos devem adotar a ótima de matching funds nas áreas de alta tecnologia
+
+Seguiremos o modelo de fundos de capital de risco da Yozma em Israel, focado em startups de alta tecnologia, em que os fundos públicos se associam a operadores privados, sendo estes últimos a assegurar a gestão e a deter a maioria do capital.
+
+### 13.7. Queremos transformar Portugal no melhor país para inventar e criar
+
+Num mundo cada vez mais competitivo e global, a enfrentar os desafios da economia digital, queremos garantir que Portugal se torna no melhor país da Europa para inventar e criar, transformando-nos em referência incontornável na área da propriedade intelectual, fomentando o registo de patentes.
+
+#### 13.7.1. Regime fiscal competitivo
+
+Os rendimentos provenientes da cessão ou da utilização temporária de patentes, desenhos ou modelos industriais desenvolvidos em Portugal deverão ser considerados apenas em 80% no cálculo do lucro tributável do sujeito passivo. Avaliaremos novas deduções fiscais de gastos com PI (e.g., gastos com licenciamento e aquisição de tecnologias) e isenção de tributação de receitas de PI (royalties, venda de licenças, etc).
+
+#### 13.7.2. Taxas mais competitivas para patentes
+
+Baixaremos significativamente as taxas relativas ao registo e manutenção de patentes em setores tecnológicos (desde logo, inteligência artificial) e relacionados com as alterações climáticas, de forma a reduzir os custos associados à proteção de invenções em setores tecnológicos emergentes.
+
+#### 13.7.3. Especial atenção às startups
+
+Vamos facilitar o acesso das startups ao sistema de patentes, através de taxas especialmente reduzidas e do alargamento do período de isenção das anuidades para estas empresas.
+
+#### 13.7.4. Fast track
+
+Criaremos um exame acelerado de pedidos de registo de patentes para os setores que queremos estimular.
+
+## 14. ADAPTAR O MERCADO LABORAL AOS DESAFIOS DO FUTURO GLOBAL
+
+Portugal tem hoje muitos desafios na competição com outros países. A lei laboral é um dos elementos para os quais os investidores, nacionais e estrangeiros, mais olham quando estão a decidir os seus investimentos.
+
+A principal medida contra os abusos laborais é a possibilidade de alguém encontrar facilmente um outro emprego.
+
+Os partidos que têm uma visão responsável e focada no futuro deviam ter a capacidade de estabelecer consensos que garantam que não vamos perder oportunidades que facilmente são tomadas por outros.
+
+Não é possível ignorar que as transformações do Mundo estão a criar novas profissões, novas formas de trabalhar, novas formas de contratar, novas formas de encarar a vida profissional, novas formas de enquadrar as relações laborais.
+
+Se não podemos ignorar, também não podemos deixar de encontrar mecanismos que permitam que Portugal se adapte a essas transformações, criando condições para que mais e melhor emprego seja criado, para que os portugueses não percam mais oportunidades e direitos, para que as empresas reforcem a sua competitividade.
+
+### 14.1. Pode trabalhar-se a partir de casa
+
+Em várias áreas da economia é possível ao trabalhador, em conjunto com a empresa, definir um local de trabalho que permanente ou temporariamente ou parcialmente não seja na empresa, mas em casa. Regulamentaremos e incentivaremos este modelo de organização do trabalho.
+
+### 14.2. Direito ao desligamento
+
+É urgente consagrar, de forma efetiva, o direito ao desligamento do trabalhador, a fim de que este não receba chamadas telefónicas de trabalho, ou outras mensagens, salvo situações em que se preveja a necessidade de prevenção de situações urgentes.
+
+### 14.3. Novas formas de trabalho exigem mais liberdade
+
+Não é possível transformar Portugal num país de startups e depois impor-lhes modelos fechados de regulação, de tal forma que estas sejam incapazes de crescer e desenvolver. Nomeadamente no âmbito do empreendedorismo tecnológico, é importante permitir a autorregulação do horário do trabalho por parte do trabalhador ou definir o local de trabalho com critérios de mobilidade por iniciativa do trabalhador.
+
+### 14.4. Vamos adaptar nosso mercado de trabalho à Quarta Revolução Industrial
+
+Promoveremos o equilíbrio entre flexibilidade e segurança do trabalhador, assegurando o direito ao trabalho por vários empregadores, promovendo o direito à formação e à previsibilidade do seu trabalho.
+
+Vamos promover a oferta de formação em competências digitais e em novas tecnologias da quarta revolução industrial no âmbito da revolução que queremos fazer na formação profissional.
+
+### 14.5. Uma licença sabática a meio do percurso profissional
+
+Em sede de concertação social discutiremos a introdução de uma licença sabática para que, a meio da sua vida profissional, um adulto possa atualizar-se, no âmbito de uma oferta de formação modernizada e adaptada aos novos desafios profissionais.
+
+Na nossa perspetiva, depois de 20 anos de vida ativa, deverá ser possível ao trabalhador aceder a um ano de paragem, sem custos acrescidos para o empregador, para atualização profissional. Quem opte por esta paragem adiará por um ano a sua entrada na reforma.
+
+### 14.6. Melhorar a regulamentação coletiva de trabalho
+
+Reabriremos um debate com vista a melhorar a regulamentação coletiva de trabalho, nomeadamente retomar o acordo de concertação de 2014 que previa a redução dos prazos de caducidade e de sobrevivência dos contratos coletivos de trabalho.
+
+### 14.7. Simplificar a vida às PME
+
+Defendemos a publicação de uma versão simplificada do Código de Trabalho para as micro, pequenas e médias empresas.
+
+Temos uma visão prática que sabe distinguir as capacidades instaladas nas grandes empresas, das que não existem, ou constituem um fardo excessivo, nas PME’s. A própria legislação prevê exceções. Uma legislação laboral com menos procedimentos para as PME’s é, por isso, um bom princípio. Acreditamos que ela potencia a criação de novas empresas e empregos.
+
+### 14.8. Agilizar a contratação de trabalhadores estrangeiros
+
+É urgente agilizar o regime de entrada, permanência, saída e afastamento de estrangeiros, para acelerar o processo de contratação de trabalhadores estrangeiros, dando às empresas portuguesas a possibilidade de crescerem mais depressa, sem terem de se deslocar.
+
+### 14.9. Vamos rever a lei da greve
+
+A “lei da greve”, hoje regulada no Código do Trabalho, é na sua matriz do século passado, de um país mais fechado, mais dependente do mercado interno, menos exportador, menos exposto à globalização.
+
+Hoje a logística das empresas é organizada reduzindo ao mínimo os stocks, as exportações caminham para representar metade da riqueza criada no País e o turismo não para de crescer de ano para ano.
+
+As consequências imediatas de uma greve que paralise o país são por isso devastadoras, violando as liberdades de circulação - liberdades fundamentais em Portugal e na Europa, impedindo a distribuição de alimentos e medicamentos, colocando em causa a laboração e o trabalho de milhares de empresas e o sustento dos seus trabalhadores.
+
+Mas o impacto de uma greve que pare Portugal é muito maior e muito mais duradouro do que era quando a lei foi feita. O efeito reputacional nas empresas exportadoras e no turismo é difícil de prever na sua totalidade.
+
+É por isso legítima a pergunta de saber se hoje a lei não só está adequada à forma como se definem os serviços mínimos, como também se garante o cumprimento efetivo desses mesmos serviços mínimos, se assegura que ninguém está acima da lei e que a proteção do interesse público é garantida.
+
+Em Espanha, quando um trabalhador não cumpre os serviços mínimos, tem como penalização o despedimento. Em Portugal, o mesmo trabalhador tem uma falta injustificada.
+
+O Código do Trabalho não prevê qualquer penalização para o sindicato que, propositada e reiteradamente, não cumprir os serviços mínimos. O mesmo Código do Trabalho pune com prisão o empregador que não respeite as disposições legais da greve.
+
+Portugal não pode ficar refém de interesses corporativos que causem um dano geral muito maior que o interesse particular que prosseguem. A lei da greve tem, – e tem sempre de ter – limites: o limite do respeito pelas liberdades individuais e pela defesa do interesse comum.
+
+### 14.10. Liberdade não é ilegalidade
+
+Reforçaremos os mecanismos de fiscalização e penalização das ilegalidades em matéria laboral, nomeadamente nas contratações fraudulentas e nas situações discriminatórias e injustas. Parecem-nos especialmente preocupantes i) o recurso desmedido aos “falsos recibos verdes” ii) a persistência de discriminações efetivas, seja no salário seja na carreira, das mulheres que trabalham iii) o abuso nos estágios profissionais, desvirtuando a sua figura.
+
+As leis devem ser, nesta matéria, claras. Tão importante é dissuadir formas de contornar a rigidez das leis laborais, como adotar a flexibilidade como condição do crescimento, sem a qual os empregadores temem contratar ou deixam mesmo de o fazer.
+
+### 14.11. Reforçar os apoios à contratação
+
+Vamos reforçar os apoios à contratação para que se criem mais oportunidades de emprego e para mais facilmente se convertam, situações precárias em contratos mais estáveis, aumentando o limite máximo desses apoios no caso de criação de vínculo mais duradouro no prazo máximo de um ano após a entrada do trabalhador para a empresa.
+
+## 15. UMA ECONOMIA EXPORTADORA
+
+A nossa balança comercial está desequilibrada.
+
+Se dúvidas houvesse, poderíamos olhar para a Posição de Investimento Internacional. Este indicador integra não só as exportações, mas também as empresas que abrimos lá fora, e que os estrangeiros abrem cá, os investimentos em carteira.
+
+Este indicador está em negativo e acima 100% do PIB. Para se ter uma noção relativa, em 1996 este números rondava os -13%. Atualmente, a Holanda tem uma posição positiva de 69% do PIB. Tudo o que produzimos está de alguma forma comprometido com o exterior.
+
+A solução é, e será sempre, o crescimento económico. Mas há no CDS uma enorme diferença no nosso apelo ao “crescimento económico” em relação aos outros partidos à nossa esquerda.
+
+Nós queremos que o crescimento seja por via da produção, das exportações e de ganho de quota no mercado nacional. A produção é que induz o consumo; não o contrário. É na produção que atingiremos o nosso futuro.
+
+Do lado das esquerdas o crescimento económico ganha-se devolvendo (parcos) rendimentos à administração pública e estimulando o consumo. No passado, a ideia era investir sem qualquer critério de racionalidade económica. Foi esta a lógica de obsessão de mais gastos por via do Estado que que nos trouxe à situação de total asfixia financeira em que ainda nos encontramos mergulhados.
+
+### 15.1. Uma agência de crédito às exportações
+
+Tiraremos partido da Instituição Financeira de Desenvolvimento, transformando-o numa agência de crédito às exportações, à semelhança do que acontece em vários países europeus. O seu papel será o de facilitar a exportação, numa ótica financeira (i.e. com objetivo de lucro e não de subsidio), em co-financiamento com outras instituições financeiras.
+
+### 15.2. A dimensão não pode ser um problema
+
+A reduzida dimensão das PME não pode constituir um obstáculo à sua atividade exportadora. Daremos enquadramento regulatório a mecanismos simples de associação empresarial que agrupe empresas com objetivos comuns de exportação.
+
+### 15.3. Melhor financiamento à exportação
+
+Adequaremos os instrumentos de trade finance no apoio a empresas exportadoras.
+
+### 15.4. Seguros de crédito mais atrativos
+
+Precisamos de adequar a oferta de seguros de crédito em Portugal, permitindo às nossas empresas competir com as empresas oriundas de ordens jurídicas mais competitivas nesta matéria.
+
+### 15.5. Facilitar a vida a quem quer exportar
+
+Promoveremos a facilidade de procedimentos para deduções em sede do IRC em gastos no processo de internacionalização.
+
+### 15.6. Podemos incentivar mais
+
+Fomentaremos taxas de incentivos mais elevadas para projetos de internacionalização cujas empresas tenham um produto com o VAB superior à média das empresas nacionais, associados a um rácio de cobertura exportação/importação.
+
+### 15.7. Exigir mais da AICEP
+
+A restruturação da Agência para o Investimento e Comércio Externo de Portugal (AICEP) é fundamental na afirmação da vocação exportadora da nossa economia.AICEP deverá ser mais ativa na promoção externa das empresas solidificando uma diplomacia económica que permita contribuir para a globalização da economia portuguesa, identificando contactos/especialistas em cada mercado alvo, desagregados por indústria, que possam servir de ponto de informação para empresas que pretendem expandir ou exportar a sua atividade, inserido numa lógica de “diáspora de especialistas”.
+
+## 16. UMA VERDADEIRA POLÍTICA DE APOIO À MANUTENÇÃO E CAPTAÇÃO DE INVESTIMENTO
+
+Não é possível captar e manter investimento sem oferecer estabilidade regulatória, carga fiscal atrativa, oportunidades de crescimento e segurança jurídica. Precisamos, por isso, de apostar nesses eixos, e ser melhor do que os nossos principais concorrentes.
+
+### 16.1. Simplificar, simplificar, simplificar
+
+Temos de simplificar os fluxos e processos de investimento, através da redução do número de interlocutores, das sobreposições existentes e dos pareceres que afetem os investimentos, esvaziando o processo de discricionariedade em termos de produção de normativos e acelerando o princípio do diferimento tácito.
+
+A redução generalizada de custos de contexto que propomos neste Programa é vital para este objetivo de captação e manutenção de investimento.
+
+### 16.2. Promover, promover, promover
+
+Para captar investimento, Portugal tem de estar no radar dos investidores, destacando-se nos principais rankings seguidos pelos investidores internacionais.
+
+As nossas políticas devem avançar no sentido da promoção de Portugal como país amigo do investimento, seja no sentido de melhorar a sua posição nas publicações de rankings internacionais de referência, seja no sentido de evidenciar a competitividade de Portugal na imprensa internacional.
+
+Esta promoção deverá ser coordenada com as relevantes associações empresariais.
+
+### 16.3. Sem impostos baixos, não há investimento de qualidade
+
+A reforma do IRC, no sentido proposto pelo CDS neste Programa, é essencial para a captação e manutenção de investimento em Portugal.
+
+### 16.4. Compromisso firme com a estabilidade fiscal e regulamentar
+
+Ninguém estará disponível para investir em Portugal se não existir um compromisso firme com a estabilidade do quadro fiscal e com a harmonização de normas e legislação. Este deve ser um ponto de honra do Estado Português.
+
+### 16.5. Também aqui, exigir mais da AICEP
+
+Devem ser fixados à AICEP objetivos realistas, mas ambiciosos, de captação de Investimento Direto Estrangeiro (IDE), mensuráveis em volume de investimento, número de empresas e criação de postos de trabalho – um trabalho que deve ser feito em articulação com o setor privado e com as associações empresariais. Devemos encontrar áreas preferências de atuação, como as da economia digital, da economia verde e da economia azul, e estabelecer estratégias ativas muito concretas.
+
+### 16.6. Não esquecer a diáspora
+
+A diáspora nacional deve ser valorizada como comunidade privilegiada no cofinanciamento das empresas portuguesas, funcionando numa lógica dinâmica de promoção do empreendedorismo, de fundos de venture capital e business angels.
+
+## 17. SEM UM SISTEMA DE JUSTIÇA A FUNCIONAR, NENHUMA ECONOMIA CONSEGUE CRESCER
+
+Não há nenhuma economia que cresça sem que o sistema de justiça consiga, com rapidez e eficiência, julgar os litígios, proceder à cobrança de dívidas e dar confiança e tutela aos direitos de propriedade e de empresa.
+
+O CDS propõe, no capítulo próprio, uma ampla e sensata reforma da justiça, que contribuirá para tornar Portugal num país mais atrativo para o investimento, e que, entre outras coisas, determina o alargamento da rede e conceito de julgados de paz para incluir diferendos entre empresas, ou entre empresas e particulares, bem como o desenvolvimento de meios extrajudiciais para resolver disputas.
+
+## 18. CULTURA ONDE SE QUER E MENOS SE ESPERA
+
+A afirmação de Portugal no Mundo presume uma sociedade empenhada na salvaguarda e promoção da sua cultura.
+
+Não apenas como fator essencial de afirmação da sua identidade, ou como fator de qualificação e desenvolvimento da sua população, ou apenas como fator de coesão social da comunidade – mas como recurso estratégico nacional, instrumento essencial de um país antigo e aberto, de um país que participa e se projeta num Mundo global, sem o qual essa participação e projeção se frustra.
+
+O CDS entende que o Estado não tem de escolher e providenciar a produção de todos os bens culturais.
+
+Deve, sim, ao invés, garantir o acesso à experiência cultural a todos, e a independência criativa dos agentes culturais. Ele deve ser ainda o garante diligente da preservação da herança cultural, enquanto garante persistente da liberdade criativa ou mesmo da difusão artística.
+
+No âmbito da preservação da herança, o que é importante tem de ser salvaguardado. A conservação do património, que é um dos deveres primários do Estado, deve ser acompanhada de uma promoção do mesmo.
+
+No âmbito da criação cultural, o Estado deve abster-se de qualquer dirigismo: deve criar condições que mobilizem os agentes para a criação e oferta diversificada - do património e arquivos, às artes contemporâneas (literatura, artes visuais ou dos espetáculos), das artes performativas ao cinema, todas as expressões artísticas são a expressão e produção atual da nossa criatividade.
+
+### 18.1. Um Recurso Estratégico Nacional
+
+Parte essencial da nossa identidade como país, e da nossa vida como portugueses, a cultura é um recurso estratégico nacional. Não apenas como o herança, que nos chegou, mas como património vivo de experiência, expressão e criatividade.
+
+A forma como vemos o mundo, como nos exprimimos, como criamos, da língua à arte, é um recurso precioso que tem de ser protegido e desenvolvido.
+
+Atualmente, vivemos num país que nunca teve tantos equipamentos e tantos agentes culturais. No entanto, o acesso a cultura continua a ser insuficiente, os equipamentos são pouco utilizados e os agentes reclamam uma estratégia coordenada – nem as regiões nem os setores culturais são tratados de forma equitativa.
+
+A designação da cultura como recurso estratégico significa mais que o reconhecimento da importância da cultura no nosso país – implica um Ministério que trabalhe com os outros setores do Estado, da educação ao desenvolvimento económico, da coesão territorial às relações externas, como substrato da soberania.
+
+### 18.2. Uma Rede Nacional de Cultura
+
+A própria natureza na atividade cultural tem propensão para trabalhar em rede, para encontros e influências.
+
+Apesar disso, tirando alguns casos meritórios, a cooperação e articulação em rede são pouco realizadas. Se no caso do património, alguns casos - por contextualização e oportunidade – permitiram construir rotas e associações, nas artes performativas continuamos a ter equipamentos culturais pouco aproveitados e agentes que reclamam oportunidades. Existem, claro, exceções que nos demonstram o caminho e nos indicam as boas-práticas a seguir.
+
+Propomos o apoio a entidades de cooperação, regional ou intermunicipal, que já realizam projetos de programação e produção artística descentralizada.
+
+A avaliação dos projetos já existentes tem de levar ao apoio à criação de novas iniciativas, numa articulação entre o Estado e as autarquias locais, para valorizar e desenvolver os recursos em todo o território nacional.
+
+Este trabalho de articulação, entre as autarquias, os ministérios e, ainda, os agentes culturais, deve ser coordenada pelo Ministério– apoiando o que já existe e dando a oportunidade a novas iniciativas, de forma a permitir o acesso e a fruição cultural em todo o país.
+
+Por exemplo: Portugal adquiriu nos últimos anos um protagonismo turístico assinalável, pelo que é essencial aproveitar esta oportunidade de posicionamento cultural português a nível mundial. Não é aceitável que o Estado não promova um diálogo permanente entre cultura e turismo, que assente numa estratégia clara de projeção da rede de equipamentos culturais, património e programação regionais enquanto agregador de novas potencialidades turístico-culturais desaproveitadas.
+
+### 18.3. Um Património vivo
+
+A experiência cultural não é divisível, de forma estanque, entre património e criação. Um ministério que tutele a cultura é um ministério de «bens culturais», antigos e modernos, existentes e em processo, materiais e imateriais.
+
+Dadas as insuficiências do mercado, e o cunho minoritário de certas expressões artísticas, algumas artes (o caso típico é a ópera) não são financeiramente viáveis sem alguma forma de apoio. A inexistência de tais apoios, ou de criação de condições mais favoráveis a que esses apoios surjam, impediria o acesso a essas expressões artísticas, condenadas à extinção, empobrecendo assim a diversidade cultural do País.
+
+Sendo os casos e as necessidades diferentes, a ação governativa deve também ser diferente, num respeito do princípio da subsidiariedade, com a noção clara de que o Estado não deve interferir nem instituir políticas de gosto.
+
+#### 18.3.1. Nos Teatros e uma Companhia verdadeiramente nacionais
+
+Os organismos nacionais de produção artística – os Teatros Nacionais D. Maria, São Carlos, São João e a Companhia Nacional de Bailado – têm especial responsabilidade na proteção e continuação do reportório reconhecido, mas são também espaço de excelência para novas interpretações. Tem de ser corrigida a suborçamentação que tem levado não só a conflitos laborais como ao risco dos próprios equipamentos.
+
+No entanto, sedeados em Lisboa e no Porto, são raras as produções no resto do País. Deve ser prevista uma fórmula de incentivo à realização de digressões e espetáculos por todo território – permitindo assim que sejam verdadeiramente nacionais.
+
+#### 18.3.2. Nos Museus, Monumentos e Sítios Arqueológicos
+
+Contra o consenso no setor, o governo socialista tentou impor uma falsa solução de autonomia que, após várias tentativas falhadas, resultou num fraco desenlace sem resultados.
+
+Propomos uma verdadeira autonomia para os museus, monumentos e sítios, reconhecendo as suas diferenças, e responsabilizando o Estado central por aqueles que precisam mais de ajuda. Também aqui, o trabalho em rede pode fazer sentido, mas nunca numa imposição centralista.
+
+Também as entradas gratuitas nos Monumentos, Palácios e Museus sob tutela da Direção Geral do Património Cultural – atualmente gratuitas aos domingos e feriados até às 14h00 – devem passar a ser definidas pelos próprios equipamentos. Isto não só permite uma colaboração em rede, em que uns não prejudicam outros, como permite aumentar os visitantes – especialmente famílias – que podem assim melhor planear a experiência cultural.
+
+#### 18.3.3. Com as pessoas
+
+Na área da cultura, cabe ao Estado uma democratização do acesso aos bens culturais, respeitando a liberdade de escolha individual.
+
+Como se escreve num dos documentos produzidos pelo Grupo de Ofir, em 1985, que deu ao país um dos seus melhores ministros da Cultura, Francisco Lucas Pires: “Num sistema pluralista, o Estado não é, pois, o dispensador da Cultura, nem primordialmente um agente cultural. O Estado detém, no entanto, um vasto património que deve preservar, renovar e facultar à livre fruição cultural”.
+
+A filosofia que subjaz a esta política é clara: “O Estado só promove a Cultura na medida em que a liberte, isto é, na medida em que contribui (ao lado de fundações, associações, etc…) para a existência de condições favoráveis ao livre desenvolvimento da acção dos agentes culturais”.
+
+Propomos realizar, como em outros países que o têm feito com sucesso, uma aplicação móvel, georreferenciada, que permite a cada um saber o que pode visitar ou quais os espetáculos podem ver, em cada altura em cada região. Os agentes culturais inscrevem as suas produções que, ao serem incluídas, aumentam a sua divulgação.
+
+#### 18.3.4. Nas Artes
+
+Após várias revisões e retrocessos, e mesmo com um aumento orçamental para colmatar o falhanço do concurso de apoios da Direção-Geral das Artes, ficou claro que o atual sistema continua a ter de ser revisto.
+
+Desde logo, as entidades que participam têm de ter capacidade de gestão cultural profissional, e esse é um apoio que – apesar do aumento de gestores culturais – que deve ser incentivado – e o papel informal que algumas direções regionais fornecem deve ser oficializado e aumentado – para que se tornem sustentáveis. A experiência de ajuda online não chegou para evitar vários problemas e tem de ser coordenada, especialmente para garantir o sucesso de apoios em áreas de baixa densidade.
+
+#### 18.3.5. Nas Artes Visuais, Arquitetura, Design
+
+O facto, histórico, de estas áreas artísticas não receberem apoios do Estado não quer dizer que não devam ser especialmente promovidas – porque também são nestas áreas que valores nacionais se destacam e são reconhecidos.
+
+Propomos que, além da promoção internacional – em bienais e feiras –, se acompanhe as iniciativas de residências artísticas que autarquias, fundações e privados realizam.
+
+#### 18.3.6. Nos Arquivos e Bibliotecas
+
+Continuamos a propor a plena digitalização e interoperabilidade dos arquivos do Estado, e a construção de redes com articulação entre bibliotecas e arquivos autárquicos e privados. É um obrigação do Estado permitir acesso ao seu espólio. Os arquivos têm de ser vivos.
+
+Deve ser realizada uma campanha para aumentar os depósitos de arquivos privados, incluindo de empresas. O Arquivo Sonoro Nacional, após anos de espera e estudos, deve finalmente ser concretizado.
+
+Propomos a constituição de redes digitais de leitura, resolvendo o problema dos licenciamentos de direitos de livros digitais, para que possam ser acessíveis a todos.
+
+#### 18.3.7. No património que se vive
+
+A visibilidade de casos de sucesso de candidaturas a património Imaterial aumentaram a vontade, na sociedade civil, de um maior reconhecimento deste património. O Estado deve passar a ter um ponto de contacto para estes processos, para ajudar e acompanhar as propostas – muitas vezes locais – de classificação.
+
+A etnografia nacional tem sido o parente pobre das expressões culturais, arredada para competências autárquicas e associativas. O Estado tem um dever de salvaguardar esta expressão popular e contribuir para o seu estudo. As tradições e expressões culturais portuguesas são tanto uma identidade de uns como património de todos.
+
+#### 18.3.8. No Cinema, Audiovisual, Digital
+
+A revisão dos diplomas do cinema e do audiovisual, que foram contrariadas por todos os partidos parlamentares, continua a não resolver com equidade qual o papel de cada um no setor.
+
+Os financiadores privados – os operadores e exibidores – têm um papel relevante e devem ser ouvidos nas prioridades estratégicas anuais e plurianuais, mas não nos júris de concursos. O ICA deve passar, com transparência, a avaliar o setor como os seus próprios apoios, inclusive à internacionalização – que tem de aumentar.
+
+Por outro lado, é hora de desburocratizar e agilizar todos estes procedimentos. Impõe-se igualmente uma política de digitalização do património cinematográfico português, reforçando a consciência de que se trata de um património, preservado em suportes perecíveis.
+
+### 18.4. A Língua
+
+Não podemos falar da Língua Portuguesa sem assumir que a ideia central do Acordo Ortográfico de 1990 – uma ortografia unificada – falhou. Pela nossa parte, pode e deve ser avaliado quanto aos seus efeitos e problemas, tanto no uso da Língua como a nível internacional.
+
+Sucede que o Acordo é um tratado internacional, assinado com países amigos e da maior importância para Portugal, e que está em vigor.
+
+Assim, sem prejuízo do respeito pela palavra do Estado Português, que evidentemente respeitamos, qualquer reavaliação do mesmo, que defendemos, deve sempre ser feita em contacto diplomático com esses países amigos (incluindo os que não o ratificaram), e sem excluir a sociedade civil.
+
+A promoção da Língua implica um continuado esforço na sua internacionalização – através do Instituto Camões, dos leitorados e das escolas portuguesas -, dos apoios nas traduções e na edição, e no acompanhamento tecnológico.
+
+Esta é uma tarefa de todo o Governo, em todas as áreas. A política pública da Língua e da literacia tem de ser transversal e envolver todos, não pode ser restrita ao Plano Nacional de Leitura.
+
+### 18.5. A Educação
+
+Ao longo da última década existiram várias iniciativas de articulação entre a cultura e a educação.
+
+Infelizmente, mais uma vez o governo socialista decidiu criar um novo Plano sem sequer avaliar e aprender com os anteriores.
+
+A inserção cultural, no âmbito do percurso de ensino obrigatório, tem de apoiar e desenvolver as boas-práticas já existentes, sem querer inventar tudo de novo, e deve ser realizada com articulação com os recursos artísticos locais.
+
+### 18.6. Um Ministério articulado e virado para fora
+
+A existência de um Ministério significa que a sua estrutura tem de ter quadros preparados e em número suficiente para a sua função. Hoje, temos um ministério exaurido e envelhecido sem o necessário rejuvenescimento. Os seus órgãos, como o Conselho Nacional de Cultura, que aconselha o Governo e tem membros da sociedade civil, tem de voltar a ter a relevância de ser uma estrutura imprescindível.
+
+Propomos a revisão da Lei do Mecenato, que hoje serve apenas como forma de financiamento de estruturas estatais sub-orçamentadas. O papel do Ministério das Finanças, como decisor último do mecenato, transformou-se no obstáculo ao apoio privado a projetos culturais.
+
+O Ministério tem de saber articular a sua função com toda a administração central, por isso propomos a Rede Nacional de Cultura, mas também tem de trabalhar em rede com as suas estruturas internas – por exemplo, o apoio a internacionalização não pode continuar descoordenado entre o Instituto Camões e a DGArtes ou o ICA.
+
+Se consideramos que a cultura é um recurso estratégico nacional, o seu ministério tem de ser capaz de acompanhar todos os projetos que necessitam de formalização, de forma rápida e eficaz. Por exemplo, deve estar preparado para o investimento na cultura, como no restauro ou requalificação de património classificado. Ou, seja, nas novas indústrias culturais, como no turismo, em que não pode ser um entrave burocrático – que afasta o investimento - mas um decisor eficaz.
+
+## 19. MAIS DO QUE UM DESTINO TURÍSTICO
+
+O turismo é um setor que o CDS conhece bem.
+
+Desempenha uma função estratégica no crescimento da economia portuguesa, nomeadamente pelo incremento do seu contributo líquido para a nossa balança externa. Mas não se fica por aqui. O turismo é responsável pelo renascimento ou rejuvenescimento de parcelas significativas do território, sendo hoje uma oportunidade de emprego e de futuro. É pena que haja tantos setores políticos a passar uma imagem errada do contributo deste setor.
+
+Faremos no turismo o que já fizemos no governo anterior: adotando medidas que contribuam para o reforço da competitividade do setor, seja no que diz respeito à desburocratização e à redução de custos de contexto, seja no que toca às orientações de promoção do destino Portugal.
+
+Para os próximos quatros anos dois grandes desafios se apresentam às políticas públicas, a somar ao da competitividade do destino: a qualificação dos recursos humanos, para que acompanhem o sucesso do setor e encontrem melhores condições profissionais e académicas, e a transformação de Portugal num destino turístico inteligente, onde toda a inovação digital no setor se pode viver, experimentar, testar e estudar.
+
+### 19.1. Desburocratizar, desburocratizar, desburocratizar
+
+Vamos flexibilizar a legislação relevante para o setor, por forma a permitir o desenvolvimento, pelos agentes privados, de produtos turísticos diversificados, que respondam eficazmente à procura turística.
+
+Sem este esforço, o setor privado fica limitado e condicionado na sua ação. Analisaremos, em colaboração com o setor privado, toda a cadeia de valor do turismo, para identificar custos de contexto, a montante e a jusante, da atividade turística, que estejam a limitar a competitividade do setor.
+
+### 19.2. Destino turístico inteligente
+
+Transformaremos Portugal num destino turístico inteligente, colocando o foco na sustentabilidade social, cultural, económica e ambienta do destino, promovendo o uso de novas tecnologias (big data e análise de dados, inteligência artificial, internet das coisas, sensorização), eficiência energética e uso de energias renováveis, estratégias de reciclagem e economia circular, melhoria dos recursos naturais e culturais e a acessibilidade universal.
+
+### 19.3. Aproveitar a digitalização
+
+Faremos uso intensivo das potencialidades da economia digital para manter contato direto com os turistas antes, durante e depois da visita, para que o turista tenha informações completas sobre o destino e possa melhorar a sua experiência e aumentar o consumo.
+
+### 19.4. Reforçar a Gestão do Conhecimento
+
+Reforçaremos o Sistema de Business Intelligence no Turismo de Portugal, que permita ao setor aceder a informação completa e relevante, não só sobre a atividade turística em termos genéricos, mas também sobre métricas que ajudem à seleção de investimentos, à avaliação da eficácia da promoção turística, no apoio ao empreendedorismo, etc.
+
+### 19.5. Um caso de sucesso
+
+Apresentar ao meio empresarial, académico e empreendedor, o setor do turismo como um caso de sucesso, criando parcerias para que possa ser neste setor que são experimentadas novas tecnologias e fórmulas, transformando o país num destino de investigação e experiência em turismo.
+
+### 19.6. Competitividade nunca é demais
+
+Continuaremos a agir diretamente sobre os fatores que influenciam os rankings setoriais de competitividade internacional, para reforçar a atratividade de Portugal como destino de investimento turístico.
+
+### 19.7. Reforçar o papel dos privados na promoção
+
+Associaremos estreitamente o setor privado à definição, execução e avaliação da componente política de promoção do Destino Portugal, financiada com fundos comunitários, bem como as Agências Regionais de Promoção Turística.
+
+### 19.8. Vender, vender, vender
+
+Aprofundaremos a vertente de apoio à comercialização da política de promoção, de modo a que a promoção do destino possa servir também para apoiar e complementar o esforço comercial do setor privado, através da atuação junto de operadores turísticos, de canais de distribuição dos mercados externos, de workshops, fam trips, etc.
+
+### 19.9. Melhorar as condições de reembolso de IVA
+
+Melhoraremos as condições de reembolso de IVA aos turistas para promover a Portugal como destino de compras e incentivar os gastos com o comércio nacional.
+
+### 19.10. A urgente qualificação dos recursos humanos
+
+Centraremos a ação das Escolas de Hotelaria e Turismo (EHT) na inserção profissional, preparando os profissionais do setor turismo para atrair, receber e fidelizar turistas, envolvendo o setor privado na definição e preparação da oferta formativa das escolas, de modo a adequá-la às reais necessidade do setor.
+
+### 19.11. Financiamento associado a rankings transparentes
+
+Ligaremos o financiamento público das EHT à publicitação de indicadores, quantitativos e qualitativos, sobre a oferta formativa de cada uma das escolas e sobre os resultados dessa formação, sobretudo no que à inserção profissional diz respeito, para que os alunos possam escolher de forma informada a escola que frequentam.
+
+### 19.12. Articular a rede de EHT com as de outras entidades públicas que oferecem formação profissional ou avançada
+
+É essencial uma articulação entre toda a oferta formativa (ex.: IEFP, Universidades, Institutos Politécnicos, Escolas Profissionais, etc.), para evitar a duplicação de funções e da oferta formativa pública na área do Turismo e para exponenciar os seus efeitos.
